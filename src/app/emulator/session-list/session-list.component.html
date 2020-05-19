@@ -1,0 +1,12 @@
+<div *ngIf="viewModel">
+  <div class="row">
+    <div class="col-2" *ngFor="let session of viewModel.sessions">
+      {{ session.title }}
+      <button class="btn btn-primary">Open</button>
+    </div>
+  </div>
+
+  <button class="btn btn-primary" (click)="onAdd()">
+    Add
+  </button>
+</div>

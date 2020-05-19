@@ -1,0 +1,213 @@
+<div class="container" *ngIf="viewModel">
+  <div class="accordion" id="accordionLayout">
+    <div class="card">
+      <div class="card-header d-flex" id="sessionCard">
+        <button
+          class="d-flex flex-grow-1 justify-content-between align-items-center btn"
+          type="button"
+          data-toggle="collapse"
+          data-target="#sessionCardContent"
+          aria-expanded="false"
+          aria-controls="sessionCardContent"
+        >
+          <div class="flex-grow-1 text-left">
+            {{ viewModel.sessionTitle }}
+          </div>
+          <div class="badge badge-pill badge-secondary">
+            {{ viewModel.session.chaos }}
+          </div>
+        </button>
+      </div>
+      <div
+        id="sessionCardContent"
+        class="collapse"
+        aria-labelledby="sessionCard"
+        data-parent="#accordionLayout"
+      >
+        <div class="card-body">
+          <form>
+            <div class="row">
+              <div class="col-md">
+                <div class="from-group">
+                  <label for="title">Session Title</label>
+                  <input
+                    type="text"
+                    class="form-control"
+                    id="title"
+                    name="title"
+                    [(ngModel)]="title"
+                  />
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="form-group">
+                  <label for="">Chaos</label>
+                  <div class="btn-toolbar d-flex justify-content-around">
+                    <button
+                      class="btn btn-primary flex-grow-1"
+                      (click)="onAdjustChaos(-1)"
+                    >
+                      -
+                    </button>
+                    <button class="btn flex-grow-1">
+                      {{ chaos }}
+                    </button>
+                    <button
+                      class="btn btn-primary flex-grow-1"
+                      (click)="onAdjustChaos(1)"
+                    >
+                      +
+                    </button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header d-flex" id="playerCharactersCard">
+        <button
+          class="btn collapsed flex-grow-1 text-left d-flex justify-content-between align-items-center"
+          type="button"
+          data-toggle="collapse"
+          data-target="#playerCharactersContent"
+          aria-expanded="false"
+          aria-controls="playerCharactersContent"
+        >
+          <div class="flex-grow-1">
+            PCs
+          </div>
+          <div class="badge badge-pill badge-secondary">
+            {{ viewModel.playerCharacters.length }}
+          </div>
+        </button>
+      </div>
+      <div
+        id="playerCharactersContent"
+        class="collapse"
+        aria-labelledby="playerCharactersCard"
+        data-parent="#accordionLayout"
+      >
+        <div class="card-body">
+          <button class="btn btn-primary" (click)="onAddItem('PC')">
+            Add
+          </button>
+          <div
+            *ngFor="let item of playerCharacters"
+            (click)="onSelectedItem(item)"
+          >
+            {{ item.name }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header d-flex" id="nonPlayerCharactersCard">
+        <button
+          class="btn collapsed flex-grow-1 text-left d-flex justify-content-between align-items-center"
+          type="button"
+          data-toggle="collapse"
+          data-target="#nonPlayerCharactersContent"
+          aria-expanded="false"
+          aria-controls="nonPlayerCharactersContent"
+        >
+          <div class="flex-grow-1">
+            NPCs
+          </div>
+          <div class="badge badge-pill badge-secondary">
+            {{ viewModel.nonPlayerCharacters.length }}
+          </div>
+        </button>
+      </div>
+      <div
+        id="nonPlayerCharactersContent"
+        class="collapse"
+        aria-labelledby="nonPlayerCharactersCard"
+        data-parent="#accordionLayout"
+      >
+        <div class="card-body">
+          <button class="btn btn-primary" (click)="onAddItem('NPC')">
+            Add
+          </button>
+          <div
+            *ngFor="let item of nonPlayerCharacters"
+            (click)="onSelectedItem(item)"
+          >
+            {{ item.name }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header d-flex" id="threadCard">
+        <button
+          class="btn collapsed flex-grow-1 text-left d-flex justify-content-between align-items-center"
+          type="button"
+          data-toggle="collapse"
+          data-target="#threadContent"
+          aria-expanded="false"
+          aria-controls="threadContent"
+        >
+          <div class="flex-grow-1">
+            Threads
+          </div>
+          <div class="badge badge-pill badge-secondary">
+            {{ viewModel.threads.length }}
+          </div>
+        </button>
+      </div>
+      <div
+        id="threadContent"
+        class="collapse"
+        aria-labelledby="threadCard"
+        data-parent="#accordionLayout"
+      >
+        <div class="card-body">
+          <button class="btn btn-primary" (click)="onAddItem('Thread')">
+            Add
+          </button>
+          <div *ngFor="let item of threads" (click)="onSelectedItem(item)">
+            {{ item.name }}
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header d-flex" id="headingScenes">
+        <button
+          class="btn collapsed flex-grow-1 text-left d-flex justify-content-between align-items-center"
+          type="button"
+          data-toggle="collapse"
+          data-target="#scenesContent"
+          aria-expanded="false"
+          aria-controls="scenesContent"
+        >
+          <div class="flex-grow-1">
+            Scenes
+          </div>
+          <div class="badge badge-pill badge-secondary">
+            {{ viewModel.session.scenes.length }}
+          </div>
+        </button>
+      </div>
+      <div
+        id="scenesContent"
+        class="collapse"
+        aria-labelledby="scenesCard"
+        data-parent="#accordionLayout"
+      >
+        <div class="card-body">
+          <button class="btn btn-primary" (click)="onAddScene()">
+            Add
+          </button>
+          <div *ngFor="let scene of scenes" (click)="onSelectedScene(scene)">
+            {{ scene.title }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <router-outlet></router-outlet>
+</div>

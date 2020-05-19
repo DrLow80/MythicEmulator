@@ -1,0 +1,53 @@
+<div class="container" *ngIf="viewModel">
+  <form>
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input
+        type="text"
+        class="form-control"
+        id="name"
+        name="name"
+        [(ngModel)]="item.name"
+      />
+    </div>
+    <div class="row">
+      <div class="col">
+        <div class="form-group">
+          <label for="type">Type</label>
+          <select
+            name="type"
+            id="type"
+            class="form-control"
+            [(ngModel)]="item.type"
+          >
+            <option *ngFor="let type of itemTypes">
+              {{ type }}
+            </option>
+          </select>
+        </div>
+      </div>
+      <div class="col">
+        <div class="form-group">
+          <label for="enabled">Enabled</label>
+          <input
+            type="checkbox"
+            class="form-control"
+            id="enabled"
+            name="enabled"
+            [(ngModel)]="item.enabled"
+          />
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <label for="description">Description</label>
+      <input
+        type="text"
+        class="form-control"
+        id="description"
+        name="description"
+        [(ngModel)]="item.description"
+      />
+    </div>
+  </form>
+</div>

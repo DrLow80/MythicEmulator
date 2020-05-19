@@ -1,0 +1,295 @@
+<div *ngIf="viewModel">
+  <ul ngbNav #nav="ngbNav" [(activeId)]="viewModel.active" class="nav-tabs">
+    <li [ngbNavItem]="1">
+      <a ngbNavLink>Scene</a>
+      <ng-template ngbNavContent>
+        <form>
+          <div class="row">
+            <div class="col">
+              <div class="form-group">
+                <label for="title">Title</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="title"
+                  name="title"
+                  [(ngModel)]="scene.title"
+                />
+              </div>
+            </div>
+            <div class="col">
+              <div class="form-group">
+                <div
+                  *ngIf="!scene.completed"
+                  class="btn-group btn-block"
+                  role="group"
+                  aria-label="Basic example"
+                >
+                  <button class="btn btn-success" (click)="onCompleted(1)">
+                    Success
+                  </button>
+                  <button class="btn btn-danger" (click)="onCompleted(-1)">
+                    Failure
+                  </button>
+                </div>
+              </div>
+              <div *ngIf="scene.completed">
+                Completed
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col">
+              <div class="form-group">
+                <label for="action">Action</label>
+                <select
+                  name="action"
+                  id="action"
+                  class="form-control"
+                  [(ngModel)]="scene.action"
+                >
+                  <option *ngFor="let action of actions" [ngValue]="action">
+                    {{ action }}
+                  </option>
+                </select>
+              </div>
+            </div>
+            <div class="col">
+              <div class="form-group">
+                <label for="subject">Subject</label>
+                <select
+                  name="subject"
+                  id="subject"
+                  class="form-control"
+                  [(ngModel)]="scene.subject"
+                >
+                  <option *ngFor="let subject of subjects" [ngValue]="subject">
+                    {{ subject }}
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col">
+              <div class="form-group">
+                <label for="focus">Focus</label>
+                <select
+                  name="focus"
+                  id="focus"
+                  class="form-control"
+                  [(ngModel)]="scene.focus"
+                >
+                  <option *ngFor="let focus of focuses" [ngValue]="focus">
+                    {{ focus }}
+                  </option>
+                </select>
+              </div>
+            </div>
+            <div class="col">
+              <div class="form-group">
+                <label for="status">Status</label>
+                <select
+                  name="status"
+                  id="status"
+                  class="form-control"
+                  [(ngModel)]="scene.status"
+                >
+                  <option *ngFor="let status of allSceneStatuses">
+                    {{ status }}
+                  </option>
+                </select>
+              </div>
+            </div>
+          </div>
+
+          <div class="form-group">
+            <label for="description">Description</label>
+            <input
+              type="text"
+              class="form-control"
+              id="description"
+              name="description"
+              [(ngModel)]="scene.description"
+            />
+          </div>
+        </form>
+        <p *ngFor="let question of scene.questions">
+          {{ question.content }}
+          <br />
+          {{ question.description }}
+        </p>
+      </ng-template>
+    </li>
+    <li [ngbNavItem]="2">
+      <a ngbNavLink>Items</a>
+      <ng-template ngbNavContent>
+        <button class="btn btn-primary" (click)="onAddItem()">Add</button>
+
+        <form *ngIf="item">
+          <div class="form-group">
+            <label for="name">Name</label>
+            <input
+              type="text"
+              class="form-control"
+              id="name"
+              name="name"
+              [(ngModel)]="item.name"
+            />
+          </div>
+          <div class="form-group">
+            <label for="description">Description</label>
+            <input
+              type="text"
+              class="form-control"
+              id="description"
+              name="description"
+              [(ngModel)]="item.description"
+            />
+          </div>
+          <div class="form-group">
+            <label for="type">Type</label>
+            <select
+              name="type"
+              id="type"
+              class="form-control"
+              [(ngModel)]="item.type"
+            >
+              <option *ngFor="let type of itemTypes">
+                {{ type }}
+              </option>
+            </select>
+          </div>
+        </form>
+
+        <div *ngFor="let i of scene.items">
+          <hr />
+          <div (click)="onSelectedItem(i)" [class.alert-dark]="item === i">
+            <p>
+              {{ i.name }}
+              <br />
+              {{ i.description }}
+            </p>
+          </div>
+        </div>
+      </ng-template>
+    </li>
+    <li [ngbNavItem]="3">
+      <a ngbNavLink>Questions</a>
+      <ng-template ngbNavContent>
+        <button class="btn btn-primary" (click)="onAddQuestion()">Add</button>
+
+        <form *ngIf="question">
+          <div class="form-group">
+            <label for="content">Question</label>
+            <input
+              type="text"
+              class="form-control"
+              id="content"
+              name="content"
+              [(ngModel)]="question.content"
+            />
+          </div>
+          <div class="form-group" *ngIf="!question.fateResult">
+            <div class="btn-group btn-block" role="group">
+              <button
+                class="btn btn-danger"
+                (click)="onGetFateResult('Impossible')"
+              >
+                Impossible
+              </button>
+              <button
+                class="btn btn-danger"
+                (click)="onGetFateResult('No Way')"
+              >
+                No Way
+              </button>
+              <button
+                class="btn btn-danger"
+                (click)="onGetFateResult('Very Unlikely')"
+              >
+                Very Unlikely
+              </button>
+              <button
+                class="btn btn-danger"
+                (click)="onGetFateResult('Unlikely')"
+              >
+                Unlikely
+              </button>
+            </div>
+            <button
+              class="btn btn-primary btn-block"
+              (click)="onGetFateResult('50 50')"
+            >
+              50 50
+            </button>
+            <div class="btn-group btn-block" role="group">
+              <button
+                class="btn btn-success"
+                (click)="onGetFateResult('Somewhat Likley')"
+              >
+                Somewhat Likley
+              </button>
+              <button
+                class="btn btn-success"
+                (click)="onGetFateResult('Likely')"
+              >
+                Likely
+              </button>
+              <button
+                class="btn btn-success"
+                (click)="onGetFateResult('Very Likely')"
+              >
+                Very Likely
+              </button>
+              <button
+                class="btn btn-success"
+                (click)="onGetFateResult('Near Sure Thing')"
+              >
+                Near Sure Thing
+              </button>
+              <button
+                class="btn btn-success"
+                (click)="onGetFateResult('A Sure Thing')"
+              >
+                A Sure Thing
+              </button>
+              <button
+                class="btn btn-success"
+                (click)="onGetFateResult('Has To Be')"
+              >
+                Has To Be
+              </button>
+            </div>
+          </div>
+
+          <div class="form-group" *ngIf="question.fateResult">
+            <label for="fateResult">Fate Result</label>
+            <select
+              name="fateResult"
+              id="fateResult"
+              class="form-control"
+              [(ngModel)]="question.fateResult"
+              *ngIf="question.fateResult"
+            >
+              <option *ngFor="let fateResult of fateResults">
+                {{ fateResult }}
+              </option>
+            </select>
+          </div>
+        </form>
+
+        <div *ngFor="let question of scene.questions">
+          <hr />
+          <div (click)="onSelectedQuestion(question)">
+            <p>{{ question.content }} ? {{ question.fateResult }}</p>
+          </div>
+        </div>
+      </ng-template>
+    </li>
+  </ul>
+
+  <div [ngbNavOutlet]="nav" class="mt-2"></div>
+</div>
