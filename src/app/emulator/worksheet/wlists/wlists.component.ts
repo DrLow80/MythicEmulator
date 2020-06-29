@@ -17,31 +17,31 @@ export class WlistsComponent implements OnInit {
   constructor(private service: WorksheetViewModelService) {}
 
   get nonPlayerCharacters(): IWorksheetItem[] {
-    return this.model.nonPlayerCharacters;
+    return this.model.items.fetch('PC');
   }
 
   get playerCharacters(): IWorksheetItem[] {
-    return this.model.playerCharacters;
+    return this.model.items.fetch('NPC');
   }
 
   get threads(): IWorksheetItem[] {
-    return this.model.threads;
+    return this.model.items.fetch('Thread');
   }
 
   createNonPlayerCharacter(): void {
-    this.model.addItem(this.newNonPlayerCharacterName, 'NPC');
+    this.model.items.add(this.newNonPlayerCharacterName, 'NPC');
 
     this.newNonPlayerCharacterName = '';
   }
 
   createPlayerCharacter(): void {
-    this.model.addItem(this.newPlayerCharacterName, 'PC');
+    this.model.items.add(this.newPlayerCharacterName, 'PC');
 
     this.newPlayerCharacterName = '';
   }
 
   createThread(): void {
-    this.model.addItem(this.newThreadName, 'Thread');
+    this.model.items.add(this.newThreadName, 'Thread');
 
     this.newThreadName = '';
   }

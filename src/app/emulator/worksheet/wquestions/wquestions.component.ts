@@ -10,14 +10,10 @@ import { FateOdd } from '../../shared/content';
   styleUrls: ['./wquestions.component.css'],
 })
 export class WquestionsComponent implements OnInit {
-  questionText = '';
   model: WorksheetModel;
+  questionText = '';
 
   constructor(private service: WorksheetViewModelService) {}
-
-  ngOnInit(): void {
-    this.service.load().subscribe((arg) => (this.model = arg));
-  }
 
   get isEnabled(): boolean {
     return !!this.model.currentScene;
@@ -28,12 +24,12 @@ export class WquestionsComponent implements OnInit {
   }
 
   addQuestion(value: FateOdd) {
-    if (!this.questionText) {
-      return;
-    }
-
     this.model.addQuestion(value, this.questionText);
 
     this.questionText = '';
+  }
+
+  ngOnInit(): void {
+    this.service.load().subscribe((arg) => (this.model = arg));
   }
 }

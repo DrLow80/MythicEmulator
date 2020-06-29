@@ -14,7 +14,7 @@ export class WorksheetComponent implements OnInit {
   constructor(private service: WorksheetViewModelService) {}
 
   get chaos(): number {
-    return this.model.chaos;
+    return this.model.chaos.value;
   }
 
   get currentScene(): any {
@@ -32,11 +32,11 @@ export class WorksheetComponent implements OnInit {
   }
 
   onDecreaseChaosClick(): void {
-    this.model.decreaseChaos();
+    this.model.chaos.decrease();
   }
 
   onIncreaseChaosClick(): void {
-    this.model.increaseChaos();
+    this.model.chaos.increase();
   }
 
   onSelectScene(value: IWorksheetScene): void {

@@ -15,7 +15,7 @@ export const WorksheetFocuses: IFocus[] = [
     definition:
       'Something important has happened that bears on the adventure, but the player characters were not present when the event occurred. This can result in many ways, from a non-player character telling them some piece of news, to coming across evidence of this other event. A remote event can either by implied or directly stated.',
     selectItem(model: WorksheetModel) {
-      return oneRandomThing(model.enabledItems);
+      return oneRandomThing(model.items.items);
     },
   },
   {
@@ -23,7 +23,7 @@ export const WorksheetFocuses: IFocus[] = [
     definition:
       'An existing non-player character makes a surprise action. The next step, event meaning, will help determine what this character actually does.',
     selectItem(model: WorksheetModel) {
-      return oneRandomThing(model.enabledNonPlayerCharacters);
+      return oneRandomThing(model.items.fetchEnabled('NPC'));
     },
   },
   {
@@ -31,12 +31,8 @@ export const WorksheetFocuses: IFocus[] = [
     definition:
       'A brand new face is involved in the adventure. This may be someone the player characters had expected to meet, or a surprise. The character does not need to be an individual but can be any entity capable of independent action, such as an organized group of townspeople or a government agency.',
     selectItem(model: WorksheetModel) {
-      const newNPC: IWorksheetItem = {
-        name: 'NEW NPC',
-        enabled: true,
-        type: 'NPC',
-      };
-      model.items.push(newNPC);
+      const newNPC = model.items.add('NEW NPC', 'NPC');
+
       return newNPC;
     },
   },
@@ -45,7 +41,7 @@ export const WorksheetFocuses: IFocus[] = [
     definition:
       'This random event has something to do directly with resolving an open thread.',
     selectItem(model: WorksheetModel) {
-      return oneRandomThing(model.enabledThreads);
+      return oneRandomThing(model.items.fetchEnabled('Thread'));
     },
   },
   {
@@ -53,7 +49,7 @@ export const WorksheetFocuses: IFocus[] = [
     definition:
       'This random event makes resovling a thread harder. Introduce a new aspect related to this thread that raises more questions.',
     selectItem(model: WorksheetModel) {
-      return oneRandomThing(model.enabledThreads);
+      return oneRandomThing(model.items.fetchEnabled('Thread'));
     },
   },
   {
@@ -61,7 +57,7 @@ export const WorksheetFocuses: IFocus[] = [
     definition:
       'The random event is so important it actually closes an open thread. To close a thread, the thread is either resolved or the issue goes away. Figure out what the most logical way to immediately close the thread would be.',
     selectItem(model: WorksheetModel) {
-      const item = oneRandomThing(model.enabledThreads);
+      const item = oneRandomThing(model.items.fetchEnabled('Thread'));
       if (!!item) {
         item.enabled = false;
       }
@@ -72,14 +68,14 @@ export const WorksheetFocuses: IFocus[] = [
     name: 'PC negative',
     definition: 'Something bad happens to a player character.',
     selectItem(model: WorksheetModel) {
-      return oneRandomThing(model.enabledPlayerCharacters);
+      return oneRandomThing(model.items.fetchEnabled('PC'));
     },
   },
   {
     name: 'PC positive',
     definition: 'Something good happens to a player character.',
     selectItem(model: WorksheetModel) {
-      return oneRandomThing(model.enabledPlayerCharacters);
+      return oneRandomThing(model.items.fetchEnabled('PC'));
     },
   },
   {
@@ -94,14 +90,14 @@ export const WorksheetFocuses: IFocus[] = [
     name: 'NPC negative',
     definition: 'Something bad happens to a non-player character.',
     selectItem(model: WorksheetModel) {
-      return oneRandomThing(model.enabledNonPlayerCharacters);
+      return oneRandomThing(model.items.fetchEnabled('NPC'));
     },
   },
   {
     name: 'NPC positive',
     definition: 'Something good happens to a non-player character.',
     selectItem(model: WorksheetModel) {
-      return oneRandomThing(model.enabledNonPlayerCharacters);
+      return oneRandomThing(model.items.fetchEnabled('NPC'));
     },
   },
 ];

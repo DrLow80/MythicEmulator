@@ -47,7 +47,20 @@
         Context Item
       </td>
       <td>
-        {{ contextItem.name }}
+        <form action="">
+          <div class="form-group">
+            <label for="contextItemName">
+              Name
+            </label>
+            <input
+              type="text"
+              class="form-control"
+              id="contextItemName"
+              name="contextItemName"
+              [(ngModel)]="contextItem.name"
+            />
+          </div>
+        </form>
       </td>
     </tr>
   </tbody>

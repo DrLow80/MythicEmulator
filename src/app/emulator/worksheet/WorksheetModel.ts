@@ -1,8 +1,4 @@
-import {
-  IWorksheetItem,
-  WorksheetItemType,
-  IWorksheetScene,
-} from './interfaces';
+import { IWorksheetScene } from './interfaces';
 import {
   oneRandomThing,
   FateOdd,
@@ -18,11 +14,13 @@ import {
   WorksheetSubjects,
   WorksheetActions,
 } from './worksheet-view-model.service';
+import { NumberLimitModel } from './NumberLimitModel';
+import { WorksheetItemList } from './WorksheetItemList';
 
 export class WorksheetModel {
-  chaos = 5;
+  chaos = new NumberLimitModel(5, 1, 9);
   index = -1;
-  items: IWorksheetItem[] = [];
+  items = new WorksheetItemList();
   scenes: IWorksheetScene[] = [];
 
   get canBack(): boolean {
@@ -37,82 +35,41 @@ export class WorksheetModel {
     return this.index === this.scenes.length - 1;
   }
 
-  get enabledItems(): IWorksheetItem[] {
-    return this.items.filter((x) => x.enabled);
-  }
+  addQuestion(value: FateOdd, question: string): void {
+    if (!question) return;
 
-  get enabledNonPlayerCharacters(): IWorksheetItem[] {
-    return this.filterItemsByTypeAndEnabled('NPC');
-  }
+    if (!value) return;
 
-  get enabledPlayerCharacters(): IWorksheetItem[] {
-    return this.filterItemsByTypeAndEnabled('PC');
-  }
+    const percentile = this.randomNumber();
 
-  get enabledThreads(): IWorksheetItem[] {
-    return this.filterItemsByTypeAndEnabled('Thread');
-  }
+    const fateResult = this.randomFateResult(value, percentile);
 
-  get nonPlayerCharacters(): IWorksheetItem[] {
-    return this.filterItemsByType('NPC');
-  }
-
-  get playerCharacters(): IWorksheetItem[] {
-    return this.filterItemsByType('PC');
-  }
-
-  get threads(): IWorksheetItem[] {
-    return this.filterItemsByType('Thread');
-  }
-
-  addItem(name: string, type: WorksheetItemType) {
-    const item: IWorksheetItem = {
-      enabled: true,
-      name,
-      type,
+    const q = {
+      question,
+      result: fateResult,
     };
 
-    this.items.push(item);
+    this.currentScene.questions.push(q);
+
+    const result = this.checkPercentileCreatedRandomEvent(percentile);
+
+    if (result) this.generateRandomScene();
   }
 
   back(): void {
-    if (this.canBack) {
-      this.index -= 1;
-    }
+    if (this.canBack) this.index -= 1;
   }
 
-  filterItemsByType(type: WorksheetItemType): IWorksheetItem[] {
-    return this.items.filter((x) => x.type == type);
-  }
+  checkPercentileCreatedRandomEvent(percentile: number): boolean {
+    const remainder = percentile % 11;
 
-  filterItemsByTypeAndEnabled(type: WorksheetItemType): IWorksheetItem[] {
-    return this.filterItemsByType(type).filter((x) => x.enabled);
-  }
+    if (remainder !== 0) return false;
 
-  next(): void {
-    if (this.doesNextIndexRequireCreatingANewScene) {
-      this.generateRandomScene();
-    }
+    const value = 11 * this.chaos.value;
 
-    this.index += 1;
-  }
+    const result = value >= percentile;
 
-  decreaseChaos(): void {
-    if (this.chaos > 1) {
-      this.chaos -= 1;
-    }
-  }
-
-  increaseChaos(): void {
-    if (this.chaos < 9) {
-      this.chaos += 1;
-    }
-  }
-
-  selectScene(value: IWorksheetScene): void {
-    const index = this.scenes.findIndex((x) => x.index == value.index);
-
-    this.index = index;
+    return result;
   }
 
   createScene(status: SceneStatus): IWorksheetScene {
@@ -136,7 +93,7 @@ export class WorksheetModel {
   }
 
   generateRandomScene(): void {
-    let status = randomSceneStatus(this.chaos);
+    let status = randomSceneStatus(this.chaos.value);
 
     let scene = this.createScene(status);
 
@@ -149,34 +106,17 @@ export class WorksheetModel {
     }
   }
 
-  randomNumber(): number {
-    let value = Math.floor(Math.random() * 100);
+  next(): void {
+    if (this.doesNextIndexRequireCreatingANewScene) this.generateRandomScene();
 
-    return value + 1;
-  }
-
-  addQuestion(value: FateOdd, question: string): void {
-    const percentile = this.randomNumber();
-
-    const q = {
-      question,
-      result: this.randomFateResult(value, percentile),
-    };
-
-    this.currentScene.questions.push(q);
-
-    const result = this.checkPercentileCreatedRandomEvent(percentile);
-
-    if (!result) {
-      return;
-    }
-
-    this.generateRandomScene();
+    this.index += 1;
   }
 
   randomFateResult(odd: FateOdd, percentile: number): FateResult {
     const value = FateTable[odd];
-    const propbability = value[this.chaos];
+
+    const propbability = value[this.chaos.value];
+
     if (percentile < propbability.exceptionalYes) {
       return 'Exceptional Yes';
     } else if (percentile < propbability.yes) {
@@ -188,13 +128,15 @@ export class WorksheetModel {
     }
   }
 
-  checkPercentileCreatedRandomEvent(percentile: number): boolean {
-    const remainder = percentile % 11;
-    if (remainder !== 0) {
-      return false;
-    }
-    const value = 11 * this.chaos;
-    const result = value >= percentile;
-    return result;
+  randomNumber(): number {
+    let value = Math.floor(Math.random() * 100);
+
+    return value + 1;
+  }
+
+  selectScene(value: IWorksheetScene): void {
+    const index = this.scenes.findIndex((x) => x.index == value.index);
+
+    this.index = index;
   }
 }
