@@ -1,0 +1,54 @@
+[
+    {
+        "word": "energy",
+        "phonetic": "/ˈenərjē/",
+        "origin": "Mid 16th century (denoting force or vigor of expression): from French énergie, or via late Latin from Greek energeia, from en- ‘in, within’ + ergon ‘work’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The strength and vitality required for sustained physical or mental activity.",
+                        "example": "changes in the levels of vitamins can affect energy and well-being",
+                        "synonyms": [
+                            "vitality",
+                            "vigour",
+                            "life",
+                            "liveliness",
+                            "animation",
+                            "vivacity",
+                            "spirit",
+                            "spiritedness",
+                            "fire",
+                            "passion",
+                            "ardour",
+                            "zeal",
+                            "verve",
+                            "enthusiasm",
+                            "zest",
+                            "vibrancy",
+                            "spark",
+                            "sparkle",
+                            "effervescence",
+                            "exuberance",
+                            "buoyancy",
+                            "perkiness",
+                            "sprightliness"
+                        ]
+                    },
+                    {
+                        "definition": "Power derived from the utilization of physical or chemical resources, especially to provide light and heat or to work machines.",
+                        "example": "nuclear energy",
+                        "synonyms": [
+                            "power"
+                        ]
+                    },
+                    {
+                        "definition": "The property of matter and radiation which is manifest as a capacity to perform work (such as causing motion or the interaction of molecules)",
+                        "example": "a collision in which no energy is transferred"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,85 @@
+[
+    {
+        "word": "evil",
+        "phonetic": "/ˈēvəl/",
+        "origin": "Old English yfel, of Germanic origin; related to Dutch euvel and German Übel.",
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Profoundly immoral and wicked.",
+                        "example": "his evil deeds",
+                        "synonyms": [
+                            "wicked",
+                            "bad",
+                            "wrong",
+                            "morally wrong",
+                            "wrongful",
+                            "immoral",
+                            "sinful",
+                            "ungodly",
+                            "unholy",
+                            "foul",
+                            "vile",
+                            "base",
+                            "ignoble",
+                            "dishonourable",
+                            "corrupt",
+                            "iniquitous",
+                            "depraved",
+                            "degenerate",
+                            "villainous",
+                            "nefarious",
+                            "sinister",
+                            "vicious",
+                            "malicious",
+                            "malevolent",
+                            "demonic",
+                            "devilish",
+                            "diabolic",
+                            "diabolical",
+                            "fiendish",
+                            "dark",
+                            "black-hearted"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Profound immorality and wickedness, especially when regarded as a supernatural force.",
+                        "example": "the world is stalked by relentless evil",
+                        "synonyms": [
+                            "wickedness",
+                            "bad",
+                            "badness",
+                            "wrong",
+                            "wrongdoing",
+                            "sin",
+                            "sinfulness",
+                            "ungodliness",
+                            "immorality",
+                            "vice",
+                            "iniquity",
+                            "turpitude",
+                            "degeneracy",
+                            "vileness",
+                            "baseness",
+                            "perversion",
+                            "corruption",
+                            "depravity",
+                            "villainy",
+                            "nefariousness",
+                            "atrocity",
+                            "malevolence",
+                            "devilishness"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

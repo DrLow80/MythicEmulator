@@ -1,0 +1,109 @@
+[
+    {
+        "word": "balance",
+        "phonetic": "/ˈbaləns/",
+        "origin": "Middle English (in balance (sense 3 of the noun)): from Old French balance (noun), balancer (verb), based on late Latin (libra) bilanx ‘(balance) having two scale pans’, from bi- ‘twice, having two’ + lanx ‘scale pan’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An even distribution of weight enabling someone or something to remain upright and steady.",
+                        "example": "she lost her balance before falling",
+                        "synonyms": [
+                            "stability",
+                            "equilibrium",
+                            "steadiness",
+                            "footing"
+                        ]
+                    },
+                    {
+                        "definition": "A condition in which different elements are equal or in the correct proportions.",
+                        "example": "try to keep a balance between work and relaxation",
+                        "synonyms": [
+                            "fairness",
+                            "justice",
+                            "impartiality",
+                            "egalitarianism",
+                            "equal opportunity"
+                        ]
+                    },
+                    {
+                        "definition": "An apparatus for weighing, especially one with a central pivot, beam, and a pair of scales.",
+                        "example": "The atomic weight of an element - the quantity chemists could weigh with scales and balances - depends on the number of protons and neutrons, which have virtually equal masses.",
+                        "synonyms": [
+                            "scale",
+                            "scales",
+                            "weighing machine",
+                            "weighbridge"
+                        ]
+                    },
+                    {
+                        "definition": "A counteracting weight or force.",
+                        "example": "Allow centrifugal force to provide balance while both skates tip onto their left edges in the turn.",
+                        "synonyms": [
+                            "counterbalance",
+                            "equipoise",
+                            "counterweight",
+                            "stabilizer",
+                            "compensation",
+                            "recompense",
+                            "ballast",
+                            "makeweight"
+                        ]
+                    },
+                    {
+                        "definition": "A predominating weight or amount; the majority.",
+                        "example": "the balance of opinion was that work was more important than leisure"
+                    },
+                    {
+                        "definition": "A figure representing the difference between credits and debits in an account; the amount of money held in an account.",
+                        "example": "he accumulated a healthy balance with the savings bank"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Keep or put (something) in a steady position so that it does not fall.",
+                        "example": "a mug that she balanced on her knee",
+                        "synonyms": [
+                            "steady",
+                            "stabilize"
+                        ]
+                    },
+                    {
+                        "definition": "Offset or compare the value of (one thing) with another.",
+                        "example": "the cost of obtaining such information needs to be balanced against its benefits",
+                        "synonyms": [
+                            "weigh",
+                            "weigh up",
+                            "compare",
+                            "evaluate",
+                            "consider",
+                            "assess",
+                            "appraise",
+                            "estimate"
+                        ]
+                    },
+                    {
+                        "definition": "Compare debits and credits in (an account), typically to ensure that they are equal.",
+                        "example": "the law requires the council to balance its books each year",
+                        "synonyms": [
+                            "compare",
+                            "contrast",
+                            "set side by side",
+                            "juxtapose",
+                            "weigh against",
+                            "set against",
+                            "balance",
+                            "differentiate",
+                            "discriminate"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

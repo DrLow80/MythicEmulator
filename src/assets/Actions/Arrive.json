@@ -1,0 +1,37 @@
+[
+    {
+        "word": "arrive",
+        "phonetic": "/əˈrīv/",
+        "origin": "Middle English (in the sense ‘reach the shore after a voyage’): from Old French ariver, based on Latin ad- ‘to’ + ripa ‘shore’.",
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Reach a place at the end of a journey or a stage in a journey.",
+                        "example": "we arrived at his house and knocked at the door",
+                        "synonyms": [
+                            "come",
+                            "get here",
+                            "get there",
+                            "reach one's destination",
+                            "make it",
+                            "appear",
+                            "put in an appearance",
+                            "make an appearance",
+                            "come on the scene",
+                            "come up",
+                            "approach",
+                            "enter",
+                            "present oneself",
+                            "turn up",
+                            "be along",
+                            "come along",
+                            "materialize"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

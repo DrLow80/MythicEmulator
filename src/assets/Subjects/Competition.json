@@ -1,0 +1,33 @@
+[
+    {
+        "word": "competition",
+        "phonetic": "/ˌkämpəˈtiSH(ə)n/",
+        "origin": "Early 17th century from late Latin competitio(n-) ‘rivalry’, from competere ‘strive for’ (see compete).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The activity or condition of competing.",
+                        "example": "there is fierce competition between banks",
+                        "synonyms": [
+                            "rivalry",
+                            "competitiveness",
+                            "vying",
+                            "contesting",
+                            "opposition",
+                            "contention",
+                            "conflict",
+                            "feuding",
+                            "battling",
+                            "fighting",
+                            "struggling",
+                            "strife",
+                            "war"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

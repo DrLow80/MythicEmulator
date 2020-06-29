@@ -1,0 +1,85 @@
+[
+    {
+        "word": "business",
+        "phonetic": "/ˈbiznəs/",
+        "origin": "Old English bisignis ‘anxiety’ (see busy, -ness); the sense ‘state of being busy’ was used from Middle English down to the 18th century, but is now differentiated as busyness. The use ‘appointed task’ dates from late Middle English, and from it all the other current senses have developed.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person's regular occupation, profession, or trade.",
+                        "example": "she had to do a lot of smiling in her business",
+                        "synonyms": [
+                            "work",
+                            "line of work",
+                            "line",
+                            "occupation",
+                            "profession",
+                            "career",
+                            "employment",
+                            "job",
+                            "day job",
+                            "position",
+                            "pursuit",
+                            "vocation",
+                            "calling",
+                            "field",
+                            "sphere",
+                            "walk of life",
+                            "trade",
+                            "craft"
+                        ]
+                    },
+                    {
+                        "definition": "The practice of making one's living by engaging in commerce.",
+                        "example": "the jewelry business",
+                        "synonyms": [
+                            "trade",
+                            "trading",
+                            "commerce",
+                            "buying and selling",
+                            "dealing",
+                            "traffic",
+                            "trafficking",
+                            "marketing",
+                            "merchandising",
+                            "bargaining"
+                        ]
+                    },
+                    {
+                        "definition": "An affair or series of events, typically a scandalous or discreditable one.",
+                        "synonyms": [
+                            "affair",
+                            "matter",
+                            "thing",
+                            "issue",
+                            "case",
+                            "set of circumstances",
+                            "circumstance",
+                            "situation",
+                            "occasion",
+                            "experience",
+                            "event",
+                            "incident",
+                            "happening",
+                            "occurrence",
+                            "phenomenon",
+                            "eventuality",
+                            "episode",
+                            "interlude",
+                            "adventure"
+                        ]
+                    },
+                    {
+                        "definition": "Actions other than dialogue performed by actors.",
+                        "example": "a piece of business"
+                    },
+                    {
+                        "definition": "A scolding; harsh verbal criticism."
+                    }
+                ]
+            }
+        ]
+    }
+]

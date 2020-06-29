@@ -1,0 +1,34 @@
+[
+    {
+        "word": "befriend",
+        "phonetic": "/bəˈfrend/",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Act as a friend to (someone) by offering help or support.",
+                        "example": "he makes a point of befriending newcomers to Parliament",
+                        "synonyms": [
+                            "make friends with",
+                            "make a friend of",
+                            "look after",
+                            "protect",
+                            "keep an eye on",
+                            "support",
+                            "back",
+                            "stand by",
+                            "side with",
+                            "encourage",
+                            "sustain",
+                            "uphold",
+                            "succour",
+                            "advise",
+                            "guide"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "word": "inspect",
+        "phonetic": "/inˈspekt/",
+        "origin": "Early 17th century (earlier (late Middle English) as inspection): from Latin inspect- ‘looked into, examined’, from the verb inspicere (from in- ‘in’ + specere ‘look at’), or from its frequentative, inspectare.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Look at (someone or something) closely, typically to assess their condition or to discover any shortcomings.",
+                        "example": "they were inspecting my outside paintwork for cracks and flaws"
+                    }
+                ]
+            }
+        ]
+    }
+]

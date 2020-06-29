@@ -1,0 +1,41 @@
+[
+    {
+        "word": "stalemate",
+        "phonetic": "/ˈstālˌmāt/",
+        "origin": "Mid 18th century from obsolete stale (from Anglo-Norman French estale ‘position’, from estaler ‘be placed’) + mate.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A situation in which further action or progress by opposing or competing parties seems impossible.",
+                        "example": "the war had again reached stalemate",
+                        "synonyms": [
+                            "deadlock",
+                            "impasse",
+                            "standstill",
+                            "dead end",
+                            "stand-off",
+                            "draw",
+                            "tie",
+                            "dead heat"
+                        ]
+                    },
+                    {
+                        "definition": "A position counting as a draw, in which a player is not in check but cannot move except into check.",
+                        "example": "last time I played him it ended up in stalemate"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Bring to or cause to reach stalemate.",
+                        "example": "the group played a key role in stalemating the negotiations"
+                    }
+                ]
+            }
+        ]
+    }
+]

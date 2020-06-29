@@ -1,0 +1,52 @@
+[
+    {
+        "word": "hope",
+        "phonetic": "/hōp/",
+        "origin": "Late Old English hopa (noun), hopian (verb), of Germanic origin; related to Dutch hoop (noun), hopen (verb), and German hoffen (verb).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A feeling of expectation and desire for a certain thing to happen.",
+                        "example": "he looked through her belongings in the hope of coming across some information",
+                        "synonyms": [
+                            "aspiration",
+                            "desire",
+                            "wish",
+                            "expectation",
+                            "ambition",
+                            "aim",
+                            "plan",
+                            "dream",
+                            "daydream",
+                            "pipe dream"
+                        ]
+                    },
+                    {
+                        "definition": "A feeling of trust.",
+                        "example": "our private friendship, upon hope and affiance whereof, I presume to be your petitioner"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Want something to happen or be the case.",
+                        "example": "he's hoping for an offer of compensation",
+                        "synonyms": [
+                            "expect",
+                            "anticipate",
+                            "look for",
+                            "wait for",
+                            "be hopeful of",
+                            "pin one's hopes on",
+                            "want"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

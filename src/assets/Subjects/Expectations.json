@@ -1,0 +1,36 @@
+[
+    {
+        "word": "expectation",
+        "phonetic": "/ɛkspɛkˈteɪʃ(ə)n/",
+        "origin": "Seek to prevent disappointment by establishing in advance what can realistically be achieved or delivered by a project, undertaking, course of action, etc.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A strong belief that something will happen or be the case.",
+                        "example": "reality had not lived up to expectations",
+                        "synonyms": [
+                            "supposition",
+                            "assumption",
+                            "belief",
+                            "presupposition",
+                            "presumption",
+                            "conjecture",
+                            "surmise",
+                            "reckoning",
+                            "calculation",
+                            "prediction",
+                            "forecast",
+                            "projection"
+                        ]
+                    },
+                    {
+                        "definition": "another term for expected value",
+                        "example": "This is equal to 8.5, and is called the expectation of the action in question."
+                    }
+                ]
+            }
+        ]
+    }
+]

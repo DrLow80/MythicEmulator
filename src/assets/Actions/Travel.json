@@ -1,0 +1,43 @@
+[
+    {
+        "word": "travel",
+        "phonetic": "/ˈtravəl/",
+        "origin": "Middle English a variant of travail, and originally in the same sense.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Go from one place to another, typically over a distance of some length.",
+                        "example": "the vessel had been traveling from Libya to Ireland"
+                    },
+                    {
+                        "definition": "(of an object or radiation) move, typically in a constant or predictable way.",
+                        "example": "light travels faster than sound",
+                        "synonyms": [
+                            "move",
+                            "proceed",
+                            "progress",
+                            "advance"
+                        ]
+                    },
+                    {
+                        "definition": "Take more than the allowed number of steps (typically two) while holding the ball without dribbling it."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The action of traveling.",
+                        "example": "my job involves a lot of travel"
+                    },
+                    {
+                        "definition": "The range, rate, or mode of motion of a part of a machine."
+                    }
+                ]
+            }
+        ]
+    }
+]

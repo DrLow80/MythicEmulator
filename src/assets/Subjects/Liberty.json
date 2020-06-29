@@ -1,0 +1,61 @@
+[
+    {
+        "word": "liberty",
+        "phonetic": "/ˈlibərdē/",
+        "origin": "Late Middle English from Old French liberte, from Latin libertas, from liber ‘free’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+                        "example": "compulsory retirement would interfere with individual liberty",
+                        "synonyms": [
+                            "independence",
+                            "freedom",
+                            "autonomy",
+                            "sovereignty",
+                            "self government",
+                            "self rule",
+                            "self determination",
+                            "home rule"
+                        ]
+                    },
+                    {
+                        "definition": "The power or scope to act as one pleases.",
+                        "example": "individuals should enjoy the liberty to pursue their own interests and preferences",
+                        "synonyms": [
+                            "freedom",
+                            "independence",
+                            "free rein",
+                            "freeness",
+                            "licence",
+                            "self-determination"
+                        ]
+                    },
+                    {
+                        "definition": "A presumptuous remark or action.",
+                        "synonyms": [
+                            "act with overfamiliarity",
+                            "act with familiarity",
+                            "show disrespect",
+                            "act with impropriety",
+                            "act indecorously",
+                            "be impudent",
+                            "commit a breach of etiquette",
+                            "act with boldness",
+                            "act with impertinence",
+                            "show insolence",
+                            "show impudence",
+                            "show presumptuousness",
+                            "show presumption",
+                            "show forwardness",
+                            "show audacity",
+                            "be unrestrained"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

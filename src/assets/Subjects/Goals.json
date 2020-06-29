@@ -1,0 +1,41 @@
+[
+    {
+        "word": "goal",
+        "phonetic": "/ɡəʊl/",
+        "origin": "Middle English (in the sense ‘limit, boundary’): of unknown origin.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(in soccer, rugby, hockey, and some other games) a pair of posts linked by a crossbar and typically with a net between, forming a space into or over which the ball has to be sent in order to score.",
+                        "example": "Mr Foxley said there were still some problems with organising the event including installing a set of rugby or American Football posts instead of the football goals."
+                    },
+                    {
+                        "definition": "The object of a person's ambition or effort; an aim or desired result.",
+                        "example": "he achieved his goal of becoming King of England",
+                        "synonyms": [
+                            "aim",
+                            "objective",
+                            "object",
+                            "grail",
+                            "holy grail",
+                            "end",
+                            "target",
+                            "design",
+                            "desire",
+                            "desired result",
+                            "intention",
+                            "intent",
+                            "plan",
+                            "purpose",
+                            "idea",
+                            "point",
+                            "object of the exercise"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

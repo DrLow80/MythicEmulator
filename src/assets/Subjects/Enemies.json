@@ -1,0 +1,31 @@
+[
+    {
+        "word": "enemy",
+        "phonetic": "/ˈɛnəmi/",
+        "origin": "Middle English from Old French enemi, from Latin inimicus, from in- ‘not’ + amicus ‘friend’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who is actively opposed or hostile to someone or something.",
+                        "example": "the traditional enemies of his tribe",
+                        "synonyms": [
+                            "foe",
+                            "adversary",
+                            "opponent",
+                            "rival",
+                            "nemesis",
+                            "antagonist",
+                            "combatant",
+                            "challenger",
+                            "competitor",
+                            "opposer",
+                            "hostile party"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

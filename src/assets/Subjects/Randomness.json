@@ -1,0 +1,20 @@
+[
+    {
+        "word": "randomness",
+        "phonetic": "/ˈrandəmnəs/",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The quality or state of lacking a pattern or principle of organization; unpredictability.",
+                        "example": "we accept randomness in our own lives but we crave logic in art"
+                    },
+                    {
+                        "definition": "Oddness or eccentricity."
+                    }
+                ]
+            }
+        ]
+    }
+]

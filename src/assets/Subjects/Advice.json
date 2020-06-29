@@ -1,0 +1,44 @@
+[
+    {
+        "word": "advice",
+        "phonetic": "/ədˈvīs/",
+        "origin": "Middle English from Old French avis, based on Latin ad ‘to’ + visum, past participle of videre ‘to see’. The original sense was ‘way of looking at something, judgement’, hence later ‘an opinion given’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Guidance or recommendations offered with regard to prudent future action.",
+                        "example": "she visited the island on her doctor's advice",
+                        "synonyms": [
+                            "guidance",
+                            "advising",
+                            "counselling",
+                            "counsel",
+                            "help",
+                            "direction",
+                            "instruction",
+                            "information",
+                            "enlightenment"
+                        ]
+                    },
+                    {
+                        "definition": "A formal notice of a financial transaction.",
+                        "example": "remittance advices"
+                    },
+                    {
+                        "definition": "Information; news.",
+                        "example": "the want of fresh advices from Europe",
+                        "synonyms": [
+                            "news",
+                            "information",
+                            "word",
+                            "intelligence",
+                            "intimation"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

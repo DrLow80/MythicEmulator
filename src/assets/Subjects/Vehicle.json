@@ -1,0 +1,49 @@
+[
+    {
+        "word": "vehicle",
+        "phonetic": "/ˈvēək(ə)l/",
+        "origin": "Early 17th century from French véhicule or Latin vehiculum, from vehere ‘carry’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A thing used for transporting people or goods, especially on land, such as a car, truck, or cart.",
+                        "example": "the vehicle was sent skidding across the road",
+                        "synonyms": [
+                            "automobile",
+                            "motor vehicle",
+                            "motorized vehicle",
+                            "means of transport",
+                            "conveyance",
+                            "machine"
+                        ]
+                    },
+                    {
+                        "definition": "A thing used to express, embody, or fulfill something.",
+                        "example": "I use paint as a vehicle for my ideas",
+                        "synonyms": [
+                            "channel",
+                            "medium",
+                            "means",
+                            "means of expression",
+                            "agency",
+                            "agent",
+                            "instrument",
+                            "mechanism",
+                            "organ",
+                            "apparatus",
+                            "structure",
+                            "machine",
+                            "machinery"
+                        ]
+                    },
+                    {
+                        "definition": "A movie, television program, song, etc., that is intended to display the leading performer to the best advantage.",
+                        "example": "a vehicle for a star who was one of Hollywood's hottest properties"
+                    }
+                ]
+            }
+        ]
+    }
+]

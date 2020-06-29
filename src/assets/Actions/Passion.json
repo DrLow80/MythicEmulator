@@ -1,0 +1,36 @@
+[
+    {
+        "word": "passion",
+        "phonetic": "/ˈpaSHən/",
+        "origin": "Middle English from Old French, from late Latin passio(n-) (chiefly a term in Christian theology), from Latin pati ‘suffer’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Strong and barely controllable emotion.",
+                        "example": "a man of impetuous passion",
+                        "synonyms": [
+                            "sensibilities",
+                            "sensitivities",
+                            "self-esteem",
+                            "ego",
+                            "pride"
+                        ]
+                    },
+                    {
+                        "definition": "The suffering and death of Jesus.",
+                        "example": "meditations on the Passion of Christ",
+                        "synonyms": [
+                            "crucifixion",
+                            "pain",
+                            "suffering",
+                            "agony",
+                            "martyrdom"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "word": "create",
+        "phonetic": "/krēˈāt/",
+        "origin": "Late Middle English (in the sense ‘form out of nothing’, used of a divine or supernatural being): from Latin creat- ‘produced’, from the verb creare.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Bring (something) into existence.",
+                        "example": "he created a thirty-acre lake",
+                        "synonyms": [
+                            "generate",
+                            "produce",
+                            "design",
+                            "make",
+                            "fabricate",
+                            "fashion",
+                            "manufacture",
+                            "build",
+                            "construct",
+                            "erect",
+                            "do",
+                            "turn out"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

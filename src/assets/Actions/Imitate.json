@@ -1,0 +1,34 @@
+[
+    {
+        "word": "imitate",
+        "phonetic": "/ˈiməˌtāt/",
+        "origin": "Mid 16th century from Latin imitat- ‘copied’, from the verb imitari; related to imago ‘image’.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Take or follow as a model.",
+                        "example": "his style was imitated by many other writers",
+                        "synonyms": [
+                            "emulate",
+                            "copy",
+                            "take as a model",
+                            "model oneself on",
+                            "take as a pattern",
+                            "pattern oneself after",
+                            "pattern oneself on",
+                            "follow the example of",
+                            "take as an example",
+                            "take as a role model",
+                            "take after",
+                            "follow",
+                            "follow in someone's footsteps",
+                            "follow in someone's steps"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

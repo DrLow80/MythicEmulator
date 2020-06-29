@@ -1,0 +1,36 @@
+[
+    {
+        "word": "prison",
+        "phonetic": "/ˈprizən/",
+        "origin": "Late Old English, from Old French prisun, from Latin prensio(n-), variant of prehensio(n-) ‘laying hold of’, from the verb prehendere.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A building in which people are legally held as a punishment for a crime they have committed or while awaiting trial.",
+                        "example": "he died in prison",
+                        "synonyms": [
+                            "jail",
+                            "penal institution",
+                            "place of detention",
+                            "lock-up",
+                            "place of confinement",
+                            "guardhouse",
+                            "detention centre"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Imprison.",
+                        "example": "the young man prisoned behind the doors"
+                    }
+                ]
+            }
+        ]
+    }
+]

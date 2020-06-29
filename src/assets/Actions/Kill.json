@@ -1,0 +1,118 @@
+[
+    {
+        "word": "kill",
+        "phonetic": "/kil/",
+        "origin": "Middle English (in the sense ‘strike, beat’, also ‘put to death’): probably of Germanic origin and related to quell. The noun originally denoted a stroke or blow.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Cause the death of (a person, animal, or other living thing)",
+                        "example": "her father was killed in a car crash",
+                        "synonyms": [
+                            "murder",
+                            "cause the death of",
+                            "end the life of",
+                            "take the life of",
+                            "do away with",
+                            "make away with",
+                            "assassinate",
+                            "do to death",
+                            "eliminate",
+                            "terminate",
+                            "dispatch",
+                            "finish off",
+                            "put to death",
+                            "execute"
+                        ]
+                    },
+                    {
+                        "definition": "Put an end to or cause the failure or defeat of (something)",
+                        "example": "the committee voted to kill the project",
+                        "synonyms": [
+                            "destroy",
+                            "put an end to",
+                            "bring to an end",
+                            "be the end of",
+                            "end",
+                            "extinguish",
+                            "dash",
+                            "quell",
+                            "quash",
+                            "ruin",
+                            "wreck",
+                            "shatter",
+                            "smash",
+                            "crush",
+                            "scotch"
+                        ]
+                    },
+                    {
+                        "definition": "Overwhelm (someone) with an emotion.",
+                        "synonyms": [
+                            "overwhelm",
+                            "take someone's breath away",
+                            "leave speechless",
+                            "shake",
+                            "move",
+                            "stir",
+                            "stun",
+                            "amaze",
+                            "astonish",
+                            "stagger",
+                            "dumbfound"
+                        ]
+                    },
+                    {
+                        "definition": "Pass (time, or a specified amount of it), typically while waiting for a particular event.",
+                        "example": "when he reached the station he found he actually had an hour to kill",
+                        "synonyms": [
+                            "while away",
+                            "use up",
+                            "fill up",
+                            "fill in",
+                            "fill",
+                            "occupy",
+                            "beguile",
+                            "pass",
+                            "spend",
+                            "expend"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An act of killing, especially of one animal by another.",
+                        "example": "a lion has made a kill",
+                        "synonyms": [
+                            "death blow",
+                            "killing",
+                            "act of killing",
+                            "dispatch"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "kill",
+        "phonetic": "/kɪl/",
+        "origin": "Mid 17th century from Dutch kil, from Middle Dutch kille ‘riverbed, channel’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(in place names, especially in New York, New Jersey, and Pennsylvania) a stream, creek, or tributary.",
+                        "example": "Kill Van Kull"
+                    }
+                ]
+            }
+        ]
+    }
+]

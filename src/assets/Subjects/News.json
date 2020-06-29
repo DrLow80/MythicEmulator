@@ -1,0 +1,18 @@
+[
+    {
+        "word": "news",
+        "phonetic": "/n(y)o͞oz/",
+        "origin": "Late Middle English plural of new, translating Old French noveles or medieval Latin nova ‘new things’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Newly received or noteworthy information, especially about recent or important events.",
+                        "example": "I've got some good news for you"
+                    }
+                ]
+            }
+        ]
+    }
+]

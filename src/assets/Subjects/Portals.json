@@ -1,0 +1,48 @@
+[
+    {
+        "word": "portal",
+        "phonetic": "/ˈpɔːt(ə)l/",
+        "origin": "Late Middle English from Old French, from medieval Latin portale, neuter (used as a noun) of portalis ‘like a gate’, from Latin porta ‘door, gate’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A doorway, gate, or other entrance, especially a large and imposing one.",
+                        "example": "I drove past the studios; the gates seemed like portals to some other world.",
+                        "synonyms": [
+                            "doorway",
+                            "gateway",
+                            "entrance",
+                            "way in",
+                            "way out",
+                            "exit",
+                            "egress",
+                            "opening"
+                        ]
+                    },
+                    {
+                        "definition": "A website or web page providing access or links to other sites.",
+                        "example": "many healthcare providers already utilize portals through which a patient can access test results"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "portal",
+        "phonetic": "/ˈpɔːt(ə)l/",
+        "origin": "Mid 19th century from modern Latin portalis, from Latin porta ‘gate’.",
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to an opening in an organ through which major blood vessels pass, especially the transverse fissure of the liver.",
+                        "example": "The liver biopsy specimen showed portal triads and sinusoids infiltrated with lymphoid cells."
+                    }
+                ]
+            }
+        ]
+    }
+]

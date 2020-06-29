@@ -1,0 +1,41 @@
+[
+    {
+        "word": "judge",
+        "phonetic": "/jəj/",
+        "origin": "Middle English from Old French juge (noun), juger (verb), from Latin judex, judic-, from jus ‘law’ + dicere ‘to say’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A public official appointed to decide cases in a court of law.",
+                        "example": "The judges made this particular aspect of public policy and the judges are entitled to change it.",
+                        "synonyms": [
+                            "justice",
+                            "magistrate",
+                            "Her Honour",
+                            "His Honour",
+                            "Your Honour"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Form an opinion or conclusion about.",
+                        "example": "it is hard to judge whether such opposition is justified",
+                        "synonyms": [
+                            "form the opinion",
+                            "come to the conclusion",
+                            "conclude",
+                            "decide",
+                            "determine"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "word": "wish",
+        "phonetic": "/wɪʃ/",
+        "origin": "Old English wȳscan, of Germanic origin; related to German wünschen, also to ween and wont.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Feel or express a strong desire or hope for something that cannot or probably will not happen.",
+                        "example": "we wished for peace",
+                        "synonyms": [
+                            "desire",
+                            "want",
+                            "hope for",
+                            "long for",
+                            "yearn for",
+                            "crave",
+                            "hunger for",
+                            "thirst for",
+                            "lust after",
+                            "covet",
+                            "sigh for",
+                            "pine for",
+                            "dream of"
+                        ]
+                    },
+                    {
+                        "definition": "Want to do something.",
+                        "example": "they wish to become involved",
+                        "synonyms": [
+                            "want",
+                            "desire",
+                            "have an inclination",
+                            "be inclined",
+                            "feel inclined",
+                            "feel like",
+                            "care"
+                        ]
+                    },
+                    {
+                        "definition": "Hope that (someone) has to deal with someone or something undesirable.",
+                        "example": "he wouldn't wish Arthur on anyone"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A desire or hope for something to happen.",
+                        "example": "the union has reiterated its wish for an agreement",
+                        "synonyms": [
+                            "desire",
+                            "longing",
+                            "hope",
+                            "yearning",
+                            "inclination",
+                            "urge",
+                            "whim",
+                            "craving",
+                            "hunger",
+                            "thirst",
+                            "lust"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

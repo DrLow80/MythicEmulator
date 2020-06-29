@@ -1,0 +1,54 @@
+<div class="d-flex justify-content-between">
+  <button
+    class="btn btn-primary"
+    [class.disabled]="isBackDisabled"
+    (click)="onClickBack()"
+  >
+    Back
+  </button>
+
+  <h3 *ngIf="isEnabled">Scene {{ sceneNumber }} - {{ status }}</h3>
+
+  <button class="btn btn-primary" (click)="onClickNext()">
+    Next
+  </button>
+</div>
+
+<table class="table" *ngIf="isEnabled">
+  <tbody>
+    <tr>
+      <td>Focus</td>
+      <td>
+        {{ focus.name }}
+        <br />
+        {{ focus.definition }}
+      </td>
+    </tr>
+    <tr>
+      <td>Subject</td>
+      <td>
+        {{ subject.name }}
+        <br />
+        {{ subject.definition }}
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Action
+      </td>
+      <td>
+        {{ action.name }}
+        <br />
+        {{ action.definition }}
+      </td>
+    </tr>
+    <tr *ngIf="contextItem">
+      <td>
+        Context Item
+      </td>
+      <td>
+        {{ contextItem.name }}
+      </td>
+    </tr>
+  </tbody>
+</table>

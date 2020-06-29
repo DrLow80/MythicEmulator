@@ -1,0 +1,36 @@
+[
+    {
+        "word": "animal",
+        "phonetic": "/ˈanɪm(ə)l/",
+        "origin": "Middle English the noun from Latin animal, based on Latin animalis ‘having breath’ from anima ‘breath’; the adjective via Old French from Latin animalis.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.",
+                        "example": "wild animals adapt badly to a caged life",
+                        "synonyms": [
+                            "animal",
+                            "beast",
+                            "brute"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to or characteristic of animals.",
+                        "example": "the evolution of animal life"
+                    },
+                    {
+                        "definition": "Relating to or denoting the pole or extremity of an embryo that contains the more active cytoplasm in the early stages of development.",
+                        "example": "In a similar fashion, the final stage of animal cytokinesis is based on de novo formation of the plasma membrane via the interdigitating microtubules known as the midbody."
+                    }
+                ]
+            }
+        ]
+    }
+]

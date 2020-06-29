@@ -1,0 +1,32 @@
+[
+    {
+        "word": "death",
+        "phonetic": "/deTH/",
+        "origin": "Old English dēath, of Germanic origin; related to Dutch dood and German Tod, also to die.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The action or fact of dying or being killed; the end of the life of a person or organism.",
+                        "example": "an increase in deaths from skin cancer",
+                        "synonyms": [
+                            "demise",
+                            "dying",
+                            "end",
+                            "passing",
+                            "passing away",
+                            "passing on",
+                            "loss of life",
+                            "expiry",
+                            "expiration",
+                            "departure from life",
+                            "final exit",
+                            "eternal rest"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "word": "tension",
+        "phonetic": "/ˈtenSHən/",
+        "origin": "Mid 16th century (as a medical term denoting a condition or feeling of being physically stretched or strained): from French, or from Latin tensio(n-), from tendere ‘stretch’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of being stretched tight.",
+                        "example": "the parachute keeps the cable under tension as it drops",
+                        "synonyms": [
+                            "tightness",
+                            "tautness",
+                            "tenseness",
+                            "rigidity"
+                        ]
+                    },
+                    {
+                        "definition": "Mental or emotional strain.",
+                        "example": "a mind that is affected by stress or tension cannot think as clearly",
+                        "synonyms": [
+                            "emotional strain",
+                            "mental strain",
+                            "stress",
+                            "anxiety",
+                            "anxiousness",
+                            "pressure"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Apply a force to (something) which tends to stretch it.",
+                        "example": "it is best to insert the battens before the outhaul is tensioned",
+                        "synonyms": [
+                            "tighten",
+                            "tauten",
+                            "make taut",
+                            "tense",
+                            "tense up",
+                            "tension",
+                            "contract",
+                            "stiffen",
+                            "brace",
+                            "knot"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

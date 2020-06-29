@@ -1,0 +1,27 @@
+[
+    {
+        "word": "heal",
+        "phonetic": "/hēl/",
+        "origin": "Old English hǣlan (in the sense ‘restore to sound health’), of Germanic origin; related to Dutch heelen and German heilen, also to whole.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "(of a person or treatment) cause (a wound, injury, or person) to become sound or healthy again.",
+                        "example": "his concern is to heal sick people",
+                        "synonyms": [
+                            "make better",
+                            "make well",
+                            "cure",
+                            "treat successfully",
+                            "restore to health",
+                            "get someone back on their feet",
+                            "put someone on the road to recovery"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

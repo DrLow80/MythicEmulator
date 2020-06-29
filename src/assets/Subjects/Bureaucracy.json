@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bureaucracy",
+        "phonetic": "/byo͝oˈräkrəsē/",
+        "origin": "Early 19th century from French bureaucratie, from bureau (see bureau).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A system of government in which most of the important decisions are made by state officials rather than by elected representatives.",
+                        "example": "It also reduces the links between social democracy and overbearing bureaucracy.",
+                        "synonyms": [
+                            "civil service",
+                            "administration",
+                            "government",
+                            "directorate",
+                            "the establishment",
+                            "the system",
+                            "the powers that be",
+                            "corridors of power"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

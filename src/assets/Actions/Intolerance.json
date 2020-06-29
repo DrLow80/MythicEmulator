@@ -1,0 +1,32 @@
+[
+    {
+        "word": "intolerance",
+        "phonetic": "/ˌinˈtäl(ə)rəns/",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Unwillingness to accept views, beliefs, or behavior that differ from one's own.",
+                        "example": "a struggle against religious intolerance",
+                        "synonyms": [
+                            "bigotry",
+                            "narrow-mindedness",
+                            "small-mindedness",
+                            "parochialism",
+                            "provincialism",
+                            "insularity",
+                            "fanaticism",
+                            "dogmatism",
+                            "illiberality"
+                        ]
+                    },
+                    {
+                        "definition": "An inability to eat a food or take a drug without adverse effects.",
+                        "example": "avoiding cross-contamination is essential to people with gluten intolerance"
+                    }
+                ]
+            }
+        ]
+    }
+]

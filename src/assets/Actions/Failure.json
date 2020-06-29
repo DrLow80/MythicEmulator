@@ -1,0 +1,54 @@
+[
+    {
+        "word": "failure",
+        "phonetic": "/ˈfālyər/",
+        "origin": "Mid 17th century (originally as failer, in the senses ‘non-occurrence’ and ‘cessation of supply’): from Anglo-Norman French failer for Old French faillir (see fail).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Lack of success.",
+                        "example": "an economic policy that is doomed to failure",
+                        "synonyms": [
+                            "lack of success",
+                            "non-success",
+                            "non-fulfilment",
+                            "abortion",
+                            "miscarriage",
+                            "defeat",
+                            "frustration",
+                            "collapse",
+                            "foundering",
+                            "misfiring",
+                            "coming to nothing",
+                            "falling through"
+                        ]
+                    },
+                    {
+                        "definition": "The omission of expected or required action.",
+                        "example": "their failure to comply with the basic rules",
+                        "synonyms": [
+                            "negligence",
+                            "remissness",
+                            "non-observance",
+                            "non-performance",
+                            "dereliction"
+                        ]
+                    },
+                    {
+                        "definition": "The action or state of not functioning.",
+                        "example": "symptoms of heart failure",
+                        "synonyms": [
+                            "breaking down",
+                            "breakdown",
+                            "non-function",
+                            "cutting out",
+                            "seizing up"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

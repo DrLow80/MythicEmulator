@@ -1,0 +1,57 @@
+[
+    {
+        "word": "fear",
+        "phonetic": "/fɪə/",
+        "origin": "Old English fǣr ‘calamity, danger’, fǣran ‘frighten’, also ‘revere’, of Germanic origin; related to Dutch gevaar and German Gefahr ‘danger’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An unpleasant emotion caused by the threat of danger, pain, or harm.",
+                        "example": "I cowered in fear as bullets whizzed past",
+                        "synonyms": [
+                            "terror",
+                            "fright",
+                            "fearfulness",
+                            "horror",
+                            "alarm",
+                            "panic",
+                            "agitation",
+                            "trepidation",
+                            "dread",
+                            "consternation",
+                            "dismay",
+                            "distress"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Be afraid of (someone or something) as likely to be dangerous, painful, or harmful.",
+                        "example": "I hated him but didn't fear him any more",
+                        "synonyms": [
+                            "be afraid of",
+                            "be fearful of",
+                            "be scared of",
+                            "be apprehensive of",
+                            "dread",
+                            "live in fear of",
+                            "go in terror of",
+                            "be terrified of",
+                            "be terrified by",
+                            "cower before",
+                            "tremble before",
+                            "cringe from",
+                            "shrink from",
+                            "flinch from"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

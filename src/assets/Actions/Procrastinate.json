@@ -1,0 +1,34 @@
+[
+    {
+        "word": "procrastinate",
+        "phonetic": "/prəˈkrastəˌnāt/",
+        "origin": "Late 16th century from Latin procrastinat- ‘deferred till the morning’, from the verb procrastinare, from pro- ‘forward’ + crastinus ‘belonging to tomorrow’ (from cras ‘tomorrow’).",
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Delay or postpone action; put off doing something.",
+                        "example": "it won't be this price for long, so don't procrastinate",
+                        "synonyms": [
+                            "delay",
+                            "put off doing something",
+                            "postpone action",
+                            "defer action",
+                            "be dilatory",
+                            "use delaying tactics",
+                            "stall",
+                            "temporize",
+                            "play for time",
+                            "play a waiting game",
+                            "dally",
+                            "drag one's feet",
+                            "drag one's heels",
+                            "take one's time"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

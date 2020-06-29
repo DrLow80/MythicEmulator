@@ -1,0 +1,45 @@
+[
+    {
+        "word": "delay",
+        "phonetic": "/dəˈlā/",
+        "origin": "Middle English from Old French delayer (verb).",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Make (someone or something) late or slow.",
+                        "example": "the train was delayed",
+                        "synonyms": [
+                            "detain",
+                            "hold up",
+                            "make late",
+                            "retard",
+                            "keep",
+                            "keep back",
+                            "slow up",
+                            "slow down",
+                            "set back",
+                            "bog down"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A period of time by which something is late or postponed.",
+                        "example": "a two-hour delay",
+                        "synonyms": [
+                            "hold-up",
+                            "wait",
+                            "waiting period",
+                            "detainment"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

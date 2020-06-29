@@ -1,0 +1,35 @@
+[
+    {
+        "word": "haggle",
+        "phonetic": "/ˈhaɡəl/",
+        "origin": "Late 16th century (in the sense ‘hack, mangle’): from Old Norse hǫggva ‘hew’.",
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Dispute or bargain persistently, especially over the cost of something.",
+                        "example": "the two sides are haggling over television rights",
+                        "synonyms": [
+                            "barter",
+                            "bargain",
+                            "negotiate",
+                            "discuss terms",
+                            "quibble",
+                            "wrangle"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A period of persistent bargaining.",
+                        "example": "an inevitable and lengthy haggle over compensation"
+                    }
+                ]
+            }
+        ]
+    }
+]

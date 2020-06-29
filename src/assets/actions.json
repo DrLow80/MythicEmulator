@@ -1,0 +1,345 @@
+{
+  "Items": [
+    {
+      "name": "Abandon",
+      "definition": "Cease to support or look after (someone); desert."
+    },
+    {
+      "name": "Abuse",
+      "definition": "Use (something) to bad effect or for a bad purpose; misuse."
+    },
+    {
+      "name": "Activity",
+      "definition": "The condition in which things are happening or being done."
+    },
+    {
+      "name": "Adjourn",
+      "definition": "Break off (a meeting, legal case, or game) with the intention of resuming it later."
+    },
+    { "name": "Adversity", "definition": "Difficulties; misfortune." },
+    {
+      "name": "Agree",
+      "definition": "Have the same opinion about something; concur."
+    },
+    {
+      "name": "Ambush",
+      "definition": "Make a surprise attack on (someone) from a concealed position."
+    },
+    {
+      "name": "Antagonize",
+      "definition": "Cause (someone) to become hostile."
+    },
+    {
+      "name": "Arrive",
+      "definition": "Reach a place at the end of a journey or a stage in a journey."
+    },
+    {
+      "name": "Assist",
+      "definition": "Help (someone), typically by doing a share of the work."
+    },
+    { "name": "Attach", "definition": "Fasten; join." },
+    {
+      "name": "Attainment",
+      "definition": "The action or fact of achieving a goal toward which one has worked."
+    },
+    {
+      "name": "Attract",
+      "definition": "Cause to come to a place or participate in a venture by offering something of interest, favorable conditions, or opportunities."
+    },
+    {
+      "name": "Befriend",
+      "definition": "Act as a friend to (someone) by offering help or support."
+    },
+    {
+      "name": "Bestow",
+      "definition": "Confer or present (an honor, right, or gift)"
+    },
+    {
+      "name": "Betray",
+      "definition": "Expose (one's country, a group, or a person) to danger by treacherously giving information to an enemy."
+    },
+    {
+      "name": "Block",
+      "definition": "Make the movement or flow in (a passage, pipe, road, etc.) difficult or impossible."
+    },
+    {
+      "name": "Break",
+      "definition": "Separate or cause to separate into pieces as a result of a blow, shock, or strain."
+    },
+    {
+      "name": "Care",
+      "definition": "Feel concern or interest; attach importance to something."
+    },
+    {
+      "name": "Carelessness",
+      "definition": "Failure to give sufficient attention to avoiding harm or errors; negligence."
+    },
+    {
+      "name": "Carry",
+      "definition": "Support and move (someone or something) from one place to another."
+    },
+    {
+      "name": "Celebrate",
+      "definition": "Acknowledge (a significant or happy day or event) with a social gathering or enjoyable activity."
+    },
+    { "name": "Change", "definition": "Make or become different." },
+    {
+      "name": "Communicate",
+      "definition": "Share or exchange information, news, or ideas."
+    },
+    {
+      "name": "Control",
+      "definition": "Determine the behavior or supervise the running of."
+    },
+    { "name": "Create", "definition": "Bring (something) into existence." },
+    {
+      "name": "Cruelty",
+      "definition": "Callous indifference to or pleasure in causing pain and suffering."
+    },
+    {
+      "name": "Debase",
+      "definition": "Reduce (something) in quality or value; degrade."
+    },
+    {
+      "name": "Deceive",
+      "definition": "(of a person) cause (someone) to believe something that is not true, typically in order to gain some personal advantage."
+    },
+    {
+      "name": "Decrease",
+      "definition": "Make or become smaller or fewer in size, amount, intensity, or degree."
+    },
+    {
+      "name": "Delay",
+      "definition": "Make (someone or something) late or slow."
+    },
+    {
+      "name": "Desert",
+      "definition": "Abandon (a person, cause, or organization) in a way considered disloyal or treacherous."
+    },
+    {
+      "name": "Develop",
+      "definition": "Grow or cause to grow and become more mature, advanced, or elaborate."
+    },
+    {
+      "name": "Dispute",
+      "definition": "Argue about (something); discuss heatedly."
+    },
+    {
+      "name": "Disrupt",
+      "definition": "Interrupt (an event, activity, or process) by causing a disturbance or problem."
+    },
+    { "name": "Divide", "definition": "Separate or be separated into parts." },
+    {
+      "name": "Dominate",
+      "definition": "Have a commanding influence on; exercise control over."
+    },
+    {
+      "name": "Excitement",
+      "definition": "A feeling of great enthusiasm and eagerness."
+    },
+    {
+      "name": "Expose",
+      "definition": "Make (something) visible by uncovering it."
+    },
+    {
+      "name": "Extravagance",
+      "definition": "Lack of restraint in spending money or use of resources."
+    },
+    { "name": "Failure", "definition": "Lack of success." },
+    {
+      "name": "Fight",
+      "definition": "Take part in a violent struggle involving the exchange of physical blows or the use of weapons."
+    },
+    {
+      "name": "Gratify",
+      "definition": "Give (someone) pleasure or satisfaction."
+    },
+    { "name": "Guide", "definition": "Show or indicate the way to (someone)" },
+    {
+      "name": "Haggle",
+      "definition": "Dispute or bargain persistently, especially over the cost of something."
+    },
+    { "name": "Harm", "definition": "Physically injure." },
+    {
+      "name": "Heal",
+      "definition": "(of a person or treatment) cause (a wound, injury, or person) to become sound or healthy again."
+    },
+    { "name": "Imitate", "definition": "Take or follow as a model." },
+    {
+      "name": "Imprison",
+      "definition": "Put or keep in prison or a place like a prison."
+    },
+    {
+      "name": "Increase",
+      "definition": "Become or make greater in size, amount, intensity, or degree."
+    },
+    {
+      "name": "Inform",
+      "definition": "Give (someone) facts or information; tell."
+    },
+    { "name": "Inquire", "definition": "Ask for information from someone." },
+    {
+      "name": "Inspect",
+      "definition": "Look at (someone or something) closely, typically to assess their condition or to discover any shortcomings."
+    },
+    {
+      "name": "Intolerance",
+      "definition": "Unwillingness to accept views, beliefs, or behavior that differ from one's own."
+    },
+    { "name": "Judge", "definition": "Form an opinion or conclusion about." },
+    {
+      "name": "Kill",
+      "definition": "Cause the death of (a person, animal, or other living thing)"
+    },
+    { "name": "Lie", "definition": "Tell a lie or lies." },
+    {
+      "name": "Malice",
+      "definition": "The intention or desire to do evil; ill will."
+    },
+    {
+      "name": "Mistrust",
+      "definition": "Be suspicious of; have no confidence in."
+    },
+    {
+      "name": "Move",
+      "definition": "Go in a specified direction or manner; change position."
+    },
+    { "name": "Neglect", "definition": "Fail to care for properly." },
+    {
+      "name": "Negligence",
+      "definition": "Failure to take proper care in doing something."
+    },
+    {
+      "name": "Open",
+      "definition": "Move or adjust (a door or window) so as to leave a space allowing access and view."
+    },
+    {
+      "name": "Oppose",
+      "definition": "Disapprove of and attempt to prevent, especially by argument."
+    },
+    {
+      "name": "Oppress",
+      "definition": "Keep (someone) in subservience and hardship, especially by the unjust exercise of authority."
+    },
+    {
+      "name": "Overindulge",
+      "definition": "Have too much of something enjoyable, especially food or drink."
+    },
+    { "name": "Overthrow", "definition": "Remove forcibly from power." },
+    {
+      "name": "Passion",
+      "definition": "Strong and barely controllable emotion."
+    },
+    {
+      "name": "Persecute",
+      "definition": "Subject (someone) to hostility and ill-treatment, especially because of their race or political or religious beliefs."
+    },
+    {
+      "name": "Postpone",
+      "definition": "Cause or arrange for (something) to take place at a time later than that first scheduled."
+    },
+    {
+      "name": "Praise",
+      "definition": "Express warm approval or admiration of."
+    },
+    {
+      "name": "Proceedings",
+      "definition": "An event or a series of activities involving a formal or set procedure."
+    },
+    {
+      "name": "Procrastinate",
+      "definition": "Delay or postpone action; put off doing something."
+    },
+    {
+      "name": "Propose",
+      "definition": "Put forward (an idea or plan) for consideration or discussion by others."
+    },
+    {
+      "name": "Punish",
+      "definition": "Inflict a penalty or sanction on (someone) as retribution for an offense, especially a transgression of a legal or moral code."
+    },
+    {
+      "name": "Pursue",
+      "definition": "Follow (someone or something) in order to catch or attack them."
+    },
+    {
+      "name": "Recruit",
+      "definition": "Enlist (someone) in the armed forces."
+    },
+    {
+      "name": "Refuse",
+      "definition": "Indicate or show that one is not willing to do something."
+    },
+    {
+      "name": "Release",
+      "definition": "Allow or enable to escape from confinement; set free."
+    },
+    { "name": "Return", "definition": "Come or go back to a place or person." },
+    {
+      "name": "Ruin",
+      "definition": "Reduce (a building or place) to a state of decay, collapse, or disintegration."
+    },
+    { "name": "Separate", "definition": "Cause to move or be apart." },
+    {
+      "name": "Spy",
+      "definition": "Work for a government or other organization by secretly collecting information about enemies or competitors."
+    },
+    {
+      "name": "Starting",
+      "definition": "Begin or be reckoned from a particular point in time or space; come into being."
+    },
+    {
+      "name": "Stop",
+      "definition": "(of an event, action, or process) come to an end; cease to happen."
+    },
+    {
+      "name": "Struggle",
+      "definition": "Make forceful or violent efforts to get free of restraint or constriction."
+    },
+    {
+      "name": "Take",
+      "definition": "Lay hold of (something) with one's hands; reach for and hold."
+    },
+    {
+      "name": "Transform",
+      "definition": "Make a thorough or dramatic change in the form, appearance, or character of."
+    },
+    {
+      "name": "Travel",
+      "definition": "Go from one place to another, typically over a distance of some length."
+    },
+    {
+      "name": "Trick",
+      "definition": "Deceive or outwit (someone) by being cunning or skillful."
+    },
+    { "name": "Triumph", "definition": "Achieve a victory; be successful." },
+    {
+      "name": "Truce",
+      "definition": "An agreement between enemies or opponents to stop fighting or arguing for a certain time."
+    },
+    {
+      "name": "Trust",
+      "definition": "Believe in the reliability, truth, ability, or strength of."
+    },
+    {
+      "name": "Usurp",
+      "definition": "Take (a position of power or importance) illegally or by force."
+    },
+    {
+      "name": "Vengeance",
+      "definition": "Punishment inflicted or retribution exacted for an injury or wrong."
+    },
+    {
+      "name": "Violate",
+      "definition": "Break or fail to comply with (a rule or formal agreement)"
+    },
+    {
+      "name": "Waste",
+      "definition": "Use or expend carelessly, extravagantly, or to no purpose."
+    },
+    {
+      "name": "Work hard",
+      "definition": "A great deal of effort or endurance."
+    }
+  ]
+}

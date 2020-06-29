@@ -1,0 +1,37 @@
+[
+    {
+        "word": "riches",
+        "phonetic": "/ˈriCHiz/",
+        "origin": "Middle English variant (later interpreted as a plural form) of archaic richesse, from Old French richeise (from riche ‘rich’).",
+        "meanings": [
+            {
+                "partOfSpeech": "plural noun",
+                "definitions": [
+                    {
+                        "definition": "Material wealth.",
+                        "example": "riches beyond their wildest dreams",
+                        "synonyms": [
+                            "money",
+                            "wealth",
+                            "finance",
+                            "finances",
+                            "funds",
+                            "cash",
+                            "hard cash",
+                            "lucre",
+                            "filthy lucre",
+                            "wherewithal",
+                            "means",
+                            "assets",
+                            "liquid assets",
+                            "capital",
+                            "resources",
+                            "reserves",
+                            "deep pockets"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

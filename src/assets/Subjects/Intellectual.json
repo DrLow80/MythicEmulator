@@ -1,0 +1,47 @@
+[
+    {
+        "word": "intellectual",
+        "phonetic": "/ˌin(t)əˈlek(t)SH(o͞o)əl/",
+        "origin": "Late Middle English from Latin intellectualis, from intellectus ‘understanding’, from intellegere ‘understand’ (see intelligent).",
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to the intellect.",
+                        "example": "children need intellectual stimulation",
+                        "synonyms": [
+                            "mental",
+                            "cerebral",
+                            "cognitive"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person possessing a highly developed intellect.",
+                        "example": "a prominent political thinker and intellectual",
+                        "synonyms": [
+                            "intelligent person",
+                            "learned person",
+                            "highbrow",
+                            "academic",
+                            "bookworm",
+                            "bookish person",
+                            "man of letters",
+                            "woman of letters",
+                            "bluestocking",
+                            "thinker",
+                            "brain",
+                            "scholar",
+                            "sage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "word": "idea",
+        "phonetic": "/ʌɪˈdɪə/",
+        "origin": "Late Middle English (in idea (sense 3)): via Latin from Greek idea ‘form, pattern’, from the base of idein ‘to see’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A thought or suggestion as to a possible course of action.",
+                        "example": "the idea of linking pay to performance has caught on",
+                        "synonyms": [
+                            "plan",
+                            "design",
+                            "scheme",
+                            "project",
+                            "proposal",
+                            "proposition",
+                            "suggestion",
+                            "recommendation",
+                            "aim",
+                            "intention",
+                            "objective",
+                            "object",
+                            "purpose",
+                            "end",
+                            "goal",
+                            "target"
+                        ]
+                    },
+                    {
+                        "definition": "The aim or purpose.",
+                        "example": "I took a job with the idea of getting some money together",
+                        "synonyms": [
+                            "purpose",
+                            "point",
+                            "aim",
+                            "object",
+                            "objective",
+                            "goal",
+                            "intention",
+                            "end",
+                            "end in view",
+                            "design",
+                            "reason",
+                            "use",
+                            "utility",
+                            "sense",
+                            "motive"
+                        ]
+                    },
+                    {
+                        "definition": "(in Platonic thought) an eternally existing pattern of which individual things in any class are imperfect copies.",
+                        "example": "For example, the \"Form\" or \"Idea\" of a horse is intelligible, abstract, and applies to all horses."
+                    }
+                ]
+            }
+        ]
+    }
+]

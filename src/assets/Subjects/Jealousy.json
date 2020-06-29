@@ -1,0 +1,24 @@
+[
+    {
+        "word": "jealousy",
+        "phonetic": "/ˈjeləsē/",
+        "origin": "Middle English from Old French gelosie, from gelos (see jealous).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state or feeling of being jealous.",
+                        "example": "a sharp pang of jealousy",
+                        "synonyms": [
+                            "envy",
+                            "enviousness",
+                            "covetousness",
+                            "desire"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

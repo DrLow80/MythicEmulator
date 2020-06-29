@@ -1,0 +1,31 @@
+[
+    {
+        "word": "extravagance",
+        "phonetic": "/ikˈstravəɡəns/",
+        "origin": "Mid 17th century from French, from medieval Latin extravagant- ‘diverging greatly’, from the verb extravagari (see extravagant).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Lack of restraint in spending money or use of resources.",
+                        "example": "his reckless extravagance with other people's money",
+                        "synonyms": [
+                            "profligacy",
+                            "lack of thrift",
+                            "unthriftiness",
+                            "thriftlessness",
+                            "improvidence",
+                            "wastefulness",
+                            "waste",
+                            "overspending",
+                            "prodigality",
+                            "squandering",
+                            "lavishness"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

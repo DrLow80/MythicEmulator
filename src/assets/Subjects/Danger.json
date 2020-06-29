@@ -1,0 +1,27 @@
+[
+    {
+        "word": "danger",
+        "phonetic": "/ˈdānjər/",
+        "origin": "Middle English (in the sense ‘jurisdiction or power’, specifically ‘power to harm’): from Old French dangier, based on Latin dominus ‘lord’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The possibility of suffering harm or injury.",
+                        "example": "his life was in danger",
+                        "synonyms": [
+                            "peril",
+                            "hazard",
+                            "risk",
+                            "jeopardy",
+                            "endangerment",
+                            "imperilment",
+                            "insecurity"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "word": "oppose",
+        "phonetic": "/əˈpōz/",
+        "origin": "Late Middle English from Old French opposer, from Latin opponere (see opponent), but influenced by Latin oppositus ‘set or placed against’ and Old French poser ‘to place’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Disapprove of and attempt to prevent, especially by argument.",
+                        "example": "those of you who oppose capital punishment",
+                        "synonyms": [
+                            "disapprove of",
+                            "oppose",
+                            "dissent from",
+                            "think wrong",
+                            "be against",
+                            "have a problem with",
+                            "demur about",
+                            "demur against",
+                            "not believe in",
+                            "not support"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

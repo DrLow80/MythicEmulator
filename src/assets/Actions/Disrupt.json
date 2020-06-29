@@ -1,0 +1,29 @@
+[
+    {
+        "word": "disrupt",
+        "phonetic": "/disˈrəpt/",
+        "origin": "Late Middle English from Latin disrupt- ‘broken apart’, from the verb disrumpere.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Interrupt (an event, activity, or process) by causing a disturbance or problem.",
+                        "example": "a rail strike that could disrupt both passenger and freight service",
+                        "synonyms": [
+                            "throw into confusion",
+                            "throw into disorder",
+                            "throw into disarray",
+                            "cause confusion in",
+                            "cause turmoil in",
+                            "play havoc with",
+                            "derange",
+                            "turn upside-down",
+                            "make a mess of"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

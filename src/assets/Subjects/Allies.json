@@ -1,0 +1,43 @@
+[
+    {
+        "word": "ally",
+        "phonetic": "/ˈalʌɪ/",
+        "origin": "Middle English (as a verb): from Old French alier, from Latin alligare ‘bind together’, from ad- ‘to’ + ligare ‘to bind’; the noun is partly via Old French alie ‘allied’. Compare with alloy.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A state formally cooperating with another for a military or other purpose.",
+                        "example": "debate continued among NATO allies"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Combine or unite a resource or commodity with (another) for mutual benefit.",
+                        "example": "he allied his racing experience with his father's business acumen",
+                        "synonyms": [
+                            "combine",
+                            "marry",
+                            "couple",
+                            "merge",
+                            "amalgamate",
+                            "join",
+                            "pool",
+                            "fuse",
+                            "weld",
+                            "knit"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "ally",
+        "meanings": []
+    }
+]

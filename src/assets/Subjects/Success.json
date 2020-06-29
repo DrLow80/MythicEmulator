@@ -1,0 +1,27 @@
+[
+    {
+        "word": "success",
+        "phonetic": "/səkˈses/",
+        "origin": "Mid 16th century from Latin successus, from the verb succedere ‘come close after’ (see succeed).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The accomplishment of an aim or purpose.",
+                        "example": "the president had some success in restoring confidence",
+                        "synonyms": [
+                            "favourable outcome",
+                            "successfulness",
+                            "favourable result",
+                            "successful outcome",
+                            "positive result",
+                            "victory",
+                            "triumph"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

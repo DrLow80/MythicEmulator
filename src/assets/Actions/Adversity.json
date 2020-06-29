@@ -1,0 +1,42 @@
+[
+    {
+        "word": "adversity",
+        "phonetic": "/ədˈvərsədē/",
+        "origin": "Middle English from Old French adversite, from Latin adversitas, from advertere ‘turn towards’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Difficulties; misfortune.",
+                        "example": "resilience in the face of adversity",
+                        "synonyms": [
+                            "misfortune",
+                            "ill luck",
+                            "bad luck",
+                            "trouble",
+                            "difficulty",
+                            "hardship",
+                            "distress",
+                            "disaster",
+                            "misadventure",
+                            "suffering",
+                            "affliction",
+                            "sorrow",
+                            "misery",
+                            "heartbreak",
+                            "heartache",
+                            "wretchedness",
+                            "tribulation",
+                            "woe",
+                            "pain",
+                            "trauma",
+                            "torment",
+                            "torture"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

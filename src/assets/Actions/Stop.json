@@ -1,0 +1,78 @@
+[
+    {
+        "word": "stop",
+        "phonetic": "/stäp/",
+        "origin": "Old English (for)stoppian ‘block up (an aperture)’, of West Germanic origin; related to German stopfen, from late Latin stuppare ‘to stuff’.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "(of an event, action, or process) come to an end; cease to happen.",
+                        "example": "his laughter stopped as quickly as it had begun",
+                        "synonyms": [
+                            "come to an end",
+                            "come to a stop",
+                            "cease",
+                            "end",
+                            "finish",
+                            "draw to a close",
+                            "be over",
+                            "conclude",
+                            "terminate",
+                            "come to a standstill"
+                        ]
+                    },
+                    {
+                        "definition": "Cause (an action, process, or event) to come to an end.",
+                        "example": "this harassment has got to be stopped",
+                        "synonyms": [
+                            "put an end to",
+                            "put a stop to",
+                            "bring to an end",
+                            "end",
+                            "bring to a stop",
+                            "halt",
+                            "bring to a halt"
+                        ]
+                    },
+                    {
+                        "definition": "Block or close up (a hole or leak)",
+                        "example": "he tried to stop the hole with the heel of his boot",
+                        "synonyms": [
+                            "block",
+                            "block up",
+                            "plug",
+                            "close",
+                            "close up",
+                            "fill",
+                            "fill up"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A cessation of movement or operation.",
+                        "example": "all business came to a stop",
+                        "synonyms": [
+                            "halt",
+                            "end",
+                            "finish",
+                            "close",
+                            "standstill"
+                        ]
+                    },
+                    {
+                        "definition": "A set of organ pipes of a particular tone and range of pitch."
+                    },
+                    {
+                        "definition": "The effective diameter of a lens."
+                    }
+                ]
+            }
+        ]
+    }
+]

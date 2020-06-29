@@ -1,0 +1,88 @@
+[
+    {
+        "word": "public",
+        "phonetic": "/ˈpəblik/",
+        "origin": "Late Middle English from Old French, from Latin publicus, blend of poplicus ‘of the people’ (from populus ‘people’) and pubes ‘adult’.",
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or concerning the people as a whole.",
+                        "example": "public concern",
+                        "synonyms": [
+                            "popular",
+                            "general",
+                            "common",
+                            "communal",
+                            "collective",
+                            "shared",
+                            "joint",
+                            "universal",
+                            "widespread"
+                        ]
+                    },
+                    {
+                        "definition": "Done, perceived, or existing in open view.",
+                        "example": "he wanted a public apology in the Wall Street Journal",
+                        "synonyms": [
+                            "known",
+                            "widely known",
+                            "overt",
+                            "plain",
+                            "obvious",
+                            "in circulation",
+                            "published",
+                            "publicized",
+                            "exposed"
+                        ]
+                    },
+                    {
+                        "definition": "Of or provided by the government rather than an independent, commercial company.",
+                        "example": "public benefits",
+                        "synonyms": [
+                            "state",
+                            "national",
+                            "federal",
+                            "government"
+                        ]
+                    },
+                    {
+                        "definition": "Of, for, or acting for a university.",
+                        "example": "public examination results"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Ordinary people in general; the community.",
+                        "example": "the library is open to the public",
+                        "synonyms": [
+                            "people",
+                            "citizens",
+                            "subjects",
+                            "general public",
+                            "electors",
+                            "electorate",
+                            "voters",
+                            "taxpayers",
+                            "ratepayers",
+                            "residents",
+                            "inhabitants",
+                            "citizenry",
+                            "population",
+                            "populace",
+                            "community",
+                            "society",
+                            "country",
+                            "nation",
+                            "world"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

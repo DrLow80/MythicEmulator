@@ -1,0 +1,81 @@
+[
+    {
+        "word": "magic",
+        "phonetic": "/ˈmajik/",
+        "origin": "Late Middle English from Old French magique, from Latin magicus (adjective), late Latin magica (noun), from Greek magikē (tekhnē) ‘(art of) a magus’ magi were regarded as magicians.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The power of apparently influencing the course of events by using mysterious or supernatural forces.",
+                        "example": "suddenly, as if by magic, the doors start to open",
+                        "synonyms": [
+                            "sorcery",
+                            "witchcraft",
+                            "wizardry",
+                            "necromancy",
+                            "enchantment",
+                            "spellworking",
+                            "incantation",
+                            "the supernatural",
+                            "occultism",
+                            "the occult",
+                            "black magic",
+                            "the black arts",
+                            "devilry",
+                            "divination",
+                            "malediction",
+                            "voodoo",
+                            "hoodoo",
+                            "sympathetic magic",
+                            "white magic",
+                            "witching",
+                            "witchery"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Used in magic or working by magic; having or apparently having supernatural powers.",
+                        "example": "a magic wand",
+                        "synonyms": [
+                            "supernatural",
+                            "enchanted",
+                            "occult",
+                            "Druidical"
+                        ]
+                    },
+                    {
+                        "definition": "Wonderful; exciting.",
+                        "synonyms": [
+                            "fascinating",
+                            "captivating",
+                            "charming",
+                            "glamorous",
+                            "magical",
+                            "enchanting",
+                            "entrancing",
+                            "spellbinding",
+                            "magnetic",
+                            "irresistible",
+                            "hypnotic"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Move, change, or create by or as if by magic.",
+                        "example": "he must have been magicked out of the car at the precise second it exploded"
+                    }
+                ]
+            }
+        ]
+    }
+]

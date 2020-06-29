@@ -1,0 +1,81 @@
+[
+    {
+        "word": "change",
+        "phonetic": "/CHānj/",
+        "origin": "Middle English from Old French change (noun), changer (verb), from late Latin cambiare, from Latin cambire ‘barter’, probably of Celtic origin.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Make or become different.",
+                        "example": "a proposal to change the law",
+                        "synonyms": [
+                            "convert",
+                            "change",
+                            "transform",
+                            "make"
+                        ]
+                    },
+                    {
+                        "definition": "Take or use another instead of.",
+                        "example": "she decided to change her name"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act or instance of making or becoming different.",
+                        "example": "the change from a nomadic to an agricultural society"
+                    },
+                    {
+                        "definition": "Coins as opposed to paper currency.",
+                        "example": "a handful of loose change",
+                        "synonyms": [
+                            "coins",
+                            "loose change",
+                            "small change",
+                            "cash",
+                            "petty cash",
+                            "coinage",
+                            "coin",
+                            "coin of the realm",
+                            "hard cash",
+                            "silver",
+                            "copper",
+                            "coppers",
+                            "gold"
+                        ]
+                    },
+                    {
+                        "definition": "An order in which a peal of bells can be rung.",
+                        "example": "Bell ringing is good exercise for the body and mind, the bells are heavy and the bell ringers have to remember the changes.",
+                        "synonyms": [
+                            "chime",
+                            "carillon",
+                            "ring",
+                            "ringing",
+                            "knell",
+                            "toll",
+                            "tolling",
+                            "sound",
+                            "sounding",
+                            "death knell",
+                            "clang",
+                            "boom",
+                            "resounding",
+                            "reverberation",
+                            "change",
+                            "touch"
+                        ]
+                    },
+                    {
+                        "definition": "A place where merchants met to do business."
+                    }
+                ]
+            }
+        ]
+    }
+]

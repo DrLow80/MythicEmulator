@@ -1,0 +1,27 @@
+[
+    {
+        "word": "reality",
+        "phonetic": "/rēˈalədē/",
+        "origin": "Late 15th century via French from medieval Latin realitas, from late Latin realis ‘relating to things’ (see real).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The world or the state of things as they actually exist, as opposed to an idealistic or notional idea of them.",
+                        "example": "he refuses to face reality",
+                        "synonyms": [
+                            "the real world",
+                            "real life",
+                            "actuality"
+                        ]
+                    },
+                    {
+                        "definition": "The state or quality of having existence or substance.",
+                        "example": "youth, when death has no reality"
+                    }
+                ]
+            }
+        ]
+    }
+]

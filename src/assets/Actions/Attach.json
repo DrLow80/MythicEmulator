@@ -1,0 +1,71 @@
+[
+    {
+        "word": "attach",
+        "phonetic": "/əˈtaCH/",
+        "origin": "Middle English (in the sense ‘seize by legal authority’): from Old French atachier or estachier ‘fasten, fix’, based on an element of Germanic origin related to stake; compare with attack.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Fasten; join.",
+                        "example": "he made certain that the trailer was securely attached to the van",
+                        "synonyms": [
+                            "fasten",
+                            "fix",
+                            "affix",
+                            "join",
+                            "connect",
+                            "couple",
+                            "link",
+                            "secure",
+                            "make fast",
+                            "tie",
+                            "tie up",
+                            "bind",
+                            "fetter",
+                            "strap",
+                            "rope",
+                            "tether",
+                            "truss",
+                            "lash",
+                            "hitch",
+                            "moor",
+                            "anchor",
+                            "yoke",
+                            "chain"
+                        ]
+                    },
+                    {
+                        "definition": "Attribute importance or value to.",
+                        "example": "he doesn't attach too much importance to radical ideas",
+                        "synonyms": [
+                            "lay",
+                            "pin",
+                            "place",
+                            "impose",
+                            "fix"
+                        ]
+                    },
+                    {
+                        "definition": "Seize (a person's property) by legal authority.",
+                        "example": "the court attached his wages for child support",
+                        "synonyms": [
+                            "seize",
+                            "confiscate",
+                            "commandeer",
+                            "requisition",
+                            "appropriate",
+                            "expropriate",
+                            "take possession of",
+                            "take away",
+                            "take",
+                            "sequester",
+                            "sequestrate"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

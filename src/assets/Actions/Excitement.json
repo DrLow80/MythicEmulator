@@ -1,0 +1,35 @@
+[
+    {
+        "word": "excitement",
+        "phonetic": "/ikˈsītmənt/",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A feeling of great enthusiasm and eagerness.",
+                        "example": "her cheeks were flushed with excitement",
+                        "synonyms": [
+                            "exhilaration",
+                            "elation",
+                            "animation",
+                            "enthusiasm",
+                            "eagerness",
+                            "anticipation",
+                            "feverishness",
+                            "fever",
+                            "delirium",
+                            "agitation",
+                            "emotion",
+                            "fire",
+                            "fieriness",
+                            "intensity",
+                            "zeal",
+                            "zest"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

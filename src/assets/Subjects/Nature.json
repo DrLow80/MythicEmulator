@@ -1,0 +1,54 @@
+[
+    {
+        "word": "nature",
+        "phonetic": "/ˈnāCHər/",
+        "origin": "Middle English (denoting the physical power of a person): from Old French, from Latin natura ‘birth, nature, quality’, from nat- ‘born’, from the verb nasci.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The phenomena of the physical world collectively, including plants, animals, the landscape, and other features and products of the earth, as opposed to humans or human creations.",
+                        "example": "the breathtaking beauty of nature",
+                        "synonyms": [
+                            "the natural world",
+                            "the living world",
+                            "Mother Nature",
+                            "creation",
+                            "the world",
+                            "the environment",
+                            "the earth",
+                            "Mother Earth",
+                            "the universe",
+                            "the cosmos",
+                            "natural forces"
+                        ]
+                    },
+                    {
+                        "definition": "The basic or inherent features of something, especially when seen as characteristic of it.",
+                        "example": "helping them to realize the nature of their problems",
+                        "synonyms": [
+                            "essence",
+                            "basic characteristics",
+                            "essential characteristics",
+                            "inherent characteristics",
+                            "basic qualities",
+                            "essential qualities",
+                            "inherent qualities",
+                            "basic attributes",
+                            "essential attributes",
+                            "inherent attributes",
+                            "basic features",
+                            "essential features",
+                            "inherent features",
+                            "sum and substance",
+                            "character",
+                            "identity",
+                            "complexion"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

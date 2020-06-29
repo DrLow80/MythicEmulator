@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bestow",
+        "phonetic": "/bəˈstō/",
+        "origin": "Middle English (in the sense ‘use for, devote to’): from be- (as an intensifier) + Old English stōw ‘place’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Confer or present (an honor, right, or gift)",
+                        "example": "the office was bestowed on him by the chief of state",
+                        "synonyms": [
+                            "confer on",
+                            "present to",
+                            "award to",
+                            "give",
+                            "grant",
+                            "vouchsafe",
+                            "accord to",
+                            "afford to"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

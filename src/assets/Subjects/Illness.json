@@ -1,0 +1,31 @@
+[
+    {
+        "word": "illness",
+        "phonetic": "/ˈilnəs/",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A disease or period of sickness affecting the body or mind.",
+                        "example": "he died after a long illness",
+                        "synonyms": [
+                            "sickness",
+                            "disease",
+                            "ailment",
+                            "disorder",
+                            "complaint",
+                            "malady",
+                            "affliction",
+                            "attack",
+                            "infection",
+                            "contagion",
+                            "disability",
+                            "indisposition"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

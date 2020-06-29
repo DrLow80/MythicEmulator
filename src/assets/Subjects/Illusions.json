@@ -1,0 +1,31 @@
+[
+    {
+        "word": "illusion",
+        "phonetic": "/ɪˈluːʒ(ə)n/",
+        "origin": "Middle English (in the sense ‘deceiving, deception’): via Old French from Latin illusio(n-), from illudere ‘to mock’, from in- ‘against’ + ludere ‘play’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An instance of a wrong or misinterpreted perception of a sensory experience.",
+                        "example": "stripes embellish the surface to create the illusion of various wood-grain textures",
+                        "synonyms": [
+                            "mirage",
+                            "hallucination",
+                            "apparition",
+                            "phantasm",
+                            "phantom",
+                            "vision",
+                            "spectre",
+                            "fantasy",
+                            "figment of the imagination",
+                            "will-o'-the-wisp",
+                            "trick of the light"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

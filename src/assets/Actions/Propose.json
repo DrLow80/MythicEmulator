@@ -1,0 +1,53 @@
+[
+    {
+        "word": "propose",
+        "phonetic": "/prəˈpōz/",
+        "origin": "Middle English from Old French proposer, from Latin proponere (see proponent), but influenced by Latin propositus ‘put or set forth’ and Old French poser ‘to place’.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Put forward (an idea or plan) for consideration or discussion by others.",
+                        "example": "he proposed a new nine-point peace plan",
+                        "synonyms": [
+                            "put forward",
+                            "suggest",
+                            "advance",
+                            "offer",
+                            "present",
+                            "move",
+                            "submit",
+                            "prefer",
+                            "file",
+                            "lodge",
+                            "table",
+                            "initiate",
+                            "bring",
+                            "bring forward",
+                            "come up with",
+                            "tender",
+                            "bid",
+                            "project",
+                            "recommend",
+                            "advocate",
+                            "propound",
+                            "proffer",
+                            "posit"
+                        ]
+                    },
+                    {
+                        "definition": "Make an offer of marriage to someone.",
+                        "example": "I have already proposed to Sarah",
+                        "synonyms": [
+                            "ask someone to marry you",
+                            "make an offer of marriage",
+                            "offer marriage",
+                            "ask for someone's hand in marriage"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "word": "spy",
+        "phonetic": "/spī/",
+        "origin": "Middle English shortening of Old French espie ‘espying’, espier ‘espy’, of Germanic origin, from an Indo-European root shared by Latin specere ‘behold, look’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who secretly collects and reports information on the activities, movements, and plans of an enemy or competitor.",
+                        "example": "They served as clerks and couriers, telephone and telegraph operators, code and cipher analysts, and spies behind enemy lines in Europe.",
+                        "synonyms": [
+                            "secret agent",
+                            "undercover agent",
+                            "enemy agent",
+                            "foreign agent",
+                            "secret service agent",
+                            "intelligence agent",
+                            "double agent",
+                            "counterspy",
+                            "industrial spy",
+                            "fifth columnist",
+                            "mole",
+                            "plant",
+                            "scout"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Work for a government or other organization by secretly collecting information about enemies or competitors.",
+                        "example": "he agreed to spy for the West",
+                        "synonyms": [
+                            "espionage",
+                            "undercover work",
+                            "cloak-and-dagger activities",
+                            "surveillance",
+                            "reconnaissance",
+                            "intelligence",
+                            "eavesdropping",
+                            "cyberespionage",
+                            "infiltration",
+                            "counter-espionage",
+                            "counter-intelligence"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "word": "postpone",
+        "phonetic": "/pōˈspōn/",
+        "origin": "Late 15th century from Latin postponere, from post ‘after’ + ponere ‘to place’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Cause or arrange for (something) to take place at a time later than that first scheduled.",
+                        "example": "the visit had to be postponed for some time",
+                        "synonyms": [
+                            "put off",
+                            "delay",
+                            "defer",
+                            "put back",
+                            "hold off",
+                            "hold over",
+                            "carry over",
+                            "reschedule",
+                            "adjourn",
+                            "stay",
+                            "shelve",
+                            "stand over",
+                            "pigeonhole",
+                            "keep in abeyance",
+                            "suspend",
+                            "mothball"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

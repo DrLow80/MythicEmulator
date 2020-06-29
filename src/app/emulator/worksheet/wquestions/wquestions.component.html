@@ -1,0 +1,114 @@
+<div *ngIf="isEnabled">
+  <form action="">
+    <div class="form-group">
+      <label for="question">Question</label>
+      <input
+        type="text"
+        class="form-control"
+        id="question"
+        name="question"
+        [(ngModel)]="questionText"
+      />
+    </div>
+
+    <div class="form-group">
+      <div class="btn-group d-flex" role="group">
+        <button
+          type="button"
+          class="btn btn-danger"
+          (click)="addQuestion('Impossible')"
+        >
+          Impossible
+        </button>
+        <button
+          type="button"
+          class="btn btn-danger"
+          (click)="addQuestion('No Way')"
+        >
+          No Way
+        </button>
+        <button
+          type="button"
+          class="btn btn-danger"
+          (click)="addQuestion('Very Unlikely')"
+        >
+          Very Unlikely
+        </button>
+        <button
+          type="button"
+          class="btn btn-danger"
+          (click)="addQuestion('Unlikely')"
+        >
+          Unlikely
+        </button>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="btn-group d-flex">
+        <button class="btn btn-secondary" (click)="addQuestion('50 50')">
+          50 50
+        </button>
+      </div>
+    </div>
+
+    <div class="form-group">
+      <div class="btn-group d-flex" role="group">
+        <button
+          class="btn btn-success"
+          type="button"
+          (click)="addQuestion('Somewhat Likley')"
+        >
+          Somewhat Likley
+        </button>
+        <button
+          class="btn btn-success"
+          type="button"
+          (click)="addQuestion('Likely')"
+        >
+          Likley
+        </button>
+        <button
+          class="btn btn-success"
+          type="button"
+          (click)="addQuestion('Very Likely')"
+        >
+          Very Likley
+        </button>
+        <button
+          class="btn btn-success"
+          type="button"
+          (click)="addQuestion('Near Sure Thing')"
+        >
+          Near Sure Thing
+        </button>
+        <button
+          class="btn btn-success"
+          type="button"
+          (click)="addQuestion('A Sure Thing')"
+        >
+          A Sure Thing
+        </button>
+        <button
+          class="btn btn-success"
+          type="button"
+          (click)="addQuestion('Has To Be')"
+        >
+          Has to be
+        </button>
+      </div>
+    </div>
+  </form>
+
+  <table class="table">
+    <tr *ngFor="let item of questions">
+      <td>
+        <strong>
+          {{ item.question }}
+        </strong>
+        <br />
+        {{ item.result }}
+      </td>
+    </tr>
+  </table>
+</div>

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "usurp",
+        "phonetic": "/yo͞oˈsərp/",
+        "origin": "Middle English (in the sense ‘appropriate a right wrongfully’): from Old French usurper, from Latin usurpare ‘seize for use’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Take (a position of power or importance) illegally or by force.",
+                        "example": "Richard usurped the throne",
+                        "synonyms": [
+                            "seize",
+                            "take over",
+                            "expropriate",
+                            "take possession of",
+                            "take",
+                            "appropriate",
+                            "steal",
+                            "wrest",
+                            "arrogate",
+                            "commandeer",
+                            "annex",
+                            "assume",
+                            "lay claim to"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

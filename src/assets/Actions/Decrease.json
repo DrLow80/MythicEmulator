@@ -1,0 +1,51 @@
+[
+    {
+        "word": "decrease",
+        "phonetic": "/dəˈkrēs/",
+        "origin": "Late Middle English from Old French decreis (noun), decreistre (verb), based on Latin decrescere, from de- ‘down’ + crescere ‘grow’.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Make or become smaller or fewer in size, amount, intensity, or degree.",
+                        "example": "the population of the area has decreased radically",
+                        "synonyms": [
+                            "lessen",
+                            "become less",
+                            "grow less",
+                            "become smaller",
+                            "grow smaller",
+                            "reduce",
+                            "drop",
+                            "diminish",
+                            "decline",
+                            "dwindle",
+                            "contract",
+                            "shrink",
+                            "fall off",
+                            "die down"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An instance or example of becoming smaller or fewer.",
+                        "example": "a decrease in births",
+                        "synonyms": [
+                            "reduction",
+                            "drop",
+                            "lessening",
+                            "lowering",
+                            "decline",
+                            "falling off"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

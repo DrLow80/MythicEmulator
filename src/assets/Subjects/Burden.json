@@ -1,0 +1,70 @@
+[
+    {
+        "word": "burden",
+        "phonetic": "/ˈbərdn/",
+        "origin": "Old English byrthen, of West Germanic origin; related to bear.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A load, typically a heavy one.",
+                        "example": "And laying my heavy burden in the safe hands of the luggage compartment I went to my seat and was given rest.",
+                        "synonyms": [
+                            "load",
+                            "cargo",
+                            "freight",
+                            "weight"
+                        ]
+                    },
+                    {
+                        "definition": "The main theme or gist of a speech, book, or argument.",
+                        "example": "the burden of his views",
+                        "synonyms": [
+                            "gist",
+                            "substance",
+                            "drift",
+                            "implication",
+                            "intention",
+                            "thrust",
+                            "meaning",
+                            "significance",
+                            "signification",
+                            "sense",
+                            "essence",
+                            "thesis",
+                            "import",
+                            "purport",
+                            "tenor",
+                            "message",
+                            "spirit"
+                        ]
+                    },
+                    {
+                        "definition": "The refrain or chorus of a song.",
+                        "example": "It is to be found in many cultures and periods, for example in the medieval carol, where the burden represents the A section.",
+                        "synonyms": [
+                            "refrain",
+                            "burden",
+                            "strain"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Load heavily.",
+                        "example": "she walked forward burdened with a wooden box",
+                        "synonyms": [
+                            "load",
+                            "weight",
+                            "charge"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

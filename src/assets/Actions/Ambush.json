@@ -1,0 +1,46 @@
+[
+    {
+        "word": "ambush",
+        "phonetic": "/ˈambo͝oSH/",
+        "origin": "Middle English (in the sense ‘place troops in hiding in order to surprise an enemy’): from Old French embusche (noun), embuschier (verb), based on a late Latin word meaning ‘to place in a wood’; related to bush.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A surprise attack by people lying in wait in a concealed position.",
+                        "example": "seven members of a patrol were killed in an ambush",
+                        "synonyms": [
+                            "surprise attack",
+                            "trap",
+                            "snare",
+                            "pitfall",
+                            "lure"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Make a surprise attack on (someone) from a concealed position.",
+                        "example": "they were ambushed and taken prisoner by the enemy",
+                        "synonyms": [
+                            "attack by surprise",
+                            "trap",
+                            "surprise",
+                            "pounce on",
+                            "lay a trap for",
+                            "set an ambush for",
+                            "lie in wait for",
+                            "waylay",
+                            "entrap",
+                            "ensnare"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

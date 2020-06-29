@@ -1,0 +1,26 @@
+[
+    {
+        "word": "punish",
+        "phonetic": "/ˈpəniSH/",
+        "origin": "Middle English from Old French puniss-, lengthened stem of punir ‘punish’, from Latin punire, from poena ‘penalty’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Inflict a penalty or sanction on (someone) as retribution for an offense, especially a transgression of a legal or moral code.",
+                        "example": "I have done wrong and I'm being punished for it",
+                        "synonyms": [
+                            "penalize",
+                            "discipline",
+                            "mete out punishment to",
+                            "bring someone to book",
+                            "teach someone a lesson",
+                            "make an example of"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

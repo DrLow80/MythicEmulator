@@ -1,0 +1,70 @@
+[
+    {
+        "word": "message",
+        "phonetic": "/ˈmɛsɪdʒ/",
+        "origin": "Middle English from Old French, based on Latin missus, past participle of mittere ‘send’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A verbal, written, or recorded communication sent to or left for a recipient who cannot be contacted directly.",
+                        "example": "if I'm not there leave a message on the answerphone",
+                        "synonyms": [
+                            "communication",
+                            "piece of information",
+                            "news",
+                            "word",
+                            "note",
+                            "memorandum",
+                            "memo",
+                            "email",
+                            "posting",
+                            "tweet",
+                            "letter",
+                            "line",
+                            "missive",
+                            "report",
+                            "bulletin",
+                            "communiqué",
+                            "dispatch",
+                            "intelligence",
+                            "notification",
+                            "announcement"
+                        ]
+                    },
+                    {
+                        "definition": "A significant political, social, or moral point that is being conveyed by a film, speech, etc.",
+                        "example": "a campaign to get the message about home security across",
+                        "synonyms": [
+                            "meaning",
+                            "sense",
+                            "import",
+                            "idea"
+                        ]
+                    },
+                    {
+                        "definition": "An errand.",
+                        "synonyms": [
+                            "errand",
+                            "task",
+                            "job",
+                            "commission",
+                            "chore",
+                            "mission"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Send a message to (someone), especially by email.",
+                        "example": "I was messaged by a Californian contact for some information"
+                    }
+                ]
+            }
+        ]
+    }
+]

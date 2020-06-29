@@ -1,0 +1,111 @@
+[
+    {
+        "word": "outside",
+        "phonetic": "/ˈoutsīd/",
+        "origin": "(of a person) excluded from a group or activity.(of an estimate) at the most.Away from or not belonging to a particular circle or institution.A remote possibility.1North American Beyond the boundaries of.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The external side or surface of something.",
+                        "example": "record the date on the outside of the file",
+                        "synonyms": [
+                            "external surface",
+                            "outer surface",
+                            "surface",
+                            "exterior",
+                            "outer side",
+                            "case",
+                            "skin",
+                            "shell",
+                            "crust",
+                            "husk",
+                            "covering",
+                            "outer layer",
+                            "sheath",
+                            "facade",
+                            "elevation",
+                            "front",
+                            "frontage"
+                        ]
+                    },
+                    {
+                        "definition": "The external appearance of someone or something.",
+                        "example": "was he as straight as he appeared on the outside?"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Situated on or near the exterior or external surface of something.",
+                        "example": "put the outside lights on",
+                        "synonyms": [
+                            "exterior",
+                            "external",
+                            "outer",
+                            "outermost",
+                            "outward",
+                            "outdoor",
+                            "out-of-doors"
+                        ]
+                    },
+                    {
+                        "definition": "Not belonging to or coming from within a particular group.",
+                        "example": "I have some outside help",
+                        "synonyms": [
+                            "independent",
+                            "consultant",
+                            "consulting",
+                            "hired",
+                            "temporary",
+                            "freelance",
+                            "casual",
+                            "visiting",
+                            "non-resident",
+                            "external",
+                            "extramural",
+                            "peripatetic"
+                        ]
+                    },
+                    {
+                        "definition": "Highest possible; greatest; maximum.",
+                        "example": "new monthly charges that, according to outside estimates, may total $8 per line"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "preposition",
+                "definitions": [
+                    {
+                        "definition": "Situated or moving beyond the boundaries or confines of.",
+                        "example": "there was a boy outside the door"
+                    },
+                    {
+                        "definition": "Beyond the limits or scope of.",
+                        "example": "the high cost of shipping has put it outside their price range"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Not within the boundaries or confines of a place.",
+                        "example": "the dog was still barking outside",
+                        "synonyms": [
+                            "outdoors",
+                            "out of doors",
+                            "out of the house",
+                            "on the outside",
+                            "externally",
+                            "exteriorly"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

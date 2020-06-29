@@ -1,0 +1,50 @@
+[
+    {
+        "word": "attention",
+        "phonetic": "/əˈten(t)SH(ə)n/",
+        "origin": "Late Middle English from Latin attentio(n-), from the verb attendere (see attend).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Notice taken of someone or something; the regarding of someone or something as interesting or important.",
+                        "example": "he drew attention to three spelling mistakes",
+                        "synonyms": [
+                            "awareness",
+                            "notice",
+                            "observation",
+                            "consciousness",
+                            "heed",
+                            "recognition",
+                            "regard",
+                            "scrutiny",
+                            "surveillance",
+                            "attentiveness"
+                        ]
+                    },
+                    {
+                        "definition": "The action of dealing with or taking special care of someone or something.",
+                        "example": "the business needed her attention",
+                        "synonyms": [
+                            "observation",
+                            "attentiveness",
+                            "intentness",
+                            "notice",
+                            "concentration",
+                            "heed",
+                            "heedfulness",
+                            "mindfulness",
+                            "regard",
+                            "scrutiny"
+                        ]
+                    },
+                    {
+                        "definition": "A position assumed by a soldier, standing very straight with the heels together and the arms straight down the sides of the body.",
+                        "example": "the squadron stood to attention when we arrived"
+                    }
+                ]
+            }
+        ]
+    }
+]

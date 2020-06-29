@@ -1,0 +1,64 @@
+[
+    {
+        "word": "expose",
+        "phonetic": "/ikˈspōz/",
+        "origin": "Late Middle English from Old French exposer, from Latin exponere (see expound), but influenced by Latin expositus ‘put or set out’ and Old French poser ‘to place’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Make (something) visible by uncovering it.",
+                        "synonyms": [
+                            "reveal",
+                            "uncover",
+                            "lay bare",
+                            "bare",
+                            "leave unprotected"
+                        ]
+                    },
+                    {
+                        "definition": "Reveal the true, objectionable nature of (someone or something)",
+                        "synonyms": [
+                            "uncover",
+                            "reveal",
+                            "show",
+                            "display",
+                            "exhibit",
+                            "disclose",
+                            "manifest",
+                            "unveil",
+                            "unmask"
+                        ]
+                    },
+                    {
+                        "definition": "Subject (photographic film) to light when operating a camera."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "exposé",
+        "phonetic": "/ɪkˈspoʊz/",
+        "origin": "Early 19th century from French, ‘shown, set out’, past participle of exposer (see expose).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A report of the facts about something, especially a journalistic report that reveals something scandalous.",
+                        "example": "a shocking exposé of a medical cover-up",
+                        "synonyms": [
+                            "revelation",
+                            "disclosure",
+                            "exposure",
+                            "uncovering",
+                            "divulgence"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

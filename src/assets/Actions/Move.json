@@ -1,0 +1,102 @@
+[
+    {
+        "word": "move",
+        "phonetic": "/mo͞ov/",
+        "origin": "Middle English from Old French moveir, from Latin movere.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Go in a specified direction or manner; change position.",
+                        "example": "she stood up and moved to the door",
+                        "synonyms": [
+                            "go",
+                            "walk",
+                            "proceed",
+                            "progress",
+                            "advance",
+                            "pass"
+                        ]
+                    },
+                    {
+                        "definition": "Make progress; develop in a particular manner or direction.",
+                        "example": "aircraft design had moved forward a long way",
+                        "synonyms": [
+                            "progress",
+                            "make progress",
+                            "make headway",
+                            "advance",
+                            "develop"
+                        ]
+                    },
+                    {
+                        "definition": "Influence or prompt (someone) to do something.",
+                        "example": "his deep love of music moved him to take lessons with Dr. Hill",
+                        "synonyms": [
+                            "inspire",
+                            "prompt",
+                            "stimulate",
+                            "motivate",
+                            "provoke",
+                            "influence",
+                            "rouse",
+                            "actuate",
+                            "incline",
+                            "persuade",
+                            "urge",
+                            "lead",
+                            "cause",
+                            "impel",
+                            "induce",
+                            "incite",
+                            "excite"
+                        ]
+                    },
+                    {
+                        "definition": "Propose for discussion and resolution at a meeting or legislative assembly.",
+                        "example": "she intends to move an amendment to the Bill",
+                        "synonyms": [
+                            "propose",
+                            "submit",
+                            "suggest",
+                            "put forward",
+                            "advocate",
+                            "recommend",
+                            "request",
+                            "urge"
+                        ]
+                    },
+                    {
+                        "definition": "Empty (one's bowels)",
+                        "example": "if you haven't moved your bowels today you'd better do it now",
+                        "synonyms": [
+                            "empty",
+                            "empty out",
+                            "void",
+                            "open",
+                            "move",
+                            "purge",
+                            "drain"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A change of place, position, or state.",
+                        "example": "she made a sudden move toward me",
+                        "synonyms": [
+                            "movement",
+                            "motion",
+                            "action",
+                            "activity"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

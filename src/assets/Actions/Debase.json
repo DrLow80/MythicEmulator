@@ -1,0 +1,41 @@
+[
+    {
+        "word": "debase",
+        "phonetic": "/dəˈbās/",
+        "origin": "Mid 16th century (in the sense ‘humiliate, belittle’): from de-‘down’ + the obsolete verb base (compare with abase), expressing the notion ‘bring down completely’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Reduce (something) in quality or value; degrade.",
+                        "example": "the love episodes debase the dignity of the drama",
+                        "synonyms": [
+                            "degrade",
+                            "devalue",
+                            "demean",
+                            "lower the status of",
+                            "reduce the status of",
+                            "cheapen",
+                            "prostitute",
+                            "discredit",
+                            "drag down",
+                            "drag through the mud",
+                            "tarnish",
+                            "blacken",
+                            "blemish"
+                        ]
+                    },
+                    {
+                        "definition": "Lower the value of (coinage) by reducing the content of precious metal.",
+                        "example": "the King was forced to debase the coinage",
+                        "synonyms": [
+                            "reduce in value",
+                            "reduce in quality"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

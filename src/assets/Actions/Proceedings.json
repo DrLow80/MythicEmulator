@@ -1,0 +1,26 @@
+[
+    {
+        "word": "proceedings",
+        "phonetic": "/prəˈsēdiNGz/",
+        "meanings": [
+            {
+                "partOfSpeech": "plural noun",
+                "definitions": [
+                    {
+                        "definition": "An event or a series of activities involving a formal or set procedure.",
+                        "example": "you complete a form to start proceedings",
+                        "synonyms": [
+                            "events",
+                            "activities",
+                            "business",
+                            "affairs",
+                            "happenings",
+                            "goings-on",
+                            "doings"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

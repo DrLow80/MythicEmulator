@@ -1,0 +1,47 @@
+[
+    {
+        "word": "ruin",
+        "phonetic": "/ˈro͞oin/",
+        "origin": "Middle English (in the sense ‘collapse of a building’): from Old French ruine, from Latin ruina, from ruere ‘to fall’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The physical destruction or disintegration of something or the state of disintegrating or being destroyed.",
+                        "example": "a large white house falling into gentle ruin"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Reduce (a building or place) to a state of decay, collapse, or disintegration.",
+                        "example": "the castle was ruined when dynamite was used to demolish one of the corner towers",
+                        "synonyms": [
+                            "derelict",
+                            "in ruins",
+                            "gone to rack and ruin",
+                            "dilapidated",
+                            "ruinous",
+                            "tumbledown",
+                            "ramshackle",
+                            "broken-down",
+                            "decrepit",
+                            "in disrepair",
+                            "falling to pieces",
+                            "falling apart",
+                            "crumbling",
+                            "decaying",
+                            "disintegrating"
+                        ]
+                    },
+                    {
+                        "definition": "Fall headlong or with a crash."
+                    }
+                ]
+            }
+        ]
+    }
+]

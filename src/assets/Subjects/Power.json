@@ -1,0 +1,114 @@
+[
+    {
+        "word": "power",
+        "phonetic": "/ˈpou(ə)r/",
+        "origin": "Middle English from Anglo-Norman French poeir, from an alteration of Latin posse ‘be able’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The ability to do something or act in a particular way, especially as a faculty or quality.",
+                        "example": "the power of speech",
+                        "synonyms": [
+                            "ability",
+                            "capacity",
+                            "capability",
+                            "potential",
+                            "potentiality",
+                            "faculty",
+                            "property",
+                            "competence",
+                            "competency"
+                        ]
+                    },
+                    {
+                        "definition": "The capacity or ability to direct or influence the behavior of others or the course of events.",
+                        "example": "she had me under her power",
+                        "synonyms": [
+                            "influence",
+                            "power",
+                            "authority",
+                            "weight",
+                            "sway",
+                            "control",
+                            "say",
+                            "ascendancy",
+                            "dominance",
+                            "advantage",
+                            "pressure",
+                            "edge",
+                            "standing",
+                            "prestige",
+                            "rank"
+                        ]
+                    },
+                    {
+                        "definition": "Physical strength and force exerted by something or someone.",
+                        "example": "the power of the storm",
+                        "synonyms": [
+                            "strength",
+                            "powerfulness",
+                            "might",
+                            "force",
+                            "forcefulness",
+                            "mightiness",
+                            "weight",
+                            "vigour",
+                            "energy",
+                            "intensity",
+                            "potency"
+                        ]
+                    },
+                    {
+                        "definition": "Energy that is produced by mechanical, electrical, or other means and used to operate a device.",
+                        "example": "generating power from waste",
+                        "synonyms": [
+                            "energy",
+                            "electrical power",
+                            "nuclear power",
+                            "solar power",
+                            "steam power",
+                            "water power"
+                        ]
+                    },
+                    {
+                        "definition": "The time-rate of doing work, measured in watts or less frequently horsepower.",
+                        "example": "Spectral analysis provides a measure of power in the different frequency bands in the EEG."
+                    },
+                    {
+                        "definition": "The number of times a certain number is to be multiplied by itself.",
+                        "example": "2 to the power of 4 equals 16"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Supply (a device) with mechanical or electrical energy.",
+                        "example": "the car is powered by a fuel-injected 3.0-liter engine",
+                        "synonyms": [
+                            "electrified",
+                            "charged",
+                            "powered",
+                            "connected",
+                            "active",
+                            "switched on"
+                        ]
+                    },
+                    {
+                        "definition": "Move or travel with great speed or force.",
+                        "example": "they powered past the dock toward the mouth of the creek",
+                        "synonyms": [
+                            "power",
+                            "propel",
+                            "move",
+                            "push"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

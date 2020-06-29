@@ -1,0 +1,113 @@
+[
+    {
+        "word": "guide",
+        "phonetic": "/ɡīd/",
+        "origin": "Late Middle English from Old French guide (noun), guider (verb), of Germanic origin; related to wit.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who advises or shows the way to others.",
+                        "example": "this lady is going to act as our guide for the rest of the tour",
+                        "synonyms": [
+                            "escort",
+                            "attendant",
+                            "conductor",
+                            "courier",
+                            "pilot",
+                            "usher",
+                            "chaperone"
+                        ]
+                    },
+                    {
+                        "definition": "A thing that helps someone to form an opinion or make a decision or calculation.",
+                        "example": "here is a guide to the number of curtain hooks you will need",
+                        "synonyms": [
+                            "model",
+                            "pattern",
+                            "blueprint",
+                            "template",
+                            "archetype",
+                            "prototype",
+                            "sample",
+                            "example",
+                            "exemplar"
+                        ]
+                    },
+                    {
+                        "definition": "A book, document, or display providing information on a subject or about a place.",
+                        "example": "a guide to baby and toddler care",
+                        "synonyms": [
+                            "guidebook",
+                            "tourist guide",
+                            "travel guide",
+                            "Baedeker",
+                            "travelogue",
+                            "directory",
+                            "handbook",
+                            "manual",
+                            "ABC",
+                            "A to Z"
+                        ]
+                    },
+                    {
+                        "definition": "A structure or marking which directs the motion or positioning of something.",
+                        "example": "the guides for the bolt needed straightening"
+                    },
+                    {
+                        "definition": "A soldier, vehicle, or ship whose position determines the movements of others."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Show or indicate the way to (someone)",
+                        "example": "he guided her to the front row and sat beside her",
+                        "synonyms": [
+                            "lead",
+                            "lead the way",
+                            "conduct",
+                            "show",
+                            "show someone the way",
+                            "usher",
+                            "shepherd",
+                            "direct",
+                            "steer",
+                            "pilot",
+                            "escort",
+                            "accompany",
+                            "attend"
+                        ]
+                    },
+                    {
+                        "definition": "Direct or have an influence on the course of action of (someone or something)",
+                        "example": "he guided the team to a second successive win in the tournament",
+                        "synonyms": [
+                            "direct",
+                            "steer",
+                            "control",
+                            "manage",
+                            "command",
+                            "lead",
+                            "conduct",
+                            "run",
+                            "be in charge of",
+                            "take charge of",
+                            "take control of",
+                            "have control of",
+                            "govern",
+                            "rule",
+                            "preside over",
+                            "superintend",
+                            "supervise",
+                            "oversee"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

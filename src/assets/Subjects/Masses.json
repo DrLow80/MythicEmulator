@@ -1,0 +1,141 @@
+[
+    {
+        "word": "mass",
+        "phonetic": "/mas/",
+        "origin": "Late Middle English from Old French masse, from Latin massa, from Greek maza ‘barley cake’; perhaps related to massein ‘knead’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large body of matter with no definite shape.",
+                        "example": "the sun broke out from behind a mass of clouds",
+                        "synonyms": [
+                            "pile",
+                            "heap",
+                            "stack",
+                            "clump",
+                            "cloud",
+                            "bunch",
+                            "bundle",
+                            "lump"
+                        ]
+                    },
+                    {
+                        "definition": "A large number of people or objects crowded together.",
+                        "example": "a mass of cyclists",
+                        "synonyms": [
+                            "large number",
+                            "abundance",
+                            "profusion",
+                            "multitude",
+                            "group",
+                            "crowd",
+                            "mob",
+                            "rabble",
+                            "horde",
+                            "barrage",
+                            "throng",
+                            "huddle",
+                            "host",
+                            "troop",
+                            "army",
+                            "herd",
+                            "flock",
+                            "drove",
+                            "swarm",
+                            "pack",
+                            "press",
+                            "crush",
+                            "mountain",
+                            "flood"
+                        ]
+                    },
+                    {
+                        "definition": "The majority of.",
+                        "example": "the mass of the people think that the problems are caused by government inefficiency",
+                        "synonyms": [
+                            "majority",
+                            "larger number",
+                            "larger part",
+                            "greater number",
+                            "greater part",
+                            "best part",
+                            "better part",
+                            "major part",
+                            "most",
+                            "bulk",
+                            "main body",
+                            "preponderance",
+                            "almost all",
+                            "lion's share"
+                        ]
+                    },
+                    {
+                        "definition": "The quantity of matter which a body contains, as measured by its acceleration under a given force or by the force exerted on it by a gravitational field.",
+                        "example": "stellar objects of intermediate mass"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Involving or affecting large numbers of people or things.",
+                        "example": "the film has mass appeal",
+                        "synonyms": [
+                            "wholesale",
+                            "universal",
+                            "widespread",
+                            "general",
+                            "large-scale",
+                            "extensive",
+                            "pandemic"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Assemble or cause to assemble into a single body or mass.",
+                        "example": "both countries began massing troops in the region",
+                        "synonyms": [
+                            "accumulate",
+                            "assemble",
+                            "amass",
+                            "collect",
+                            "gather",
+                            "gather together",
+                            "draw together",
+                            "join together"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "Mass",
+        "phonetic": "/mas/",
+        "origin": "Old English mæsse, from ecclesiastical Latin missa ‘dismissal, prayer at the conclusion of a liturgy, liturgy, mass’, from Latin miss- ‘dismissed’, from mittere ‘send, dismiss’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The celebration of the Christian Eucharist, especially in the Roman Catholic Church.",
+                        "example": "we went to Mass",
+                        "synonyms": [
+                            "Eucharist",
+                            "Holy Communion",
+                            "Communion",
+                            "the Lord's Supper"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

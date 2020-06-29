@@ -1,0 +1,56 @@
+[
+    {
+        "word": "harm",
+        "phonetic": "/härm/",
+        "origin": "Old English hearm (noun), hearmian (verb), of Germanic origin; related to German Harm and Old Norse harmr ‘grief, sorrow’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Physical injury, especially that which is deliberately inflicted.",
+                        "example": "it's fine as long as no one is inflicting harm on anyone else",
+                        "synonyms": [
+                            "injury",
+                            "hurt",
+                            "pain",
+                            "suffering",
+                            "distress",
+                            "anguish",
+                            "trauma",
+                            "torment",
+                            "grief"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Physically injure.",
+                        "example": "the villains didn't harm him",
+                        "synonyms": [
+                            "injure",
+                            "hurt",
+                            "wound",
+                            "maltreat",
+                            "mistreat",
+                            "misuse",
+                            "ill-treat",
+                            "ill-use",
+                            "abuse",
+                            "molest",
+                            "inflict pain on",
+                            "inflict suffering on",
+                            "handle roughly",
+                            "treat roughly",
+                            "do violence to",
+                            "lay a finger on"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

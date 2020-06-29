@@ -1,0 +1,77 @@
+[
+    {
+        "word": "joy",
+        "phonetic": "/joi/",
+        "origin": "Middle English from Old French joie, based on Latin gaudium, from gaudere ‘rejoice’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A feeling of great pleasure and happiness.",
+                        "example": "tears of joy",
+                        "synonyms": [
+                            "delight",
+                            "great pleasure",
+                            "joyfulness",
+                            "jubilation",
+                            "triumph",
+                            "exultation",
+                            "rejoicing",
+                            "happiness",
+                            "gladness",
+                            "glee",
+                            "exhilaration",
+                            "ebullience",
+                            "exuberance",
+                            "elation",
+                            "euphoria",
+                            "bliss",
+                            "ecstasy",
+                            "transports of delight",
+                            "rapture",
+                            "radiance"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Rejoice.",
+                        "example": "I felt shame that I had ever joyed in his discomfiture or pain",
+                        "synonyms": [
+                            "be joyful",
+                            "be happy",
+                            "be pleased",
+                            "be glad",
+                            "be delighted",
+                            "be elated",
+                            "be ecstatic",
+                            "be euphoric",
+                            "be overjoyed",
+                            "be as pleased as Punch",
+                            "be cock-a-hoop",
+                            "be jubilant",
+                            "be rapturous",
+                            "be in raptures",
+                            "be transported",
+                            "be beside oneself with joy",
+                            "be delirious",
+                            "be thrilled",
+                            "jump for joy",
+                            "be on cloud nine",
+                            "be treading on air",
+                            "be walking on air",
+                            "be in seventh heaven",
+                            "exult",
+                            "glory",
+                            "triumph"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

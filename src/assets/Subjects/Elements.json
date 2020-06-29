@@ -1,0 +1,47 @@
+[
+    {
+        "word": "element",
+        "phonetic": "/ˈɛlɪm(ə)nt/",
+        "origin": "Middle English (denoting fundamental constituents of the world or celestial objects): via Old French from Latin elementum ‘principle, rudiment’, translating Greek stoikheion ‘step, component part’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An essential or characteristic part of something abstract.",
+                        "example": "the death had all the elements of a great tabloid story",
+                        "synonyms": [
+                            "component",
+                            "constituent",
+                            "part",
+                            "section",
+                            "portion",
+                            "piece",
+                            "segment",
+                            "bit"
+                        ]
+                    },
+                    {
+                        "definition": "Each of more than one hundred substances that cannot be chemically interconverted or broken down into simpler substances and are primary constituents of matter. Each element is distinguished by its atomic number, i.e. the number of protons in the nuclei of its atoms.Any of the four substances (earth, water, air, and fire) regarded as the fundamental constituents of the world in ancient and medieval philosophy.A person's or animal's natural or preferred environment.",
+                        "example": "He called atoms of the second group isotopes, atoms of the same element with different atomic weights."
+                    },
+                    {
+                        "definition": "Strong winds, heavy rain, or other kinds of bad weather.",
+                        "example": "there was no barrier against the elements",
+                        "synonyms": [
+                            "the weather",
+                            "the climate",
+                            "meteorological conditions",
+                            "atmospheric conditions",
+                            "atmospheric forces"
+                        ]
+                    },
+                    {
+                        "definition": "A part in an electric kettle, heater, or cooker which contains a wire through which an electric current is passed to provide heat.",
+                        "example": "An electric-resistance water heater has electric heating elements submerged in a storage tank."
+                    }
+                ]
+            }
+        ]
+    }
+]

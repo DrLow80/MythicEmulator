@@ -1,0 +1,63 @@
+[
+    {
+        "word": "wound",
+        "phonetic": "/wuːnd/",
+        "origin": "Old English wund (noun), wundian (verb), of Germanic origin; related to Dutch wond and German Wunde, of unknown ultimate origin.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An injury to living tissue caused by a cut, blow, or other impact, typically one in which the skin is cut or broken.",
+                        "example": "a knife wound",
+                        "synonyms": [
+                            "injury",
+                            "lesion",
+                            "cut",
+                            "gash",
+                            "laceration",
+                            "tear",
+                            "rent",
+                            "puncture",
+                            "slash"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Inflict a wound on.",
+                        "example": "the sergeant was seriously wounded",
+                        "synonyms": [
+                            "injure",
+                            "hurt",
+                            "damage",
+                            "harm",
+                            "maim",
+                            "mutilate",
+                            "disable",
+                            "incapacitate",
+                            "scar"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "wound",
+        "phonetic": "/waʊnd/",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "past and past participle of wind"
+                    }
+                ]
+            }
+        ]
+    }
+]

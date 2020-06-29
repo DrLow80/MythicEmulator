@@ -1,0 +1,33 @@
+[
+    {
+        "word": "victory",
+        "phonetic": "/ˈvikt(ə)rē/",
+        "origin": "Middle English from Anglo-Norman French victorie, from Latin victoria.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An act of defeating an enemy or opponent in a battle, game, or other competition.",
+                        "example": "an election victory",
+                        "synonyms": [
+                            "success",
+                            "triumph",
+                            "conquest",
+                            "win",
+                            "successful outcome",
+                            "positive result",
+                            "favourable result",
+                            "landslide",
+                            "achievement",
+                            "coup",
+                            "game",
+                            "set",
+                            "and match"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

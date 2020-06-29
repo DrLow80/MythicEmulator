@@ -1,0 +1,75 @@
+[
+    {
+        "word": "abandon",
+        "phonetic": "/əˈbandən/",
+        "origin": "Late Middle English from Old French abandoner, from a- (from Latin ad ‘to, at’) + bandon ‘control’ (related to ban). The original sense was ‘bring under control’, later ‘give in to the control of, surrender to’ (abandon (sense 3 of the verb)).",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Cease to support or look after (someone); desert.",
+                        "example": "her natural mother had abandoned her at an early age",
+                        "synonyms": [
+                            "desert",
+                            "leave",
+                            "leave high and dry",
+                            "turn one's back on",
+                            "cast aside",
+                            "break with",
+                            "break up with"
+                        ]
+                    },
+                    {
+                        "definition": "Give up completely (a course of action, a practice, or a way of thinking)",
+                        "example": "he had clearly abandoned all pretense of trying to succeed",
+                        "synonyms": [
+                            "renounce",
+                            "relinquish",
+                            "dispense with",
+                            "forswear",
+                            "disclaim",
+                            "disown",
+                            "disavow",
+                            "discard",
+                            "wash one's hands of"
+                        ]
+                    },
+                    {
+                        "definition": "Allow oneself to indulge in (a desire or impulse)",
+                        "example": "they abandoned themselves to despair",
+                        "synonyms": [
+                            "indulge in",
+                            "give way to",
+                            "give oneself up to",
+                            "yield to",
+                            "lose oneself in",
+                            "lose oneself to"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Complete lack of inhibition or restraint.",
+                        "example": "she sings and sways with total abandon",
+                        "synonyms": [
+                            "uninhibitedness",
+                            "recklessness",
+                            "lack of restraint",
+                            "lack of inhibition",
+                            "unruliness",
+                            "wildness",
+                            "impulsiveness",
+                            "impetuosity",
+                            "immoderation",
+                            "wantonness"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

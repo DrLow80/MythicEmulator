@@ -1,0 +1,59 @@
+[
+    {
+        "word": "communicate",
+        "phonetic": "/kəˈmyo͞onəˌkāt/",
+        "origin": "Early 16th century from Latin communicat- ‘shared’, from the verb communicare, from communis (see common).",
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Share or exchange information, news, or ideas.",
+                        "example": "the prisoner was forbidden to communicate with his family",
+                        "synonyms": [
+                            "liaise",
+                            "be in touch",
+                            "be in contact",
+                            "be in communication",
+                            "make contact",
+                            "have dealings",
+                            "interface",
+                            "commune",
+                            "meet",
+                            "meet up"
+                        ]
+                    },
+                    {
+                        "definition": "Pass on (an infectious disease) to another person or animal.",
+                        "example": "the disease is communicated from one person to another",
+                        "synonyms": [
+                            "transmit",
+                            "transfer",
+                            "spread",
+                            "carry",
+                            "pass on",
+                            "hand on",
+                            "convey"
+                        ]
+                    },
+                    {
+                        "definition": "(of two rooms) have a common connecting door.",
+                        "example": "the dining room communicates with the kitchen",
+                        "synonyms": [
+                            "connect with",
+                            "be connected to",
+                            "join up with",
+                            "link up with",
+                            "open on to",
+                            "lead into",
+                            "give access to"
+                        ]
+                    },
+                    {
+                        "definition": "Receive Holy Communion."
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "word": "lie",
+        "phonetic": "/lī/",
+        "origin": "Old English licgan, of Germanic origin; related to Dutch liggen and German liegen, from an Indo-European root shared by Greek lektron, lekhos and Latin lectus ‘bed’.",
+        "meanings": [
+            {
+                "partOfSpeech": "crossReference",
+                "definitions": [
+                    {
+                        "definition": "(of a person or animal) be in or assume a horizontal or resting position on a supporting surface.",
+                        "example": "the man lay face downward on the grass",
+                        "synonyms": [
+                            "recline",
+                            "lie down",
+                            "lie back",
+                            "be recumbent",
+                            "be prostrate",
+                            "be supine",
+                            "be prone",
+                            "be stretched out",
+                            "stretch oneself out",
+                            "lean back",
+                            "sprawl",
+                            "rest",
+                            "repose",
+                            "relax",
+                            "lounge",
+                            "loll",
+                            "bask"
+                        ]
+                    },
+                    {
+                        "definition": "Be, remain, or be kept in a specified state.",
+                        "example": "the church lies in ruins today"
+                    },
+                    {
+                        "definition": "(of a place) be situated in a specified position or direction.",
+                        "example": "the small town of Swampscott lies about ten miles north of Boston",
+                        "synonyms": [
+                            "be situated",
+                            "be located",
+                            "be placed",
+                            "be positioned",
+                            "be found",
+                            "be sited",
+                            "be established",
+                            "be"
+                        ]
+                    },
+                    {
+                        "definition": "(of an action, charge, or claim) be admissible or sustainable.",
+                        "example": "an action for restitution would lie for money paid in breach of the law"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The way, direction, or position in which something lies.",
+                        "example": "he was familiarizing himself with the lie of the streets"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "lie",
+        "phonetic": "/laɪ/",
+        "origin": "Old English lyge (noun), lēogan (verb), of Germanic origin; related to Dutch liegen and German lügen.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An intentionally false statement.",
+                        "example": "the whole thing is a pack of lies",
+                        "synonyms": [
+                            "untruth",
+                            "falsehood",
+                            "fib",
+                            "fabrication",
+                            "deception",
+                            "made-up story",
+                            "trumped-up story",
+                            "fake news",
+                            "invention",
+                            "piece of fiction",
+                            "fiction",
+                            "falsification",
+                            "falsity",
+                            "fairy story",
+                            "fairy tale",
+                            "cock and bull story",
+                            "barefaced lie"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Tell a lie or lies.",
+                        "example": "why had Wesley lied about his visit to Philadelphia?",
+                        "synonyms": [
+                            "say something untrue",
+                            "tell an untruth",
+                            "tell a lie",
+                            "tell a falsehood",
+                            "fib",
+                            "fabricate",
+                            "invent a story",
+                            "make up a story",
+                            "falsify",
+                            "dissemble",
+                            "dissimulate",
+                            "bear false witness"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

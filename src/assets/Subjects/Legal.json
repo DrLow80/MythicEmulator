@@ -1,0 +1,42 @@
+[
+    {
+        "word": "legal",
+        "phonetic": "/ˈlēɡəl/",
+        "origin": "Late Middle English (in the sense ‘to do with Mosaic law’): from French, or from Latin legalis, from lex, leg- ‘law’. Compare with loyal.",
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of, based on, or concerned with the law.",
+                        "example": "the American legal system",
+                        "synonyms": [
+                            "legal",
+                            "judiciary",
+                            "juridical",
+                            "judicatory",
+                            "forensic",
+                            "jurisdictive"
+                        ]
+                    },
+                    {
+                        "definition": "Permitted by law.",
+                        "example": "he claimed that it had all been legal",
+                        "synonyms": [
+                            "lawful",
+                            "legitimate",
+                            "licit",
+                            "within the law",
+                            "legalized",
+                            "valid"
+                        ]
+                    },
+                    {
+                        "definition": "(of paper) measuring 8 ½ by 14 inches.",
+                        "example": "a yellow legal pad"
+                    }
+                ]
+            }
+        ]
+    }
+]

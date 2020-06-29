@@ -1,0 +1,24 @@
+[
+    {
+        "word": "investment",
+        "phonetic": "/inˈves(t)mənt/",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The action or process of investing money for profit or material result.",
+                        "example": "a debate over private investment in road-building",
+                        "synonyms": [
+                            "investing",
+                            "speculation"
+                        ]
+                    },
+                    {
+                        "definition": "The surrounding of a place by a hostile force in order to besiege or blockade it."
+                    }
+                ]
+            }
+        ]
+    }
+]

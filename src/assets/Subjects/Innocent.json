@@ -1,0 +1,96 @@
+[
+    {
+        "word": "innocent",
+        "phonetic": "/ˈinəsənt/",
+        "origin": "Middle English from Old French, or from Latin innocent- ‘not harming’, from in- ‘not’ + nocere ‘to hurt’.",
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Not guilty of a crime or offense.",
+                        "example": "the arbitrary execution of an innocent man",
+                        "synonyms": [
+                            "guiltless",
+                            "guilt-free",
+                            "not guilty",
+                            "blameless",
+                            "not to blame",
+                            "in the clear",
+                            "unimpeachable",
+                            "irreproachable",
+                            "above suspicion",
+                            "beyond criticism",
+                            "without fault",
+                            "faultless"
+                        ]
+                    },
+                    {
+                        "definition": "Not responsible for or directly involved in an event yet suffering its consequences.",
+                        "example": "an innocent bystander"
+                    },
+                    {
+                        "definition": "Free from moral wrong; not corrupted.",
+                        "example": "an innocent child",
+                        "synonyms": [
+                            "virtuous",
+                            "pure",
+                            "sinless",
+                            "free of sin",
+                            "moral",
+                            "decent",
+                            "righteous",
+                            "upright",
+                            "wholesome",
+                            "demure",
+                            "modest",
+                            "chaste",
+                            "virginal",
+                            "virgin",
+                            "impeccable",
+                            "pristine",
+                            "spotless",
+                            "stainless",
+                            "unblemished",
+                            "unsullied",
+                            "incorrupt",
+                            "uncorrupted",
+                            "uncontaminated",
+                            "undefiled"
+                        ]
+                    },
+                    {
+                        "definition": "Not intended to cause harm or offense; harmless.",
+                        "example": "an innocent mistake",
+                        "synonyms": [
+                            "harmless",
+                            "innocuous",
+                            "safe",
+                            "non-injurious",
+                            "unobjectionable",
+                            "inoffensive",
+                            "playful"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A pure, guileless, or naive person.",
+                        "example": "she was an innocent compared with this man",
+                        "synonyms": [
+                            "unworldly person",
+                            "naive person"
+                        ]
+                    },
+                    {
+                        "definition": "A person involved by chance in a situation, especially a victim of crime or war.",
+                        "example": "they are prepared to kill or maim innocents in pursuit of a cause"
+                    }
+                ]
+            }
+        ]
+    }
+]

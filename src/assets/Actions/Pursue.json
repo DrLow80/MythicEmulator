@@ -1,0 +1,29 @@
+[
+    {
+        "word": "pursue",
+        "phonetic": "/pərˈso͞o/",
+        "origin": "Middle English (originally in the sense ‘follow with enmity’): from Anglo-Norman French pursuer, from an alteration of Latin prosequi ‘prosecute’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Follow (someone or something) in order to catch or attack them.",
+                        "example": "the officer pursued the van",
+                        "synonyms": [
+                            "go after",
+                            "run after",
+                            "follow",
+                            "chase",
+                            "give chase to"
+                        ]
+                    },
+                    {
+                        "definition": "(of a person or way) continue or proceed along (a path or route)",
+                        "example": "the road pursued a straight course over the scrubland"
+                    }
+                ]
+            }
+        ]
+    }
+]

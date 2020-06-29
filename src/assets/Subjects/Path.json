@@ -1,0 +1,48 @@
+[
+    {
+        "word": "path",
+        "phonetic": "/paTH/",
+        "origin": "Old English pæth, of West Germanic origin; related to Dutch pad, German Pfad, of unknown ultimate origin.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A way or track laid down for walking or made by continual treading.",
+                        "example": "the path continues alongside the river for half a mile",
+                        "synonyms": [
+                            "footpath",
+                            "pathway",
+                            "footway",
+                            "pavement",
+                            "track",
+                            "jogging track",
+                            "trail",
+                            "trackway",
+                            "bridleway",
+                            "bridle path",
+                            "ride",
+                            "riding",
+                            "towpath",
+                            "walk",
+                            "walkway",
+                            "promenade",
+                            "esplanade",
+                            "avenue",
+                            "lane",
+                            "alley",
+                            "alleyway",
+                            "passage",
+                            "passageway",
+                            "byway",
+                            "sidetrack",
+                            "berm",
+                            "causeway",
+                            "right of way"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

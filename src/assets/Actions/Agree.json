@@ -1,0 +1,66 @@
+[
+    {
+        "word": "agree",
+        "phonetic": "/əˈɡrē/",
+        "origin": "Late Middle English from Old French agreer, based on Latin ad- ‘to’ + gratus ‘pleasing’.",
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Have the same opinion about something; concur.",
+                        "example": "I completely agree with your recent editorial",
+                        "synonyms": [
+                            "concur",
+                            "be of the same mind",
+                            "be of the same opinion",
+                            "see eye to eye",
+                            "be in sympathy",
+                            "sympathize",
+                            "be united",
+                            "be as one man",
+                            "accord"
+                        ]
+                    },
+                    {
+                        "definition": "Consent to do something that has been suggested by another person.",
+                        "example": "she had agreed to go and see a movie with him",
+                        "synonyms": [
+                            "consent",
+                            "assent",
+                            "accede"
+                        ]
+                    },
+                    {
+                        "definition": "Be consistent with.",
+                        "example": "your body language does not agree with what you are saying",
+                        "synonyms": [
+                            "match",
+                            "match up",
+                            "accord",
+                            "correspond",
+                            "conform",
+                            "coincide",
+                            "fit",
+                            "tally",
+                            "harmonize",
+                            "be in harmony",
+                            "be in agreement",
+                            "be consistent",
+                            "be compatible",
+                            "be consonant",
+                            "be congruous",
+                            "be in tune",
+                            "equate",
+                            "be equivalent",
+                            "dovetail",
+                            "chime",
+                            "correlate",
+                            "be parallel"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

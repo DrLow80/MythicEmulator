@@ -1,0 +1,18 @@
+[
+    {
+        "word": "weapon",
+        "phonetic": "/ˈwɛp(ə)n/",
+        "origin": "Old English wǣp(e)n, of Germanic origin; related to Dutch wapen and German Waffe.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A thing designed or used for inflicting bodily harm or physical damage.",
+                        "example": "nuclear weapons"
+                    }
+                ]
+            }
+        ]
+    }
+]

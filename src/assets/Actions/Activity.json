@@ -1,0 +1,39 @@
+[
+    {
+        "word": "activity",
+        "phonetic": "/akˈtivədē/",
+        "origin": "Late Middle English from French activité or late Latin activitas, from Latin act- ‘done’, from the verb agere.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The condition in which things are happening or being done.",
+                        "example": "there has been a sustained level of activity in the economy"
+                    },
+                    {
+                        "definition": "A thing that a person or group does or has done.",
+                        "example": "the firm's marketing activities",
+                        "synonyms": [
+                            "pursuit",
+                            "occupation",
+                            "venture",
+                            "undertaking",
+                            "enterprise",
+                            "project",
+                            "scheme",
+                            "business",
+                            "job",
+                            "affair",
+                            "task",
+                            "campaign"
+                        ]
+                    },
+                    {
+                        "definition": "A thermodynamic quantity representing the effective concentration of a particular component in a solution or other system, equal to its concentration multiplied by an activity coefficient."
+                    }
+                ]
+            }
+        ]
+    }
+]

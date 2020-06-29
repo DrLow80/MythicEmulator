@@ -1,0 +1,33 @@
+[
+    {
+        "word": "cruelty",
+        "phonetic": "/ˈkro͞o(ə)ltē/",
+        "origin": "Middle English from Old French crualte, based on Latin crudelitas, from crudelis (see cruel).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Callous indifference to or pleasure in causing pain and suffering.",
+                        "example": "he has treated her with extreme cruelty",
+                        "synonyms": [
+                            "brutality",
+                            "savagery",
+                            "savageness",
+                            "inhumanity",
+                            "barbarism",
+                            "barbarousness",
+                            "brutishness",
+                            "bloodthirstiness",
+                            "murderousness",
+                            "viciousness",
+                            "ferocity",
+                            "ferociousness",
+                            "fierceness"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

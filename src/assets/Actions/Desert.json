@@ -1,0 +1,71 @@
+[
+    {
+        "word": "desert",
+        "phonetic": "/dəˈzərt/",
+        "origin": "Late Middle English from Old French deserter, from late Latin desertare, from Latin desertus ‘left waste’ (see desert).",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Abandon (a person, cause, or organization) in a way considered disloyal or treacherous.",
+                        "example": "we feel our public representatives have deserted us",
+                        "synonyms": [
+                            "abandoned",
+                            "forsaken",
+                            "cast aside",
+                            "cast off",
+                            "thrown over",
+                            "betrayed",
+                            "jilted"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "desert",
+        "origin": "Middle English via Old French from late Latin desertum ‘something left waste’, neuter past participle of deserere ‘leave, forsake’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A dry, barren area of land, especially one covered with sand, that is characteristically desolate, waterless, and without vegetation.",
+                        "example": "The world sees the desert as a desolate land offering only hardship and discomfort.",
+                        "synonyms": [
+                            "wasteland",
+                            "waste",
+                            "wilderness",
+                            "wilds",
+                            "dust bowl",
+                            "barren land"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Like a desert.",
+                        "example": "overgrazing has created desert conditions",
+                        "synonyms": [
+                            "arid",
+                            "dry",
+                            "moistureless",
+                            "dried up",
+                            "parched",
+                            "scorched",
+                            "burnt",
+                            "hot",
+                            "burning",
+                            "torrid"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

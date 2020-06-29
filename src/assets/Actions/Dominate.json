@@ -1,0 +1,38 @@
+[
+    {
+        "word": "dominate",
+        "phonetic": "/ˈdäməˌnāt/",
+        "origin": "Early 17th century from Latin dominat- ‘ruled, governed’, from the verb dominari, from dominus ‘lord, master’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Have a commanding influence on; exercise control over.",
+                        "example": "the company dominates the market for operating system software",
+                        "synonyms": [
+                            "control",
+                            "influence",
+                            "exercise control over",
+                            "be in control of",
+                            "command",
+                            "be in command of",
+                            "be in charge of",
+                            "rule",
+                            "govern",
+                            "direct",
+                            "be the boss of",
+                            "preside over",
+                            "have ascendancy over",
+                            "have mastery over",
+                            "master",
+                            "have the upper hand over",
+                            "subjugate",
+                            "hegemonize"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

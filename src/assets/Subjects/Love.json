@@ -1,0 +1,95 @@
+[
+    {
+        "word": "love",
+        "phonetic": "/ləv/",
+        "origin": "Old English lufu, of Germanic origin; from an Indo-European root shared by Sanskrit lubhyati ‘desires’, Latin libet ‘it is pleasing’, libido ‘desire’, also by leave and lief.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An intense feeling of deep affection.",
+                        "example": "babies fill parents with feelings of love",
+                        "synonyms": [
+                            "deep affection",
+                            "fondness",
+                            "tenderness",
+                            "warmth",
+                            "intimacy",
+                            "attachment",
+                            "endearment"
+                        ]
+                    },
+                    {
+                        "definition": "A great interest and pleasure in something.",
+                        "example": "his love for football",
+                        "synonyms": [
+                            "liking",
+                            "weakness",
+                            "partiality",
+                            "bent",
+                            "leaning",
+                            "proclivity",
+                            "inclination",
+                            "disposition"
+                        ]
+                    },
+                    {
+                        "definition": "A person or thing that one loves.",
+                        "example": "she was the love of his life",
+                        "synonyms": [
+                            "beloved",
+                            "loved one",
+                            "love of one's life",
+                            "dear",
+                            "dearest",
+                            "dear one",
+                            "darling",
+                            "sweetheart",
+                            "sweet",
+                            "sweet one",
+                            "angel",
+                            "honey"
+                        ]
+                    },
+                    {
+                        "definition": "(in tennis, squash, and some other sports) a score of zero; nil.",
+                        "example": "love fifteen"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Feel deep affection for (someone)",
+                        "example": "he loved his sister dearly",
+                        "synonyms": [
+                            "be in love with",
+                            "be infatuated with",
+                            "be smitten with",
+                            "be besotted with",
+                            "be passionate about"
+                        ]
+                    },
+                    {
+                        "definition": "Like or enjoy very much.",
+                        "example": "I just love dancing",
+                        "synonyms": [
+                            "like very much",
+                            "delight in",
+                            "enjoy greatly",
+                            "have a passion for",
+                            "take great pleasure in",
+                            "derive great pleasure from",
+                            "have a great liking for",
+                            "be addicted to",
+                            "relish",
+                            "savour"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

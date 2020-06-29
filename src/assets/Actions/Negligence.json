@@ -1,0 +1,38 @@
+[
+    {
+        "word": "negligence",
+        "phonetic": "/ˈneɡləjəns/",
+        "origin": "Middle English via Old French from Latin negligentia, from the verb negligere (variant of neglegere ‘disregard, slight’ see neglect).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Failure to take proper care in doing something.",
+                        "example": "some of these accidents are due to negligence",
+                        "synonyms": [
+                            "carelessness",
+                            "lack of care",
+                            "lack of proper care and attention",
+                            "dereliction of duty",
+                            "non-performance of duty",
+                            "non-fulfilment of duty",
+                            "remissness",
+                            "neglectfulness",
+                            "neglect",
+                            "laxity",
+                            "laxness",
+                            "irresponsibility",
+                            "inattention",
+                            "inattentiveness",
+                            "heedlessness",
+                            "thoughtlessness",
+                            "unmindfulness",
+                            "forgetfulness"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

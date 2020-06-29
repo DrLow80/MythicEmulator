@@ -1,0 +1,30 @@
+[
+    {
+        "word": "information",
+        "phonetic": "/ˌinfərˈmāSH(ə)n/",
+        "origin": "Late Middle English (also in the sense ‘formation of the mind, teaching’), via Old French from Latin informatio(n-), from the verb informare (see inform).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Facts provided or learned about something or someone.",
+                        "example": "a vital piece of information",
+                        "synonyms": [
+                            "details",
+                            "particulars",
+                            "facts",
+                            "figures",
+                            "statistics",
+                            "data"
+                        ]
+                    },
+                    {
+                        "definition": "What is conveyed or represented by a particular arrangement or sequence of things.",
+                        "example": "genetically transmitted information"
+                    }
+                ]
+            }
+        ]
+    }
+]

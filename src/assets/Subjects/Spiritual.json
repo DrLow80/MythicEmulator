@@ -1,0 +1,49 @@
+[
+    {
+        "word": "spiritual",
+        "phonetic": "/ˈspiriCH(o͞o)əl/",
+        "origin": "Middle English from Old French spirituel, from Latin spiritualis, from spiritus (see spirit).",
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to or affecting the human spirit or soul as opposed to material or physical things.",
+                        "example": "I'm responsible for his spiritual welfare",
+                        "synonyms": [
+                            "non-material",
+                            "inner",
+                            "psychic",
+                            "psychical",
+                            "psychological"
+                        ]
+                    },
+                    {
+                        "definition": "Relating to religion or religious belief.",
+                        "example": "the tribe's spiritual leader",
+                        "synonyms": [
+                            "religious",
+                            "sacred",
+                            "divine",
+                            "holy",
+                            "non-secular",
+                            "church",
+                            "churchly",
+                            "ecclesiastic",
+                            "devotional"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A religious song of a kind associated with black Christians of the southern US, and thought to derive from the combination of European hymns and African musical elements by black slaves.",
+                        "example": "The Cwmbach Male Voice Choir entertained with a traditional repertoire of Welsh hymns, spirituals and songs from opera and the shows."
+                    }
+                ]
+            }
+        ]
+    }
+]

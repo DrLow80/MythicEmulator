@@ -1,0 +1,51 @@
+[
+    {
+        "word": "pleasure",
+        "phonetic": "/ˈplɛʒə/",
+        "origin": "Late Middle English from Old French plaisir ‘to please’ (used as a noun). The second syllable was altered under the influence of abstract nouns ending in -ure, such as measure.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A feeling of happy satisfaction and enjoyment.",
+                        "example": "she smiled with pleasure at being praised",
+                        "synonyms": [
+                            "happiness",
+                            "delight",
+                            "joy",
+                            "gladness",
+                            "rapture",
+                            "glee",
+                            "satisfaction",
+                            "gratification",
+                            "fulfilment",
+                            "contentment",
+                            "contentedness",
+                            "enjoyment",
+                            "amusement"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Used or intended for entertainment rather than business.",
+                        "example": "pleasure boats"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Give sexual enjoyment or satisfaction to.",
+                        "example": "tell me what will pleasure you"
+                    }
+                ]
+            }
+        ]
+    }
+]

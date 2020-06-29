@@ -1,0 +1,111 @@
+[
+    {
+        "word": "trick",
+        "phonetic": "/trik/",
+        "origin": "Late Middle English (as a noun): from an Old French dialect variant of triche, from trichier ‘deceive’, of unknown origin. Current senses of the verb date from the mid 16th century.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A cunning or skillful act or scheme intended to deceive or outwit someone.",
+                        "example": "he's a double-dealer capable of any mean trick",
+                        "synonyms": [
+                            "stratagem",
+                            "ploy",
+                            "ruse",
+                            "scheme",
+                            "device",
+                            "move",
+                            "manoeuvre",
+                            "contrivance",
+                            "machination",
+                            "expedient",
+                            "artifice",
+                            "wile",
+                            "dodge"
+                        ]
+                    },
+                    {
+                        "definition": "A peculiar or characteristic habit or mannerism.",
+                        "example": "she had a trick of clipping off certain words and phrases",
+                        "synonyms": [
+                            "mannerism",
+                            "habit",
+                            "practice",
+                            "quirk",
+                            "idiosyncrasy",
+                            "peculiarity",
+                            "foible",
+                            "eccentricity",
+                            "way",
+                            "characteristic",
+                            "trait"
+                        ]
+                    },
+                    {
+                        "definition": "(in bridge, whist, and similar card games) a sequence of cards forming a single round of play. One card is laid down by each player, the highest card being the winner.",
+                        "example": "Next, the players play to tricks, with the winner of each trick replacing their card with their choice of one of two exposed cards and the loser receiving the other card."
+                    },
+                    {
+                        "definition": "A prostitute's client.",
+                        "synonyms": [
+                            "customer",
+                            "client",
+                            "kerb-crawler"
+                        ]
+                    },
+                    {
+                        "definition": "A sailor's turn at the helm, usually lasting for two or four hours.",
+                        "example": "Indeed, one or two tricks up the mast were carried out by the senior ERA."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Deceive or outwit (someone) by being cunning or skillful.",
+                        "example": "buyers can be tricked by savvy sellers",
+                        "synonyms": [
+                            "deceive",
+                            "delude",
+                            "hoodwink",
+                            "mislead",
+                            "take in",
+                            "dupe",
+                            "fool",
+                            "double-cross",
+                            "cheat",
+                            "defraud",
+                            "swindle",
+                            "outwit",
+                            "outmanoeuvre",
+                            "catch out",
+                            "gull",
+                            "hoax",
+                            "bamboozle",
+                            "beguile"
+                        ]
+                    },
+                    {
+                        "definition": "Sketch (a coat of arms) in outline, with the colors indicated by letters or signs."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Intended or used to deceive or mystify, or to create an illusion.",
+                        "example": "a trick question"
+                    },
+                    {
+                        "definition": "Liable to fail; defective.",
+                        "example": "a trick knee"
+                    }
+                ]
+            }
+        ]
+    }
+]

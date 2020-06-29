@@ -1,0 +1,23 @@
+[
+    {
+        "word": "emotion",
+        "phonetic": "/ɪˈməʊʃ(ə)n/",
+        "origin": "Mid 16th century (denoting a public disturbance): from French émotion, from émouvoir ‘excite’, based on Latin emovere, from e- (variant of ex-) ‘out’ + movere ‘move’. The current sense dates from the early 19th century.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A strong feeling deriving from one's circumstances, mood, or relationships with others.",
+                        "example": "she was attempting to control her emotions",
+                        "synonyms": [
+                            "feeling",
+                            "sentiment",
+                            "sensation"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

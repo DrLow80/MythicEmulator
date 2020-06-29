@@ -1,0 +1,43 @@
+[
+    {
+        "word": "fame",
+        "phonetic": "/fām/",
+        "origin": "Middle English (also in the sense ‘reputation’, which survives in house of ill fame): via Old French from Latin fama.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of being known or talked about by many people, especially on account of notable achievements.",
+                        "example": "winning the Olympic title has brought her fame and fortune",
+                        "synonyms": [
+                            "renown",
+                            "celebrity",
+                            "stardom",
+                            "popularity",
+                            "notability",
+                            "note",
+                            "distinction",
+                            "prominence",
+                            "esteem",
+                            "importance",
+                            "account",
+                            "consequence",
+                            "greatness",
+                            "eminence",
+                            "pre-eminence",
+                            "glory",
+                            "honour",
+                            "illustriousness",
+                            "prestige",
+                            "stature",
+                            "standing",
+                            "reputation",
+                            "repute"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

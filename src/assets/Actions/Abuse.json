@@ -1,0 +1,107 @@
+[
+    {
+        "word": "abuse",
+        "phonetic": "/əˈbyo͞oz/",
+        "origin": "Late Middle English via Old French from Latin abus- ‘misused’, from the verb abuti, from ab- ‘away’ (i.e. ‘wrongly’) + uti ‘to use’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Use (something) to bad effect or for a bad purpose; misuse.",
+                        "example": "the judge abused his power by imposing the fines",
+                        "synonyms": [
+                            "misuse",
+                            "misapply",
+                            "misemploy",
+                            "mishandle"
+                        ]
+                    },
+                    {
+                        "definition": "Treat (a person or an animal) with cruelty or violence, especially regularly or repeatedly.",
+                        "example": "riders who abuse their horses should be prosecuted",
+                        "synonyms": [
+                            "mistreat",
+                            "maltreat",
+                            "ill-treat",
+                            "treat badly",
+                            "ill-use",
+                            "misuse"
+                        ]
+                    },
+                    {
+                        "definition": "Speak in an insulting and offensive way to or about (someone)",
+                        "example": "the referee was abused by players from both teams",
+                        "synonyms": [
+                            "insult",
+                            "be rude to",
+                            "swear at",
+                            "curse",
+                            "call someone names",
+                            "taunt",
+                            "shout at",
+                            "scold",
+                            "rebuke",
+                            "upbraid",
+                            "reprove",
+                            "castigate",
+                            "inveigh against",
+                            "impugn",
+                            "slur",
+                            "revile",
+                            "smear",
+                            "vilify",
+                            "vituperate against",
+                            "slander",
+                            "libel",
+                            "cast aspersions on",
+                            "offend",
+                            "slight",
+                            "disparage",
+                            "denigrate",
+                            "defame"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The improper use of something.",
+                        "example": "alcohol abuse",
+                        "synonyms": [
+                            "misuse",
+                            "misapplication",
+                            "misemployment",
+                            "mishandling"
+                        ]
+                    },
+                    {
+                        "definition": "Cruel and violent treatment of a person or animal.",
+                        "example": "a black eye and other signs of physical abuse",
+                        "synonyms": [
+                            "mistreatment",
+                            "maltreatment",
+                            "ill treatment",
+                            "ill use",
+                            "misuse"
+                        ]
+                    },
+                    {
+                        "definition": "Insulting and offensive language.",
+                        "example": "waving his fists and hurling abuse at the driver",
+                        "synonyms": [
+                            "insults",
+                            "curses",
+                            "jibes",
+                            "slurs",
+                            "expletives",
+                            "swear words"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

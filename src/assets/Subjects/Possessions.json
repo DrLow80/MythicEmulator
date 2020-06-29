@@ -1,0 +1,46 @@
+[
+    {
+        "word": "possession",
+        "phonetic": "/pəˈzɛʃ(ə)n/",
+        "origin": "Middle English from Old French, from Latin possessio(n-), from the verb possidere (see possess).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of having, owning, or controlling something.",
+                        "example": "she had taken possession of the sofa",
+                        "synonyms": [
+                            "ownership",
+                            "proprietorship",
+                            "control",
+                            "hands",
+                            "keeping",
+                            "care",
+                            "custody",
+                            "charge",
+                            "hold",
+                            "title",
+                            "guardianship"
+                        ]
+                    },
+                    {
+                        "definition": "Something that is owned or possessed.",
+                        "example": "I had no money or possessions",
+                        "synonyms": [
+                            "asset",
+                            "thing",
+                            "article",
+                            "item owned",
+                            "chattel"
+                        ]
+                    },
+                    {
+                        "definition": "The state of being controlled by a demon or spirit.",
+                        "example": "they said prayers to protect the people inside the hall from demonic possession"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "word": "divide",
+        "phonetic": "/dəˈvīd/",
+        "origin": "Middle English (as a verb): from Latin dividere ‘force apart, remove’. The noun dates from the mid 17th century.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Separate or be separated into parts.",
+                        "example": "consumer magazines can be divided into a number of different categories",
+                        "synonyms": [
+                            "split",
+                            "cut up",
+                            "cleave",
+                            "carve up",
+                            "slice up",
+                            "chop up",
+                            "split up"
+                        ]
+                    },
+                    {
+                        "definition": "Disagree or cause to disagree.",
+                        "example": "the question had divided Frenchmen since the Revolution",
+                        "synonyms": [
+                            "divided",
+                            "split",
+                            "sectarian",
+                            "schismatic",
+                            "dissenting",
+                            "contentious",
+                            "discordant",
+                            "conflicting",
+                            "argumentative",
+                            "disagreeing",
+                            "disputatious",
+                            "quarrelling",
+                            "quarrelsome",
+                            "clashing",
+                            "warring",
+                            "at variance",
+                            "at loggerheads",
+                            "at odds",
+                            "disharmonious",
+                            "tumultuous",
+                            "turbulent",
+                            "dissident",
+                            "rebellious",
+                            "insurrectionary",
+                            "seditious",
+                            "mutinous"
+                        ]
+                    },
+                    {
+                        "definition": "Find how many times (a number) contains another.",
+                        "example": "36 divided by 2 equals 18"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A wide divergence between two groups, typically producing tension or hostility.",
+                        "example": "there was still a profound cultural divide between the parties",
+                        "synonyms": [
+                            "divergence",
+                            "contrast",
+                            "polarity",
+                            "divide",
+                            "division",
+                            "separation",
+                            "difference",
+                            "wide area of difference"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

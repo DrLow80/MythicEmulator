@@ -1,0 +1,59 @@
+[
+    {
+        "word": "fight",
+        "phonetic": "/fīt/",
+        "origin": "Old English feohtan (verb), feoht(e), gefeoht (noun), of West Germanic origin; related to Dutch vechten, gevecht and German fechten, Gefecht.",
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Take part in a violent struggle involving the exchange of physical blows or the use of weapons.",
+                        "example": "the men were fighting",
+                        "synonyms": [
+                            "violent",
+                            "combative",
+                            "aggressive",
+                            "pugnacious",
+                            "truculent",
+                            "belligerent",
+                            "bellicose",
+                            "disputatious",
+                            "antagonistic",
+                            "argumentative",
+                            "hawkish"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A violent confrontation or struggle.",
+                        "example": "we'll get into a fight and wind up with bloody noses",
+                        "synonyms": [
+                            "brawl",
+                            "fracas",
+                            "melee",
+                            "row",
+                            "rumpus",
+                            "confrontation",
+                            "skirmish",
+                            "sparring match",
+                            "exchange",
+                            "struggle",
+                            "tussle",
+                            "scuffle",
+                            "altercation",
+                            "wrangle",
+                            "scrum",
+                            "clash",
+                            "disturbance"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

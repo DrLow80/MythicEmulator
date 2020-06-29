@@ -1,0 +1,84 @@
+[
+    {
+        "word": "trial",
+        "phonetic": "/ˈtrʌɪəl/",
+        "origin": "Late Middle English (as a noun): from Anglo-Norman French, or from medieval Latin triallum. The verb dates from the 1980s.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A formal examination of evidence by a judge, typically before a jury, in order to decide guilt in a case of criminal or civil proceedings.",
+                        "example": "the newspaper accounts of the trial",
+                        "synonyms": [
+                            "court case",
+                            "case",
+                            "lawsuit",
+                            "suit",
+                            "hearing",
+                            "inquiry",
+                            "tribunal",
+                            "litigation",
+                            "judicial proceedings",
+                            "legal proceedings",
+                            "proceedings",
+                            "legal action"
+                        ]
+                    },
+                    {
+                        "definition": "A test of the performance, qualities, or suitability of someone or something.",
+                        "example": "clinical trials must establish whether the new hip replacements are working",
+                        "synonyms": [
+                            "test",
+                            "try-out",
+                            "experiment",
+                            "pilot study"
+                        ]
+                    },
+                    {
+                        "definition": "A person, experience, or situation that tests a person's endurance or forbearance.",
+                        "example": "the trials and tribulations of married life",
+                        "synonyms": [
+                            "nuisance",
+                            "pest",
+                            "bother",
+                            "irritant",
+                            "source of annoyance",
+                            "source of irritation",
+                            "worry",
+                            "problem",
+                            "inconvenience",
+                            "vexation",
+                            "plague",
+                            "source of aggravation",
+                            "thorn in one's flesh",
+                            "the bane of one's life",
+                            "one's cross to bear"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Test (something, especially a new product) to assess its suitability or performance.",
+                        "example": "teachers all over the UK are trialling the materials",
+                        "synonyms": [
+                            "test",
+                            "try out",
+                            "carry out trials on",
+                            "put to the test",
+                            "put through its paces",
+                            "experiment with"
+                        ]
+                    },
+                    {
+                        "definition": "(of a horse, dog, or other animal) compete in trials.",
+                        "example": "the pup trialled on Saturday"
+                    }
+                ]
+            }
+        ]
+    }
+]

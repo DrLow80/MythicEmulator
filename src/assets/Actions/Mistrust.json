@@ -1,0 +1,51 @@
+[
+    {
+        "word": "mistrust",
+        "phonetic": "/misˈtrəst/",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Be suspicious of; have no confidence in.",
+                        "example": "she had no cause to mistrust him",
+                        "synonyms": [
+                            "be suspicious of",
+                            "be mistrustful of",
+                            "be distrustful of",
+                            "be sceptical of",
+                            "be wary of",
+                            "be chary of",
+                            "harbour suspicions about",
+                            "be uneasy about",
+                            "distrust",
+                            "have doubts about",
+                            "have misgivings about",
+                            "have reservations about",
+                            "have qualms about",
+                            "suspect",
+                            "wonder about"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Lack of trust; suspicion.",
+                        "example": "the public mistrust of government",
+                        "synonyms": [
+                            "suspicion",
+                            "distrust",
+                            "doubt",
+                            "misgivings",
+                            "wariness",
+                            "circumspection"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

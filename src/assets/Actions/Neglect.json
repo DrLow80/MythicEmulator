@@ -1,0 +1,41 @@
+[
+    {
+        "word": "neglect",
+        "phonetic": "/nəˈɡlekt/",
+        "origin": "Early 16th century from Latin neglect- ‘disregarded’, from the verb neglegere, from neg- ‘not’ + legere ‘choose, pick up’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Fail to care for properly.",
+                        "example": "the old churchyard has been sadly neglected",
+                        "synonyms": [
+                            "uncared for",
+                            "mistreated",
+                            "abandoned",
+                            "forsaken"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state or fact of being uncared for.",
+                        "example": "animals dying through disease or neglect",
+                        "synonyms": [
+                            "disrepair",
+                            "dilapidation",
+                            "deterioration",
+                            "shabbiness",
+                            "disuse",
+                            "abandonment"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

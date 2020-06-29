@@ -1,0 +1,28 @@
+[
+    {
+        "word": "tactic",
+        "phonetic": "/ˈtaktɪk/",
+        "origin": "Mid 18th century from modern Latin tactica, from Greek taktikē (tekhnē) ‘(art) of tactics’, feminine of taktikos, from taktos ‘ordered, arranged’, from the base of tassein ‘arrange’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An action or strategy carefully planned to achieve a specific end.",
+                        "example": "the minority attempted to control the Council by a delaying tactic",
+                        "synonyms": [
+                            "strategy",
+                            "scheme",
+                            "stratagem",
+                            "plan",
+                            "set of tactics",
+                            "manoeuvre",
+                            "course of action",
+                            "line of action"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

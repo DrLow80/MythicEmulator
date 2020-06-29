@@ -1,0 +1,94 @@
+[
+    {
+        "word": "home",
+        "phonetic": "/hōm/",
+        "origin": "Old English hām, of Germanic origin; related to Dutch heem and German Heim.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The place where one lives permanently, especially as a member of a family or household.",
+                        "example": "I was nineteen when I left home and went to college",
+                        "synonyms": [
+                            "place of residence",
+                            "accommodation",
+                            "property",
+                            "a roof over one's head"
+                        ]
+                    },
+                    {
+                        "definition": "An institution for people needing professional care or supervision.",
+                        "example": "an old people's home",
+                        "synonyms": [
+                            "institution",
+                            "residential home",
+                            "nursing home",
+                            "old people's home",
+                            "retirement home",
+                            "convalescent home",
+                            "rest home",
+                            "children's home"
+                        ]
+                    },
+                    {
+                        "definition": "(in sports) the goal or end point.",
+                        "example": "he was four fences from home"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to the place where one lives.",
+                        "example": "I don't have your home address"
+                    },
+                    {
+                        "definition": "(of a sports game) played at the team's own field or court.",
+                        "example": "their first home game of the season"
+                    },
+                    {
+                        "definition": "Denoting the administrative center of an organization.",
+                        "example": "the company has moved its home office"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "To or at the place where one lives.",
+                        "example": "what time did he get home last night?"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "(of an animal) return by instinct to its territory after leaving it.",
+                        "example": "a dozen geese homing to their summer nesting grounds"
+                    },
+                    {
+                        "definition": "Move or be aimed toward (a target or destination) with great accuracy.",
+                        "example": "more than 100 missiles were launched, homing in on radar emissions",
+                        "synonyms": [
+                            "focus on",
+                            "focus attention on",
+                            "concentrate on",
+                            "zero in on",
+                            "centre on",
+                            "fix on",
+                            "aim at",
+                            "highlight",
+                            "spotlight",
+                            "underline",
+                            "pinpoint"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "word": "recruit",
+        "phonetic": "/rəˈkro͞ot/",
+        "origin": "Mid 17th century (in the senses ‘fresh body of troops’ and ‘supplement the numbers in a group’): from obsolete French dialect recrute, based on Latin recrescere ‘grow again’, from re- ‘again’ + crescere ‘grow’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Enlist (someone) in the armed forces.",
+                        "example": "they recruit their toughest soldiers from the desert tribes",
+                        "synonyms": [
+                            "enlist",
+                            "sign up",
+                            "enrol",
+                            "engage",
+                            "take on",
+                            "round up"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person newly enlisted in the armed forces and not yet fully trained.",
+                        "example": "3,000 army recruits at Ft. Benjamin",
+                        "synonyms": [
+                            "conscript",
+                            "new soldier"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

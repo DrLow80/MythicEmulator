@@ -1,0 +1,75 @@
+[
+    {
+        "word": "inside",
+        "phonetic": "/inˈsīd/",
+        "origin": "Late Middle English (denoting the interior of the body): from in+ side.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The inner side or surface of something.",
+                        "example": "she ran a finger around the inside of the bowl",
+                        "synonyms": [
+                            "interior",
+                            "inner part",
+                            "inner side",
+                            "inner surface"
+                        ]
+                    },
+                    {
+                        "definition": "The inner part; the interior.",
+                        "example": "the inside of the car was like an oven"
+                    },
+                    {
+                        "definition": "A position affording private information."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Situated on or in, or derived from, the inside.",
+                        "example": "an inside pocket",
+                        "synonyms": [
+                            "inner",
+                            "interior",
+                            "internal",
+                            "inmost",
+                            "innermost"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "preposition",
+                "definitions": [
+                    {
+                        "definition": "Situated with the boundaries or confines of.",
+                        "synonyms": [
+                            "inside",
+                            "within",
+                            "in the middle of",
+                            "within the bounds of",
+                            "within the confines of"
+                        ]
+                    },
+                    {
+                        "definition": "In less than (the period of time specified)",
+                        "example": "the oven will have paid for itself inside 18 months"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Within the boundaries or confines of a place.",
+                        "example": "Mr. Jackson is waiting for you inside"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "word": "representative",
+        "phonetic": "/ˌreprəˈzen(t)ədiv/",
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Typical of a class, group, or body of opinion.",
+                        "example": "these courses are representative of those taken by most Harvard undergraduates",
+                        "synonyms": [
+                            "typical",
+                            "prototypical",
+                            "characteristic",
+                            "illustrative",
+                            "indicative"
+                        ]
+                    },
+                    {
+                        "definition": "(of a legislative or deliberative assembly) consisting of people chosen to act and speak on behalf of a wider group.",
+                        "example": "the new government lacked a representative assembly"
+                    },
+                    {
+                        "definition": "Serving as a portrayal or symbol of something.",
+                        "example": "the show should be more representative of how women really are",
+                        "synonyms": [
+                            "symbolic",
+                            "emblematic",
+                            "evocative"
+                        ]
+                    },
+                    {
+                        "definition": "Relating to mental representation."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person chosen or appointed to act or speak for another or others.",
+                        "example": "the Duke of Gloucester would attend the coronation as the representative of his father, King George V",
+                        "synonyms": [
+                            "spokesperson",
+                            "spokesman",
+                            "spokeswoman",
+                            "agent"
+                        ]
+                    },
+                    {
+                        "definition": "An example of a class or group.",
+                        "example": "fossil representatives of lampreys and hagfishes",
+                        "synonyms": [
+                            "example",
+                            "specimen"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

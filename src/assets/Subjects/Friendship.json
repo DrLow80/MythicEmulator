@@ -1,0 +1,27 @@
+[
+    {
+        "word": "friendship",
+        "phonetic": "/ˈfren(d)SHip/",
+        "origin": "Old English frēondscipe(see friend, -ship).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The emotions or conduct of friends; the state of being friends.",
+                        "example": "old ties of love and friendship",
+                        "synonyms": [
+                            "company",
+                            "companionship",
+                            "fellowship",
+                            "friendship",
+                            "comradeship",
+                            "camaraderie",
+                            "social intercourse"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

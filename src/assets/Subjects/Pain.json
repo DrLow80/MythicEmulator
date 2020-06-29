@@ -1,0 +1,66 @@
+[
+    {
+        "word": "pain",
+        "phonetic": "/pān/",
+        "origin": "Middle English (in the sense ‘suffering inflicted as punishment for an offense’): from Old French peine, from Latin poena ‘penalty’, later ‘pain’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Physical suffering or discomfort caused by illness or injury.",
+                        "example": "she's in great pain",
+                        "synonyms": [
+                            "suffering",
+                            "agony",
+                            "affliction",
+                            "torture",
+                            "torment",
+                            "discomfort",
+                            "soreness"
+                        ]
+                    },
+                    {
+                        "definition": "Careful effort; great care or trouble.",
+                        "example": "she took pains to see that everyone ate well",
+                        "synonyms": [
+                            "care",
+                            "effort",
+                            "bother",
+                            "trouble",
+                            "labour",
+                            "exertion",
+                            "strain",
+                            "struggle"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Cause mental or physical pain to.",
+                        "example": "it pains me to say this",
+                        "synonyms": [
+                            "hurt",
+                            "cause pain",
+                            "be painful",
+                            "be sore",
+                            "ache",
+                            "throb",
+                            "smart",
+                            "burn",
+                            "prickle",
+                            "sting",
+                            "pinch",
+                            "twinge",
+                            "cause discomfort",
+                            "be tender"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

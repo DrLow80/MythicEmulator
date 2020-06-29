@@ -1,0 +1,30 @@
+[
+    {
+        "word": "gratify",
+        "phonetic": "/ˈɡradəˌfī/",
+        "origin": "Late Middle English (in the sense ‘make pleasing’): from French gratifier or Latin gratificari ‘give or do as a favor’, from gratus ‘pleasing, thankful’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Give (someone) pleasure or satisfaction.",
+                        "example": "I was gratified to see the coverage in May's issue",
+                        "synonyms": [
+                            "please",
+                            "gladden",
+                            "give pleasure to",
+                            "make happy",
+                            "make content",
+                            "delight",
+                            "make someone feel good",
+                            "satisfy",
+                            "warm the cockles of the heart",
+                            "thrill"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "word": "anger",
+        "phonetic": "/ˈaNGɡər/",
+        "origin": "Middle English from Old Norse angr ‘grief’, angra ‘vex’. The original use was in the Old Norse senses; current senses date from late Middle English.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A strong feeling of annoyance, displeasure, or hostility.",
+                        "example": "the colonel's anger at his daughter's disobedience",
+                        "synonyms": [
+                            "annoyance",
+                            "vexation",
+                            "exasperation",
+                            "crossness",
+                            "irritation",
+                            "irritability",
+                            "indignation",
+                            "pique",
+                            "displeasure",
+                            "resentment"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Fill (someone) with anger; provoke anger in.",
+                        "example": "she was angered by his terse answer",
+                        "synonyms": [
+                            "annoy",
+                            "irritate",
+                            "exasperate",
+                            "irk",
+                            "vex",
+                            "put out",
+                            "provoke",
+                            "pique",
+                            "gall",
+                            "displease"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

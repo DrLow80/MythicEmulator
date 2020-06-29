@@ -1,0 +1,83 @@
+[
+    {
+        "word": "control",
+        "phonetic": "/kənˈtrōl/",
+        "origin": "Late Middle English (as a verb in the sense ‘check or verify accounts’, especially by referring to a duplicate register): from Anglo-Norman French contreroller ‘keep a copy of a roll of accounts’, from medieval Latin contrarotulare, from contrarotulus ‘copy of a roll’, from contra- ‘against’ + rotulus ‘a roll’. The noun is perhaps via French contrôle.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The power to influence or direct people's behavior or the course of events.",
+                        "example": "the whole operation is under the control of a production manager",
+                        "synonyms": [
+                            "jurisdiction",
+                            "sway",
+                            "power",
+                            "authority",
+                            "command",
+                            "dominance",
+                            "domination",
+                            "government",
+                            "mastery",
+                            "leadership",
+                            "rule",
+                            "reign",
+                            "sovereignty",
+                            "supremacy",
+                            "ascendancy",
+                            "predominance",
+                            "hegemony"
+                        ]
+                    },
+                    {
+                        "definition": "A group or individual used as a standard of comparison for checking the results of a survey or experiment.",
+                        "example": "they saw no difference between the cancer patients and the controls",
+                        "synonyms": [
+                            "standard of comparison",
+                            "benchmark",
+                            "standard",
+                            "check"
+                        ]
+                    },
+                    {
+                        "definition": "A member of an intelligence organization who personally directs the activities of a spy.",
+                        "example": "he sat with his KGB control as the details of his new assignment were explained"
+                    },
+                    {
+                        "definition": "A high card that will prevent the opponents from establishing a particular suit."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Determine the behavior or supervise the running of.",
+                        "example": "he was appointed to control the company's marketing strategy",
+                        "synonyms": [
+                            "be in charge of",
+                            "run",
+                            "be in control of",
+                            "manage",
+                            "direct",
+                            "administer",
+                            "head",
+                            "preside over",
+                            "have authority over",
+                            "supervise",
+                            "superintend",
+                            "oversee",
+                            "guide",
+                            "steer"
+                        ]
+                    },
+                    {
+                        "definition": "Take into account (an extraneous factor that might affect results) when performing an experiment.",
+                        "example": "no attempt was made to control for variations"
+                    }
+                ]
+            }
+        ]
+    }
+]

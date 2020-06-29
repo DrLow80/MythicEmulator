@@ -1,0 +1,29 @@
+[
+    {
+        "word": "disruption",
+        "phonetic": "/disˈrəpSH(ə)n/",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Disturbance or problems which interrupt an event, activity, or process.",
+                        "example": "the schedule was planned to minimize disruption",
+                        "synonyms": [
+                            "disturbance",
+                            "disordering",
+                            "disarrangement",
+                            "disarranging",
+                            "interference",
+                            "upset",
+                            "upsetting",
+                            "unsettling",
+                            "confusion",
+                            "confusing"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "word": "project",
+        "phonetic": "/ˈpräˌjekt/",
+        "origin": "Late Middle English (in the sense ‘preliminary design, tabulated statement’): from Latin projectum ‘something prominent’, neuter past participle of proicere ‘throw forth’, from pro- ‘forth’ + jacere ‘to throw’. Early senses of the verb were ‘plan’ and ‘cause to move forward’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An individual or collaborative enterprise that is carefully planned to achieve a particular aim.",
+                        "example": "a research project",
+                        "synonyms": [
+                            "scheme",
+                            "plan",
+                            "plan of action",
+                            "programme",
+                            "enterprise",
+                            "undertaking",
+                            "venture",
+                            "activity",
+                            "operation",
+                            "campaign"
+                        ]
+                    },
+                    {
+                        "definition": "A government-subsidized housing development with relatively low rents.",
+                        "example": "her family still lives in the projects"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Estimate or forecast (something) on the basis of present trends or data.",
+                        "example": "spending was projected at $72 million",
+                        "synonyms": [
+                            "forecast",
+                            "predict",
+                            "estimate",
+                            "calculate",
+                            "gauge",
+                            "reckon",
+                            "expect",
+                            "extrapolate"
+                        ]
+                    },
+                    {
+                        "definition": "Extend outward beyond something else; protrude.",
+                        "example": "I noticed a slip of paper projecting from the book",
+                        "synonyms": [
+                            "stick out",
+                            "jut out",
+                            "jut",
+                            "protrude",
+                            "extend",
+                            "stand out",
+                            "hang over",
+                            "overhang",
+                            "bulge out",
+                            "poke out",
+                            "lap over",
+                            "ride over",
+                            "thrust out",
+                            "obtrude",
+                            "cantilever"
+                        ]
+                    },
+                    {
+                        "definition": "Throw or cause to move forward or outward.",
+                        "example": "seeds are projected from the tree",
+                        "synonyms": [
+                            "throw",
+                            "cast",
+                            "fling",
+                            "hurl",
+                            "toss",
+                            "lob",
+                            "launch",
+                            "discharge",
+                            "propel",
+                            "shoot"
+                        ]
+                    },
+                    {
+                        "definition": "Present or promote (a particular view or image)",
+                        "example": "he strives to project an image of youth",
+                        "synonyms": [
+                            "convey",
+                            "put across",
+                            "put over",
+                            "communicate",
+                            "present",
+                            "promote"
+                        ]
+                    },
+                    {
+                        "definition": "Draw straight lines from a center of or parallel lines through every point of (a given figure) to produce a corresponding figure on a surface or a line by intersecting the surface."
+                    },
+                    {
+                        "definition": "Make a projection of (the earth, sky, etc.) on a plane surface."
+                    }
+                ]
+            }
+        ]
+    }
+]

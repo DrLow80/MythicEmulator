@@ -1,0 +1,113 @@
+[
+    {
+        "word": "plan",
+        "phonetic": "/plan/",
+        "origin": "Late 17th century from French, from earlier plant ‘ground plan, plane surface’, influenced in sense by Italian pianta ‘plan of building’. Compare with plant.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A detailed proposal for doing or achieving something.",
+                        "example": "the UN peace plan",
+                        "synonyms": [
+                            "scheme",
+                            "plan of action",
+                            "idea",
+                            "master plan",
+                            "game plan",
+                            "proposal",
+                            "proposition",
+                            "ploy",
+                            "suggestion",
+                            "project",
+                            "programme",
+                            "system",
+                            "method",
+                            "procedure",
+                            "strategy",
+                            "stratagem",
+                            "formula",
+                            "recipe",
+                            "scenario",
+                            "arrangement",
+                            "schedule",
+                            "agenda"
+                        ]
+                    },
+                    {
+                        "definition": "An intention or decision about what one is going to do.",
+                        "example": "I have no plans to retire",
+                        "synonyms": [
+                            "intention",
+                            "aim",
+                            "idea",
+                            "intent",
+                            "objective",
+                            "object",
+                            "goal",
+                            "target",
+                            "hope",
+                            "aspiration",
+                            "ambition"
+                        ]
+                    },
+                    {
+                        "definition": "A detailed map or diagram.",
+                        "example": "a street plan"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Decide on and make arrangements for in advance.",
+                        "example": "they were planning a trip to Egypt",
+                        "synonyms": [
+                            "organize",
+                            "arrange",
+                            "work out",
+                            "think out",
+                            "design",
+                            "line up",
+                            "outline",
+                            "sketch out",
+                            "map out",
+                            "chalk out",
+                            "draft",
+                            "prepare",
+                            "schedule",
+                            "programme",
+                            "formulate",
+                            "frame",
+                            "project",
+                            "develop",
+                            "set up",
+                            "fix up",
+                            "shape",
+                            "build",
+                            "devise",
+                            "concoct",
+                            "contrive"
+                        ]
+                    },
+                    {
+                        "definition": "Design or make a plan of (something to be made or built)",
+                        "example": "she had planned the garden from scratch",
+                        "synonyms": [
+                            "design",
+                            "draw up a plan of",
+                            "make a drawing of",
+                            "draw up a layout of",
+                            "sketch out",
+                            "make a map of",
+                            "map out",
+                            "make a representation of"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

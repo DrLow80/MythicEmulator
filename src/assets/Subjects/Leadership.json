@@ -1,0 +1,26 @@
+[
+    {
+        "word": "leadership",
+        "phonetic": "/ˈlēdərˌSHip/",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The action of leading a group of people or an organization.",
+                        "example": "different styles of leadership",
+                        "synonyms": [
+                            "guidance",
+                            "direction",
+                            "authority",
+                            "control",
+                            "management",
+                            "superintendence",
+                            "supervision"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

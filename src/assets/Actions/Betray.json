@@ -1,0 +1,40 @@
+[
+    {
+        "word": "betray",
+        "phonetic": "/bəˈtrā/",
+        "origin": "Middle English from be-‘thoroughly’ + obsolete tray ‘betray’, from Old French trair, based on Latin tradere ‘hand over’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Expose (one's country, a group, or a person) to danger by treacherously giving information to an enemy.",
+                        "example": "a double agent who betrayed some 400 British and French agents to the Germans",
+                        "synonyms": [
+                            "break one's promise to",
+                            "be disloyal to",
+                            "be unfaithful to",
+                            "break faith with",
+                            "play someone false",
+                            "fail",
+                            "let down"
+                        ]
+                    },
+                    {
+                        "definition": "Unintentionally reveal; be evidence of.",
+                        "example": "she drew a deep breath that betrayed her indignation",
+                        "synonyms": [
+                            "manifest",
+                            "make manifest",
+                            "exhibit",
+                            "reveal",
+                            "convey",
+                            "communicate",
+                            "make known"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

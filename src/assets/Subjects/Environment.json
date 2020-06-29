@@ -1,0 +1,39 @@
+[
+    {
+        "word": "environment",
+        "phonetic": "/inˈvīrənmənt/",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+                        "example": "survival in an often hostile environment",
+                        "synonyms": [
+                            "habitat",
+                            "territory",
+                            "domain",
+                            "home",
+                            "abode"
+                        ]
+                    },
+                    {
+                        "definition": "The natural world, as a whole or in a particular geographical area, especially as affected by human activity.",
+                        "example": "the impact of pesticides on the environment",
+                        "synonyms": [
+                            "the natural world",
+                            "nature",
+                            "the living world",
+                            "the world",
+                            "the earth",
+                            "the ecosystem",
+                            "the biosphere",
+                            "Mother Nature",
+                            "Gaia"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

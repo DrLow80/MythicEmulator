@@ -1,0 +1,96 @@
+[
+    {
+        "word": "plot",
+        "phonetic": "/plät/",
+        "origin": "Late Old English (in plot (sense 3 of the noun)), of unknown origin. The sense ‘secret plan’, dating from the late 16th century, is associated with Old French complot ‘dense crowd, secret project’, the same term being used occasionally in English from the mid 16th century Compare with plat.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A plan made in secret by a group of people to do something illegal or harmful.",
+                        "example": "there's a plot to overthrow the government",
+                        "synonyms": [
+                            "conspiracy",
+                            "intrigue",
+                            "secret plan",
+                            "secret scheme",
+                            "stratagem"
+                        ]
+                    },
+                    {
+                        "definition": "The main events of a play, novel, movie, or similar work, devised and presented by the writer as an interrelated sequence.",
+                        "example": "the plot consists almost entirely of a man and woman falling in love",
+                        "synonyms": [
+                            "storyline",
+                            "story",
+                            "chain of events",
+                            "scenario",
+                            "action",
+                            "thread"
+                        ]
+                    },
+                    {
+                        "definition": "A small piece of ground marked out for a purpose such as building or gardening.",
+                        "example": "a vegetable plot",
+                        "synonyms": [
+                            "piece of ground",
+                            "patch",
+                            "area",
+                            "location",
+                            "parcel",
+                            "tract",
+                            "allotment",
+                            "acreage"
+                        ]
+                    },
+                    {
+                        "definition": "A graph showing the relation between two variables.",
+                        "example": "Interpreting that information is not like interpreting a simple plot or graph."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Secretly make plans to carry out (an illegal or harmful action)",
+                        "example": "the two men are serving sentences for plotting a bomb campaign",
+                        "synonyms": [
+                            "plan",
+                            "scheme",
+                            "arrange",
+                            "organize",
+                            "lay",
+                            "hatch",
+                            "concoct",
+                            "devise",
+                            "frame",
+                            "think up",
+                            "dream up",
+                            "cook up",
+                            "brew",
+                            "conceive"
+                        ]
+                    },
+                    {
+                        "definition": "Devise the sequence of events in (a play, novel, movie, or similar work)",
+                        "example": "she would plot a chapter as she drove"
+                    },
+                    {
+                        "definition": "Mark (a route or position) on a chart.",
+                        "example": "he started to plot lines of ancient sites",
+                        "synonyms": [
+                            "mark",
+                            "chart",
+                            "map",
+                            "indicate",
+                            "represent",
+                            "graph"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

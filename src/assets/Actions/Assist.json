@@ -1,0 +1,45 @@
+[
+    {
+        "word": "assist",
+        "phonetic": "/əˈsist/",
+        "origin": "Late Middle English from Old French assister, from Latin assistere ‘take one's stand by’, from ad- ‘to, at’ + sistere ‘take one's stand’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Help (someone), typically by doing a share of the work.",
+                        "example": "a senior academic would assist him in his work",
+                        "synonyms": [
+                            "help",
+                            "aid",
+                            "abet",
+                            "lend a hand to",
+                            "lend a helping hand to",
+                            "give assistance to",
+                            "be of use to",
+                            "oblige",
+                            "accommodate",
+                            "serve",
+                            "be of service to",
+                            "do someone a service",
+                            "do someone a favour",
+                            "do someone a good turn",
+                            "bail someone out",
+                            "come to someone's rescue"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An act of helping, typically by providing money.",
+                        "example": "the budget must have an assist from tax policies"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "opposition",
+        "phonetic": "/ˌäpəˈziSH(ə)n/",
+        "origin": "Late Middle English from Latin oppositio(n-), from opponere ‘set against’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Resistance or dissent, expressed in action or argument.",
+                        "example": "there was considerable opposition to the proposal",
+                        "synonyms": [
+                            "resistance",
+                            "hostility",
+                            "antagonism",
+                            "antipathy",
+                            "enmity",
+                            "objection",
+                            "dissent",
+                            "criticism",
+                            "defiance",
+                            "non-compliance",
+                            "obstruction",
+                            "obstructiveness",
+                            "counteraction"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

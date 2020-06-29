@@ -1,0 +1,48 @@
+[
+    {
+        "word": "malice",
+        "phonetic": "/ˈmaləs/",
+        "origin": "Middle English via Old French from Latin malitia, from malus ‘bad’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The intention or desire to do evil; ill will.",
+                        "example": "I bear no malice toward anybody",
+                        "synonyms": [
+                            "spitefulness",
+                            "spite",
+                            "malevolence",
+                            "maliciousness",
+                            "animosity",
+                            "hostility",
+                            "ill will",
+                            "ill feeling",
+                            "hatred",
+                            "hate",
+                            "bitterness",
+                            "venom",
+                            "vindictiveness",
+                            "vengefulness",
+                            "revenge",
+                            "malignity",
+                            "malignance",
+                            "evil intentions",
+                            "animus",
+                            "enmity",
+                            "devilment",
+                            "devilry",
+                            "bad blood",
+                            "backbiting",
+                            "gall",
+                            "rancour",
+                            "spleen",
+                            "grudge"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "word": "persecute",
+        "phonetic": "/ˈpərsəˌkyo͞ot/",
+        "origin": "Late Middle English from Old French persecuter, from Latin persecut- ‘followed with hostility’, from the verb persequi, from per- ‘through, utterly’ + sequi ‘follow, pursue’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Subject (someone) to hostility and ill-treatment, especially because of their race or political or religious beliefs.",
+                        "example": "his followers were persecuted by the authorities",
+                        "synonyms": [
+                            "oppress",
+                            "abuse",
+                            "victimize",
+                            "ill-treat",
+                            "mistreat",
+                            "maltreat",
+                            "discriminate against",
+                            "punish",
+                            "inflict pain on",
+                            "inflict suffering on",
+                            "tyrannize",
+                            "afflict",
+                            "torment",
+                            "torture",
+                            "martyr"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

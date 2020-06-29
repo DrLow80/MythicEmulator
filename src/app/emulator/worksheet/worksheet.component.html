@@ -1,0 +1,63 @@
+<div class="container" *ngIf="model">
+  <h2>
+    Mythic Worksheet
+  </h2>
+
+  <div class="row">
+    <div class="col">
+      <h3>
+        Scenes
+      </h3>
+
+      <div class="row">
+        <div class="col-1" *ngFor="let item of scenes">
+          <button
+            type="button"
+            class="btn btn-primary"
+            [class.active]="currentScene.index === item.index"
+            (click)="onSelectScene(item)"
+          >
+            {{ item.index }}
+          </button>
+        </div>
+      </div>
+
+      <app-wscene></app-wscene>
+
+      <app-wquestions></app-wquestions>
+    </div>
+    <div class="col-3">
+      <h3>Chaos</h3>
+
+      <div class="row">
+        <div class="col">
+          <button
+            class="btn btn-primary"
+            type="button"
+            (click)="onDecreaseChaosClick()"
+          >
+            -
+          </button>
+        </div>
+        <div class="col">
+          {{ chaos }}
+        </div>
+        <div class="col">
+          <button
+            class="btn btn-primary"
+            type="button"
+            (click)="onIncreaseChaosClick()"
+          >
+            +
+          </button>
+        </div>
+      </div>
+
+      <h4>
+        Lists
+      </h4>
+
+      <app-wlists></app-wlists>
+    </div>
+  </div>
+</div>

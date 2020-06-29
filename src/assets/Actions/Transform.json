@@ -1,0 +1,37 @@
+[
+    {
+        "word": "transform",
+        "phonetic": "/tran(t)sˈfôrm/",
+        "origin": "Middle English (as a verb): from Old French transformer or Latin transformare(see trans-, form).",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Make a thorough or dramatic change in the form, appearance, or character of.",
+                        "example": "lasers have transformed cardiac surgery",
+                        "synonyms": [
+                            "change",
+                            "alter",
+                            "modify",
+                            "convert",
+                            "metamorphose",
+                            "transfigure",
+                            "transmute",
+                            "mutate"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The product of a transformation.",
+                        "example": "In the bottom portion of the figure, the logarithmic transform of power is presented."
+                    }
+                ]
+            }
+        ]
+    }
+]

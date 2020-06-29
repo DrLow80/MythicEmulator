@@ -1,0 +1,60 @@
+[
+    {
+        "word": "dream",
+        "phonetic": "/driːm/",
+        "origin": "Middle English of Germanic origin, related to Dutch droom and German Traum, and probably also to Old English drēam ‘joy, music’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A series of thoughts, images, and sensations occurring in a person's mind during sleep.",
+                        "example": "I had a recurrent dream about falling from great heights",
+                        "synonyms": [
+                            "fantasy",
+                            "nightmare"
+                        ]
+                    },
+                    {
+                        "definition": "A cherished aspiration, ambition, or ideal.",
+                        "example": "I fulfilled a childhood dream when I became champion",
+                        "synonyms": [
+                            "ambition",
+                            "aspiration",
+                            "hope"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Experience dreams during sleep.",
+                        "example": "I dreamed about her last night"
+                    },
+                    {
+                        "definition": "Indulge in daydreams or fantasies about something greatly desired.",
+                        "example": "she had dreamed of a trip to America",
+                        "synonyms": [
+                            "fantasize about",
+                            "daydream about"
+                        ]
+                    },
+                    {
+                        "definition": "Contemplate the possibility of doing something or that something might be the case.",
+                        "example": "I wouldn't dream of foisting myself on you",
+                        "synonyms": [
+                            "think",
+                            "consider",
+                            "contemplate",
+                            "conceive",
+                            "entertain the thought of",
+                            "visualize"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

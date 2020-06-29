@@ -1,0 +1,92 @@
+[
+    {
+        "word": "care",
+        "phonetic": "/ker/",
+        "origin": "Old English caru (noun), carian (verb), of Germanic origin; related to Old High German chara ‘grief, lament’, charon ‘grieve’, and Old Norse kǫr ‘sickbed’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The provision of what is necessary for the health, welfare, maintenance, and protection of someone or something.",
+                        "example": "the care of the elderly",
+                        "synonyms": [
+                            "safe keeping",
+                            "supervision",
+                            "custody",
+                            "charge",
+                            "protection",
+                            "keeping",
+                            "keep",
+                            "control",
+                            "management",
+                            "ministration",
+                            "guidance",
+                            "superintendence",
+                            "tutelage",
+                            "aegis",
+                            "responsibility"
+                        ]
+                    },
+                    {
+                        "definition": "Serious attention or consideration applied to doing something correctly or to avoid damage or risk.",
+                        "example": "he planned his departure with great care",
+                        "synonyms": [
+                            "caution",
+                            "carefulness",
+                            "wariness",
+                            "awareness",
+                            "heedfulness",
+                            "heed",
+                            "attention",
+                            "attentiveness",
+                            "alertness",
+                            "watchfulness",
+                            "vigilance",
+                            "circumspection",
+                            "prudence",
+                            "guardedness",
+                            "observance"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Feel concern or interest; attach importance to something.",
+                        "example": "they don't care about human life",
+                        "synonyms": [
+                            "be concerned",
+                            "worry",
+                            "worry oneself",
+                            "trouble oneself",
+                            "bother",
+                            "mind"
+                        ]
+                    },
+                    {
+                        "definition": "Look after and provide for the needs of.",
+                        "example": "he has numerous animals to care for",
+                        "synonyms": [
+                            "look after",
+                            "take care of",
+                            "tend",
+                            "attend to",
+                            "mind",
+                            "minister to",
+                            "take charge of",
+                            "nurse",
+                            "provide for",
+                            "foster",
+                            "protect",
+                            "watch",
+                            "guard"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

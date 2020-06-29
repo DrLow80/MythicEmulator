@@ -1,0 +1,148 @@
+[
+    {
+        "word": "break",
+        "phonetic": "/brāk/",
+        "origin": "Old English brecan (verb), of Germanic origin; related to Dutch breken and German brechen, from an Indo-European root shared by Latin frangere ‘to break’.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Separate or cause to separate into pieces as a result of a blow, shock, or strain.",
+                        "example": "the rope broke with a loud snap",
+                        "synonyms": [
+                            "shatter",
+                            "smash",
+                            "smash to smithereens",
+                            "crack",
+                            "snap",
+                            "fracture",
+                            "fragment",
+                            "splinter"
+                        ]
+                    },
+                    {
+                        "definition": "Interrupt (a continuity, sequence, or course)",
+                        "example": "the new government broke the pattern of growth",
+                        "synonyms": [
+                            "interrupt",
+                            "disturb",
+                            "interfere with"
+                        ]
+                    },
+                    {
+                        "definition": "Fail to observe (a law, regulation, or agreement)",
+                        "example": "the district attorney says she will prosecute retailers who break the law",
+                        "synonyms": [
+                            "contravene",
+                            "violate",
+                            "fail to comply with",
+                            "fail to observe",
+                            "disobey",
+                            "infringe",
+                            "breach",
+                            "commit a breach of",
+                            "transgress against"
+                        ]
+                    },
+                    {
+                        "definition": "Crush the emotional strength, spirit, or resistance of.",
+                        "example": "the idea was to better the prisoners, not to break them"
+                    },
+                    {
+                        "definition": "(of the weather) change suddenly.",
+                        "example": "the weather broke and thunder rumbled through a leaden sky",
+                        "synonyms": [
+                            "change",
+                            "undergo a change",
+                            "alter",
+                            "shift",
+                            "metamorphose"
+                        ]
+                    },
+                    {
+                        "definition": "(of news or a scandal) suddenly become public.",
+                        "example": "since the news broke I've received thousands of wonderful letters",
+                        "synonyms": [
+                            "erupt",
+                            "burst out",
+                            "break out"
+                        ]
+                    },
+                    {
+                        "definition": "(chiefly of an attacking player or team, or of a military force) make a rush or dash in a particular direction.",
+                        "example": "the flight broke to the right and formed a defensive circle"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An interruption of continuity or uniformity.",
+                        "example": "the magazine has been published without a break since 1950",
+                        "synonyms": [
+                            "interruption",
+                            "interval",
+                            "gap",
+                            "hiatus",
+                            "lapse of time",
+                            "lacuna"
+                        ]
+                    },
+                    {
+                        "definition": "A pause in work or during an activity or event.",
+                        "example": "I need a break from mental activity",
+                        "synonyms": [
+                            "rest",
+                            "respite",
+                            "interval",
+                            "breathing space",
+                            "lull",
+                            "recess"
+                        ]
+                    },
+                    {
+                        "definition": "A gap or opening.",
+                        "example": "he stopped to wait for a break in the traffic",
+                        "synonyms": [
+                            "gap",
+                            "opening",
+                            "space",
+                            "hole",
+                            "breach",
+                            "chink",
+                            "crack",
+                            "fissure",
+                            "cleft",
+                            "rift",
+                            "chasm"
+                        ]
+                    },
+                    {
+                        "definition": "An instance of breaking something, or the point where something is broken.",
+                        "example": "a break in the valve was being repaired"
+                    },
+                    {
+                        "definition": "A rush or dash in a particular direction, especially by an attacking player or team.",
+                        "example": "he made a bounce pass for a basket on the break in the second quarter"
+                    },
+                    {
+                        "definition": "An opportunity or chance, especially one leading to professional success.",
+                        "synonyms": [
+                            "opportunity",
+                            "stroke of luck",
+                            "chance",
+                            "opening",
+                            "foot in the door"
+                        ]
+                    },
+                    {
+                        "definition": "A consecutive series of successful shots, scoring a specified number of points.",
+                        "example": "a break of 83 put him in front for the first time"
+                    }
+                ]
+            }
+        ]
+    }
+]

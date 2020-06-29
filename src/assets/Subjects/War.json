@@ -1,0 +1,54 @@
+[
+    {
+        "word": "war",
+        "phonetic": "/wôr/",
+        "origin": "Late Old English werre, from an Anglo-Norman French variant of Old French guerre, from a Germanic base shared by worse.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A state of armed conflict between different nations or states or different groups within a nation or state.",
+                        "example": "Japan declared war on Germany",
+                        "synonyms": [
+                            "conflict",
+                            "warfare",
+                            "combat",
+                            "fighting",
+                            "struggle",
+                            "armed conflict",
+                            "action",
+                            "military action",
+                            "bloodshed",
+                            "contest",
+                            "tussle"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Engage in a war.",
+                        "example": "small states warred against each other",
+                        "synonyms": [
+                            "fight",
+                            "battle",
+                            "combat",
+                            "wage war",
+                            "make war",
+                            "be at war",
+                            "be in conflict",
+                            "conduct a war",
+                            "do battle",
+                            "join battle",
+                            "take the field",
+                            "take up arms"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

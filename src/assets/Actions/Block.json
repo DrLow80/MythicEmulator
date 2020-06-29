@@ -1,0 +1,110 @@
+[
+    {
+        "word": "block",
+        "phonetic": "/bläk/",
+        "origin": "Middle English (denoting a log or tree stump): from Old French bloc (noun), bloquer (verb), from Middle Dutch blok, of unknown ultimate origin.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large solid piece of hard material, especially rock, stone, or wood, typically with flat surfaces on each side.",
+                        "example": "a block of marble",
+                        "synonyms": [
+                            "chunk",
+                            "hunk",
+                            "brick",
+                            "slab",
+                            "lump",
+                            "piece"
+                        ]
+                    },
+                    {
+                        "definition": "A large single building subdivided into separate rooms, apartments, or offices.",
+                        "example": "an apartment block",
+                        "synonyms": [
+                            "building",
+                            "complex",
+                            "structure",
+                            "development"
+                        ]
+                    },
+                    {
+                        "definition": "A large quantity or allocation of things regarded as a unit.",
+                        "example": "a block of shares",
+                        "synonyms": [
+                            "batch",
+                            "group",
+                            "cluster",
+                            "set",
+                            "section",
+                            "quantity",
+                            "series"
+                        ]
+                    },
+                    {
+                        "definition": "An obstacle to the normal progress or functioning of something.",
+                        "example": "substantial demands for time off may constitute a block to career advancement",
+                        "synonyms": [
+                            "obstacle",
+                            "obstruction",
+                            "bar",
+                            "barrier",
+                            "impediment",
+                            "hindrance",
+                            "check",
+                            "hurdle",
+                            "stumbling block"
+                        ]
+                    },
+                    {
+                        "definition": "A flat area of something, especially a solid area of color.",
+                        "example": "cover the eyelid with a neutral block of color"
+                    },
+                    {
+                        "definition": "A pulley or system of pulleys mounted in a case.",
+                        "example": "a simple pulley block"
+                    },
+                    {
+                        "definition": "A person's head."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Make the movement or flow in (a passage, pipe, road, etc.) difficult or impossible.",
+                        "example": "block up the holes with sticky tape",
+                        "synonyms": [
+                            "clog",
+                            "clog up",
+                            "stop up",
+                            "choke",
+                            "plug",
+                            "obstruct",
+                            "gum up",
+                            "occlude",
+                            "dam up",
+                            "congest",
+                            "jam",
+                            "close"
+                        ]
+                    },
+                    {
+                        "definition": "Impress text or a design on (a book cover).",
+                        "example": "Original blue cloth, spine lettered and blocked in gold."
+                    },
+                    {
+                        "definition": "Shape or reshape (a hat) using a wooden mold.",
+                        "example": "nobody cleans and blocks old felt hats any more"
+                    },
+                    {
+                        "definition": "Design or plan the movements of actors on a stage or movie set.",
+                        "example": "The stage version clearly needs blocking as there is a limited space on which to do the entire show."
+                    }
+                ]
+            }
+        ]
+    }
+]

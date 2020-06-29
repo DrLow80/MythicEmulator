@@ -1,0 +1,25 @@
+[
+    {
+        "word": "truce",
+        "phonetic": "/tro͞os/",
+        "origin": "Middle English trewes, trues (plural), from Old English trēowa, plural of trēow ‘belief, trust’, of Germanic origin; related to Dutch trouw and German Treue, also to true.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An agreement between enemies or opponents to stop fighting or arguing for a certain time.",
+                        "example": "the guerrillas called a three-day truce",
+                        "synonyms": [
+                            "ceasefire",
+                            "armistice",
+                            "suspension of hostilities",
+                            "cessation of hostilities",
+                            "peace"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

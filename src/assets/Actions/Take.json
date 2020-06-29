@@ -1,0 +1,144 @@
+[
+    {
+        "word": "take",
+        "phonetic": "/tāk/",
+        "origin": "Late Old English tacan ‘get (especially by force), capture’, from Old Norse taka ‘grasp, lay hold of’, of unknown ultimate origin.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Lay hold of (something) with one's hands; reach for and hold.",
+                        "example": "he leaned forward to take her hand",
+                        "synonyms": [
+                            "lay hold of",
+                            "take hold of",
+                            "get hold of",
+                            "get into one's hands"
+                        ]
+                    },
+                    {
+                        "definition": "Remove (someone or something) from a particular place.",
+                        "example": "he took an envelope from his inside pocket",
+                        "synonyms": [
+                            "remove",
+                            "pull",
+                            "draw",
+                            "withdraw",
+                            "extract",
+                            "fish"
+                        ]
+                    },
+                    {
+                        "definition": "Carry or bring with one; convey.",
+                        "example": "he took along a portfolio of his drawings",
+                        "synonyms": [
+                            "bring",
+                            "carry",
+                            "bear",
+                            "transport",
+                            "convey",
+                            "move",
+                            "transfer",
+                            "shift",
+                            "haul",
+                            "drag",
+                            "lug",
+                            "cart",
+                            "ferry"
+                        ]
+                    },
+                    {
+                        "definition": "Accept or receive (someone or something)",
+                        "example": "she was advised to take any job offered",
+                        "synonyms": [
+                            "accept",
+                            "take up",
+                            "take on",
+                            "undertake"
+                        ]
+                    },
+                    {
+                        "definition": "Consume as food, drink, medicine, or drugs.",
+                        "example": "take an aspirin and lie down",
+                        "synonyms": [
+                            "drink",
+                            "imbibe"
+                        ]
+                    },
+                    {
+                        "definition": "Make, undertake, or perform (an action or task)",
+                        "example": "Lucy took a deep breath",
+                        "synonyms": [
+                            "perform",
+                            "execute",
+                            "effect",
+                            "discharge",
+                            "carry out",
+                            "accomplish",
+                            "fulfil",
+                            "complete",
+                            "conduct",
+                            "implement",
+                            "do",
+                            "make",
+                            "have"
+                        ]
+                    },
+                    {
+                        "definition": "Require or use up (a specified amount of time)",
+                        "example": "the jury took an hour and a half to find McPherson guilty",
+                        "synonyms": [
+                            "last",
+                            "continue for",
+                            "go on for",
+                            "carry on for",
+                            "keep on for",
+                            "run on for",
+                            "endure for"
+                        ]
+                    },
+                    {
+                        "definition": "(of a plant or seed) take root or begin to grow; germinate.",
+                        "example": "the fuchsia cuttings had taken and were looking good"
+                    },
+                    {
+                        "definition": "Have or require as part of the appropriate construction.",
+                        "example": "verbs that take both the infinitive and the finite clause as their object"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A scene or sequence of sound or vision photographed or recorded continuously at one time.",
+                        "example": "he completed a particularly difficult scene in two takes",
+                        "synonyms": [
+                            "scene",
+                            "sequence",
+                            "filmed sequence",
+                            "clip",
+                            "part",
+                            "segment"
+                        ]
+                    },
+                    {
+                        "definition": "An amount of something gained or acquired from one source or in one session.",
+                        "example": "the take from commodity taxation",
+                        "synonyms": [
+                            "catch",
+                            "haul",
+                            "bag",
+                            "yield",
+                            "net"
+                        ]
+                    },
+                    {
+                        "definition": "An amount of copy set up at one time or by one compositor."
+                    }
+                ]
+            }
+        ]
+    }
+]

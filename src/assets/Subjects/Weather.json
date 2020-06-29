@@ -1,0 +1,44 @@
+[
+    {
+        "word": "weather",
+        "phonetic": "/ˈweT͟Hər/",
+        "origin": "Old English weder, of Germanic origin; related to Dutch weer and German Wetter, probably also to the noun wind.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
+                        "example": "if the weather's good we can go for a walk",
+                        "synonyms": [
+                            "meteorological conditions",
+                            "atmospheric conditions",
+                            "meteorology",
+                            "climate"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Wear away or change the appearance or texture of (something) by long exposure to the air.",
+                        "example": "his skin was weathered almost black by his long outdoor life"
+                    },
+                    {
+                        "definition": "Come safely through (a storm)",
+                        "example": "the sturdy boat had weathered the storm well"
+                    },
+                    {
+                        "definition": "Make (boards or tiles) overlap downward to keep out rain."
+                    },
+                    {
+                        "definition": "Allow (a hawk) to spend a period perched in the open air.",
+                        "example": "I would advise to weather her in her hood"
+                    }
+                ]
+            }
+        ]
+    }
+]

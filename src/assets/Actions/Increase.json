@@ -1,0 +1,47 @@
+[
+    {
+        "word": "increase",
+        "phonetic": "/inˈkrēs/",
+        "origin": "Middle English (formerly also as encrease): from Old French encreistre, from Latin increscere, from in- ‘into’ + crescere ‘grow’.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Become or make greater in size, amount, intensity, or degree.",
+                        "example": "car use is increasing at an alarming rate",
+                        "synonyms": [
+                            "grow",
+                            "get bigger",
+                            "get larger",
+                            "become greater",
+                            "enlarge",
+                            "expand",
+                            "swell"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An instance of growing or making greater.",
+                        "example": "some increase in inflation",
+                        "synonyms": [
+                            "growth",
+                            "rise",
+                            "enlargement",
+                            "expansion",
+                            "extension",
+                            "multiplication",
+                            "elevation",
+                            "swelling",
+                            "inflation"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "inform",
+        "phonetic": "/inˈfôrm/",
+        "origin": "Middle English enforme, informe ‘give form or shape to’, also ‘form the mind of, teach’, from Old French enfourmer, from Latin informare ‘shape, fashion, describe’, from in- ‘into’ + forma ‘a form’.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Give (someone) facts or information; tell.",
+                        "example": "he wrote to her, informing her of the situation",
+                        "synonyms": [
+                            "tell",
+                            "let someone know",
+                            "notify",
+                            "apprise",
+                            "advise",
+                            "announce to",
+                            "impart to",
+                            "communicate to"
+                        ]
+                    },
+                    {
+                        "definition": "Give an essential or formative principle or quality to.",
+                        "example": "the relationship of the citizen to the state is informed by the democratic ideal",
+                        "synonyms": [
+                            "suffuse",
+                            "pervade",
+                            "permeate",
+                            "infuse",
+                            "imbue",
+                            "saturate"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

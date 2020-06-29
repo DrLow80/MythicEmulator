@@ -1,0 +1,35 @@
+[
+    {
+        "word": "inquire",
+        "phonetic": "/inˈkwīr/",
+        "origin": "Middle English enquere (later inquere), from Old French enquerre, from a variant of Latin inquirere, based on quaerere ‘seek’. The spelling with in-, influenced by Latin, dates from the 15th century.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Ask for information from someone.",
+                        "example": "he inquired about cottages for sale",
+                        "synonyms": [
+                            "ask",
+                            "make inquiries",
+                            "ask questions",
+                            "pose a question",
+                            "request information"
+                        ]
+                    },
+                    {
+                        "definition": "Investigate; look into.",
+                        "example": "the task of political sociology is to inquire into the causes of political events",
+                        "synonyms": [
+                            "conduct an inquiry",
+                            "make inquiries",
+                            "probe",
+                            "look"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

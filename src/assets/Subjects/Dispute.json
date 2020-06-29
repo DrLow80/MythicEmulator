@@ -1,0 +1,56 @@
+[
+    {
+        "word": "dispute",
+        "phonetic": "/diˈspyo͞ot/",
+        "origin": "Middle English via Old French from Latin disputare ‘to estimate’ (in late Latin ‘to dispute’), from dis- ‘apart’ + putare ‘reckon’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A disagreement, argument, or debate.",
+                        "example": "a territorial dispute between the two countries",
+                        "synonyms": [
+                            "debate",
+                            "discussion",
+                            "discourse",
+                            "disputation",
+                            "argument",
+                            "controversy",
+                            "contention",
+                            "disagreement",
+                            "altercation",
+                            "falling-out",
+                            "quarrelling",
+                            "variance",
+                            "dissension",
+                            "conflict",
+                            "friction",
+                            "strife",
+                            "discord",
+                            "antagonism"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Argue about (something); discuss heatedly.",
+                        "example": "he taught and disputed with local poets",
+                        "synonyms": [
+                            "debate",
+                            "discuss",
+                            "exchange views"
+                        ]
+                    },
+                    {
+                        "definition": "Compete for; strive to win.",
+                        "example": "the two drivers crashed while disputing the lead"
+                    }
+                ]
+            }
+        ]
+    }
+]

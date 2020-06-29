@@ -1,0 +1,54 @@
+[
+    {
+        "word": "art",
+        "phonetic": "/ärt/",
+        "origin": "Middle English via Old French from Latin ars, art-.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The expression or application of human creative skill and imagination, typically in a visual form such as painting or sculpture, producing works to be appreciated primarily for their beauty or emotional power.",
+                        "example": "the art of the Renaissance",
+                        "synonyms": [
+                            "fine art",
+                            "artwork",
+                            "creative activity"
+                        ]
+                    },
+                    {
+                        "definition": "The various branches of creative activity, such as painting, music, literature, and dance.",
+                        "example": "the visual arts"
+                    },
+                    {
+                        "definition": "Subjects of study primarily concerned with the processes and products of human creativity and social life, such as languages, literature, and history (as contrasted with scientific or technical subjects)",
+                        "example": "the belief that the arts and sciences were incompatible"
+                    },
+                    {
+                        "definition": "A skill at doing a specified thing, typically one acquired through practice.",
+                        "example": "the art of conversation",
+                        "synonyms": [
+                            "skill",
+                            "craft",
+                            "technique"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "art",
+        "phonetic": "/ɑrt/",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "archaic or dialect second person singular present of be"
+                    }
+                ]
+            }
+        ]
+    }
+]

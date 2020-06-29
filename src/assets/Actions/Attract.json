@@ -1,0 +1,18 @@
+[
+    {
+        "word": "attract",
+        "phonetic": "/əˈtrakt/",
+        "origin": "Late Middle English from Latin attract- ‘drawn near’, from the verb attrahere, from ad- ‘to’ + trahere ‘draw’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Cause to come to a place or participate in a venture by offering something of interest, favorable conditions, or opportunities.",
+                        "example": "a campaign to attract more visitors to West Virginia"
+                    }
+                ]
+            }
+        ]
+    }
+]

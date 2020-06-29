@@ -1,0 +1,88 @@
+<strong>
+  Player Characters
+</strong>
+
+<ul class="list-group">
+  <li class="list-group-item" *ngFor="let item of playerCharacters">
+    <div>
+      {{ item.name }}
+    </div>
+  </li>
+</ul>
+
+<form>
+  <div class="form-group">
+    <label for="playerCharacterName">
+      Name
+    </label>
+    <input
+      type="text"
+      class="form-control"
+      id="playerCharacterName"
+      name="playerCharacterName"
+      [(ngModel)]="newPlayerCharacterName"
+      (keyup.enter)="createPlayerCharacter()"
+    />
+  </div>
+</form>
+
+<strong>
+  Non Player Characters
+</strong>
+
+<ul class="list-group">
+  <li class="list-group-item" *ngFor="let item of nonPlayerCharacters">
+    {{ item.name }}
+  </li>
+</ul>
+
+<form>
+  <div class="form-group">
+    <label for="nonPlayerCharacterName">
+      Name
+    </label>
+    <input
+      type="text"
+      class="form-control"
+      id="nonPlayerCharacterName"
+      name="nonPlayerCharacterName"
+      [(ngModel)]="newNonPlayerCharacterName"
+      (keyup.enter)="createNonPlayerCharacter()"
+    />
+  </div>
+</form>
+
+<strong>
+  Threads
+</strong>
+
+<ul class="list-group">
+  <li
+    class="list-group-item d-flex justify-content-between"
+    *ngFor="let item of threads"
+  >
+    {{ item.name }}
+    <span
+      class="badge"
+      [class.badge-success]="item.enabled"
+      [class.badge-danger]="!item.enabled"
+      >&nbsp;</span
+    >
+  </li>
+</ul>
+
+<form action="">
+  <div class="form-group">
+    <label for="">
+      Name
+    </label>
+    <input
+      type="text"
+      class="form-control"
+      id="threadName"
+      name="threadName"
+      [(ngModel)]="newThreadName"
+      (keyup.enter)="createThread()"
+    />
+  </div>
+</form>

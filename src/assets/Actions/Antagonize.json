@@ -1,0 +1,25 @@
+[
+    {
+        "word": "antagonize",
+        "phonetic": "/anˈtaɡəˌnīz/",
+        "origin": "Mid 18th century (in the sense ‘struggle against’): from Greek antagōnizesthai, from ant- ‘against’ + agōnizesthai ‘struggle’ (from agōn ‘contest’).",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Cause (someone) to become hostile.",
+                        "example": "he antagonized many colleagues during the budget wars",
+                        "synonyms": [
+                            "arouse hostility in",
+                            "alienate",
+                            "set someone against someone else",
+                            "estrange",
+                            "disaffect"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

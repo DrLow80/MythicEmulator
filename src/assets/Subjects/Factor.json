@@ -1,0 +1,74 @@
+[
+    {
+        "word": "factor",
+        "phonetic": "/ˈfaktər/",
+        "origin": "Late Middle English (meaning ‘doer’, also in the Scots sense ‘agent’): from French facteur or Latin factor, from fact- ‘done’, from the verb facere.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A circumstance, fact, or influence that contributes to a result or outcome.",
+                        "example": "she worked fast, conscious of the time factor",
+                        "synonyms": [
+                            "element",
+                            "part",
+                            "component",
+                            "ingredient",
+                            "strand",
+                            "constituent",
+                            "point",
+                            "detail",
+                            "item",
+                            "feature",
+                            "facet",
+                            "aspect",
+                            "characteristic",
+                            "consideration",
+                            "influence",
+                            "circumstance",
+                            "thing",
+                            "determinant"
+                        ]
+                    },
+                    {
+                        "definition": "A number or quantity that when multiplied with another produces a given number or expression.",
+                        "example": "an amount that exceeds it by a factor of 1000 or more"
+                    },
+                    {
+                        "definition": "Any of a number of substances in the blood, mostly identified by numerals, which are involved in coagulation.",
+                        "example": "These include a change in the balance between procoagulant and anticoagulant factors in the blood."
+                    },
+                    {
+                        "definition": "A business agent; a merchant buying and selling on commission.",
+                        "example": "his father was chief factor for the Hudson's Bay Company",
+                        "synonyms": [
+                            "agent",
+                            "representative",
+                            "deputy",
+                            "middleman",
+                            "intermediary",
+                            "go-between"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "another term for factorize",
+                        "example": "last year researchers factored a number 155 digits long"
+                    },
+                    {
+                        "definition": "Organize (the source code of a piece of software) into different components that are easier to maintain and work with."
+                    },
+                    {
+                        "definition": "Sell (one's receivable debts) to a factor.",
+                        "example": "they collected rents while he factored these forfeited estates"
+                    }
+                ]
+            }
+        ]
+    }
+]

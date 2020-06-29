@@ -1,0 +1,126 @@
+[
+    {
+        "word": "start",
+        "phonetic": "/stɑːt/",
+        "origin": "Old English styrtan ‘to caper, leap’, of Germanic origin; related to Dutch storten ‘push’ and German stürzen ‘fall headlong, fling’. From the sense ‘sudden movement’ arose the sense ‘initiation of movement, setting out on a journey’ and hence ‘beginning of a process, etc.’.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Begin or be reckoned from a particular point in time or space; come into being.",
+                        "example": "the season starts in September",
+                        "synonyms": [
+                            "begin",
+                            "get under way",
+                            "go ahead",
+                            "get going"
+                        ]
+                    },
+                    {
+                        "definition": "Cause to happen or begin.",
+                        "example": "two men started the blaze",
+                        "synonyms": [
+                            "establish",
+                            "set up",
+                            "found",
+                            "lay the foundations of",
+                            "lay the cornerstone of",
+                            "lay the first stone of",
+                            "sow the seeds of",
+                            "create",
+                            "bring into being",
+                            "institute",
+                            "initiate",
+                            "inaugurate",
+                            "introduce",
+                            "open",
+                            "begin",
+                            "launch",
+                            "float",
+                            "kick-start",
+                            "put in place",
+                            "get something off the ground",
+                            "get something going",
+                            "get something moving",
+                            "get something working",
+                            "get something functioning",
+                            "activate",
+                            "originate",
+                            "pioneer",
+                            "organize",
+                            "mastermind",
+                            "embark on",
+                            "make a start on",
+                            "tackle",
+                            "set about"
+                        ]
+                    },
+                    {
+                        "definition": "Jerk or give a small jump from surprise or alarm.",
+                        "example": "‘Oh my!’ she said, starting",
+                        "synonyms": [
+                            "flinch",
+                            "jerk",
+                            "jump",
+                            "twitch",
+                            "recoil",
+                            "shrink",
+                            "blench",
+                            "wince",
+                            "shy"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The point in time or space at which something has its origin; the beginning.",
+                        "example": "he takes over as chief executive at the start of next year",
+                        "synonyms": [
+                            "beginning",
+                            "inception",
+                            "onset",
+                            "emergence",
+                            "appearance",
+                            "first appearance",
+                            "arrival",
+                            "eruption",
+                            "dawn",
+                            "birth"
+                        ]
+                    },
+                    {
+                        "definition": "A sudden movement of surprise or alarm.",
+                        "example": "she awoke with a start",
+                        "synonyms": [
+                            "jerk",
+                            "twitch",
+                            "flinch",
+                            "wince",
+                            "spasm",
+                            "convulsion",
+                            "jump"
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "START",
+        "phonetic": "/stɑːt/",
+        "meanings": [
+            {
+                "partOfSpeech": "abbreviation",
+                "definitions": [
+                    {
+                        "definition": "Strategic Arms Reduction Treaty, an agreement between the US and the Soviet Union to limit and reduce strategic nuclear weapons, first signed in 1991."
+                    }
+                ]
+            }
+        ]
+    }
+]

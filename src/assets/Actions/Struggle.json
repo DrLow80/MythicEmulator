@@ -1,0 +1,54 @@
+[
+    {
+        "word": "struggle",
+        "phonetic": "/ˈstrəɡəl/",
+        "origin": "Late Middle English frequentative, perhaps of imitative origin. The noun dates from the late 17th century.",
+        "meanings": [
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Make forceful or violent efforts to get free of restraint or constriction.",
+                        "example": "before she could struggle, he lifted her up",
+                        "synonyms": [
+                            "fight",
+                            "grapple",
+                            "wrestle",
+                            "scuffle",
+                            "brawl",
+                            "spar",
+                            "exchange blows",
+                            "come to blows"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A forceful or violent effort to get free of restraint or resist attack.",
+                        "example": "there were signs of a struggle and there was a lot of blood around",
+                        "synonyms": [
+                            "fight",
+                            "scuffle",
+                            "brawl",
+                            "tussle",
+                            "wrestling match",
+                            "sparring match",
+                            "wrestling bout",
+                            "bout",
+                            "skirmish",
+                            "fracas",
+                            "melee",
+                            "affray",
+                            "encounter",
+                            "disturbance",
+                            "breach of the peace"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

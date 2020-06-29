@@ -1,0 +1,57 @@
+[
+    {
+        "word": "triumph",
+        "phonetic": "/ˈtrīəmf/",
+        "origin": "Late Middle English from Old French triumphe (noun), from Latin triump(h)us, probably from Greek thriambos ‘hymn to Bacchus’. Current senses of the verb date from the early 16th century.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A great victory or achievement.",
+                        "example": "a garden built to celebrate Napoleon's many triumphs",
+                        "synonyms": [
+                            "victory",
+                            "win",
+                            "conquest",
+                            "success"
+                        ]
+                    },
+                    {
+                        "definition": "The processional entry of a victorious general into ancient Rome.",
+                        "example": "Such was the fate of the Vandal king, Gelimir, paraded through Constantinople in 534 in a procession evoking the triumphs of ancient Rome."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "intransitive verb",
+                "definitions": [
+                    {
+                        "definition": "Achieve a victory; be successful.",
+                        "example": "spectacle has once again triumphed over content",
+                        "synonyms": [
+                            "win",
+                            "succeed",
+                            "be successful",
+                            "come first",
+                            "be the victor",
+                            "be victorious",
+                            "gain a victory",
+                            "carry the day",
+                            "carry all before one",
+                            "prevail",
+                            "take the crown",
+                            "take the honours",
+                            "take the prize",
+                            "come out on top"
+                        ]
+                    },
+                    {
+                        "definition": "(of a Roman general) ride into ancient Rome after a victory.",
+                        "example": "Caesar triumphed at Rome four times in the same month, with a few days between each triumph."
+                    }
+                ]
+            }
+        ]
+    }
+]

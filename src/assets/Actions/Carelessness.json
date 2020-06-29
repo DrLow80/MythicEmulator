@@ -1,0 +1,26 @@
+[
+    {
+        "word": "carelessness",
+        "phonetic": "/ˈkerləsnəs/",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Failure to give sufficient attention to avoiding harm or errors; negligence.",
+                        "example": "most road accidents are caused by carelessness on the part of motorists",
+                        "synonyms": [
+                            "inattention",
+                            "inattentiveness",
+                            "heedlessness",
+                            "thoughtlessness",
+                            "negligence",
+                            "improvidence",
+                            "remissness"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

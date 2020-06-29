@@ -1,0 +1,18 @@
+[
+    {
+        "word": "technology",
+        "phonetic": "/tekˈnäləjē/",
+        "origin": "Early 17th century from Greek tekhnologia ‘systematic treatment’, from tekhnē ‘art, craft’ + -logia (see -logy).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The application of scientific knowledge for practical purposes, especially in industry.",
+                        "example": "advances in computer technology"
+                    }
+                ]
+            }
+        ]
+    }
+]

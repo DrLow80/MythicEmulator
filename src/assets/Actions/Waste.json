@@ -1,0 +1,143 @@
+[
+    {
+        "word": "waste",
+        "phonetic": "/wāst/",
+        "origin": "Middle English from Old Northern French wast(e) (noun), waster (verb), based on Latin vastus ‘unoccupied, uncultivated’.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Use or expend carelessly, extravagantly, or to no purpose.",
+                        "example": "we can't afford to waste electricity",
+                        "synonyms": [
+                            "squander",
+                            "fritter away",
+                            "misspend",
+                            "misuse",
+                            "spend recklessly",
+                            "throw away",
+                            "lavish",
+                            "be wasteful with",
+                            "dissipate",
+                            "spend like water",
+                            "throw around like confetti"
+                        ]
+                    },
+                    {
+                        "definition": "(of a person or a part of the body) become progressively weaker and more emaciated.",
+                        "example": "she was visibly wasting away",
+                        "synonyms": [
+                            "grow weak",
+                            "wither",
+                            "atrophy",
+                            "become emaciated",
+                            "shrivel up",
+                            "shrink",
+                            "decay"
+                        ]
+                    },
+                    {
+                        "definition": "Devastate or ruin (a place)",
+                        "example": "he seized their cattle and wasted their country",
+                        "synonyms": [
+                            "destroy",
+                            "devastate",
+                            "lay waste",
+                            "leave in ruins",
+                            "wreak havoc on",
+                            "ravage",
+                            "leave desolate"
+                        ]
+                    },
+                    {
+                        "definition": "(of time) pass away; be spent."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a material, substance, or byproduct) eliminated or discarded as no longer useful or required after the completion of a process.",
+                        "example": "ensure that waste materials are disposed of responsibly",
+                        "synonyms": [
+                            "unwanted",
+                            "excess",
+                            "superfluous",
+                            "left over",
+                            "scrap",
+                            "extra",
+                            "unused",
+                            "useless",
+                            "worthless"
+                        ]
+                    },
+                    {
+                        "definition": "(of an area of land, typically in a city or town) not used, cultivated, or built on.",
+                        "example": "a patch of waste ground",
+                        "synonyms": [
+                            "uncultivated",
+                            "barren",
+                            "desert",
+                            "unproductive",
+                            "infertile",
+                            "unfruitful",
+                            "arid",
+                            "bare"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An act or instance of using or expending something carelessly, extravagantly, or to no purpose.",
+                        "example": "it's a waste of time trying to argue with him",
+                        "synonyms": [
+                            "squandering",
+                            "dissipation",
+                            "frittering away",
+                            "misspending",
+                            "misuse",
+                            "misapplication",
+                            "misemployment",
+                            "abuse"
+                        ]
+                    },
+                    {
+                        "definition": "Material that is not wanted; the unusable remains or byproducts of something.",
+                        "example": "bodily waste",
+                        "synonyms": [
+                            "rubbish",
+                            "refuse",
+                            "litter",
+                            "debris",
+                            "dross",
+                            "junk",
+                            "detritus",
+                            "scrap"
+                        ]
+                    },
+                    {
+                        "definition": "A large area of barren, typically uninhabited land.",
+                        "example": "the icy wastes of the Antarctic",
+                        "synonyms": [
+                            "desert",
+                            "wasteland",
+                            "wilderness",
+                            "barrenness",
+                            "emptiness",
+                            "vastness",
+                            "wilds"
+                        ]
+                    },
+                    {
+                        "definition": "Damage to an estate caused by an act or by neglect, especially by a life-tenant."
+                    }
+                ]
+            }
+        ]
+    }
+]

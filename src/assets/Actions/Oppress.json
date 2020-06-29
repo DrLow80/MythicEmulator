@@ -1,0 +1,36 @@
+[
+    {
+        "word": "oppress",
+        "phonetic": "/əˈpres/",
+        "origin": "Late Middle English from Old French oppresser, from medieval Latin oppressare, from Latin oppress- ‘pressed against’, from the verb opprimere.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Keep (someone) in subservience and hardship, especially by the unjust exercise of authority.",
+                        "example": "a system that oppressed working people",
+                        "synonyms": [
+                            "persecute",
+                            "abuse",
+                            "maltreat",
+                            "ill-treat",
+                            "treat harshly",
+                            "be brutal to",
+                            "be cruel to",
+                            "tyrannize",
+                            "crush",
+                            "repress",
+                            "suppress",
+                            "subjugate",
+                            "hegemonize",
+                            "subdue",
+                            "subject",
+                            "enslave"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

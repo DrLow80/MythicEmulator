@@ -1,0 +1,34 @@
+[
+    {
+        "word": "violate",
+        "phonetic": "/ˈvīəˌlāt/",
+        "origin": "Late Middle English from Latin violat- ‘treated violently’, from the verb violare.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Break or fail to comply with (a rule or formal agreement)",
+                        "example": "they violated the terms of a ceasefire",
+                        "synonyms": [
+                            "contravene",
+                            "breach",
+                            "commit a breach of",
+                            "infringe",
+                            "infract",
+                            "break",
+                            "transgress",
+                            "overstep",
+                            "not comply with",
+                            "disobey",
+                            "defy",
+                            "flout",
+                            "fly in the face of",
+                            "rebel against"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "word": "rumor",
+        "phonetic": "/ˈro͞omər/",
+        "origin": "Late Middle English from Old French rumur, from Latin rumor ‘noise’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A currently circulating story or report of uncertain or doubtful truth.",
+                        "example": "they were investigating rumors of a massacre",
+                        "synonyms": [
+                            "gossip",
+                            "hearsay",
+                            "talk",
+                            "tittle-tattle"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Be circulated as an unverified account.",
+                        "example": "it's rumored that he lives on a houseboat",
+                        "synonyms": [
+                            "said to be",
+                            "reported to be"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

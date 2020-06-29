@@ -1,0 +1,76 @@
+[
+    {
+        "word": "overthrow",
+        "phonetic": "/ˌōvərˈTHrō/",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Remove forcibly from power.",
+                        "example": "military coups which had attempted to overthrow the King",
+                        "synonyms": [
+                            "remove",
+                            "remove from office",
+                            "remove from power",
+                            "bring down",
+                            "bring about the downfall of",
+                            "topple",
+                            "bring low",
+                            "undo",
+                            "depose",
+                            "oust",
+                            "displace",
+                            "supplant",
+                            "unseat",
+                            "subvert",
+                            "dethrone",
+                            "disestablish",
+                            "dissolve"
+                        ]
+                    },
+                    {
+                        "definition": "Throw (a ball) further or harder than intended.",
+                        "example": "he grips the ball too tight and overthrows it"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A removal from power; a defeat or downfall.",
+                        "example": "plotting the overthrow of the government",
+                        "synonyms": [
+                            "removal",
+                            "removal from office",
+                            "removal from power",
+                            "downfall",
+                            "fall",
+                            "collapse",
+                            "toppling",
+                            "undoing",
+                            "deposition",
+                            "ousting",
+                            "displacement",
+                            "supplanting",
+                            "unseating",
+                            "subversion",
+                            "dethronement",
+                            "disestablishment",
+                            "dissolution"
+                        ]
+                    },
+                    {
+                        "definition": "(in baseball and other games) a throw that sends a ball past its intended recipient or target.",
+                        "example": "His first incompletion was an overthrow of a deep ball that would've made it eight in a row and three touchdowns."
+                    },
+                    {
+                        "definition": "A panel of decorated wrought-iron work above an arch or gateway.",
+                        "example": "The overthrow, particularly popular in the Baroque era commencing in the 17th century, refers to the crowning section of ornamental wrought iron work which forms a decorative crest above a wrought iron gate."
+                    }
+                ]
+            }
+        ]
+    }
+]

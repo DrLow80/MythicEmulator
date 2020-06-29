@@ -1,0 +1,72 @@
+[
+    {
+        "word": "separate",
+        "phonetic": "/ˈsep(ə)rət/",
+        "origin": "Late Middle English from Latin separat- ‘disjoined, divided’, from the verb separare, from se- ‘apart’ + parare ‘prepare’.",
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Forming or viewed as a unit apart or by itself.",
+                        "example": "this raises two separate issues",
+                        "synonyms": [
+                            "unconnected",
+                            "unrelated",
+                            "different",
+                            "discrete",
+                            "distinct",
+                            "disparate"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Cause to move or be apart.",
+                        "example": "police were trying to separate two rioting mobs",
+                        "synonyms": [
+                            "part",
+                            "split",
+                            "split up",
+                            "break up",
+                            "move apart",
+                            "divide"
+                        ]
+                    },
+                    {
+                        "definition": "Divide or cause to divide into constituent or distinct elements.",
+                        "example": "the milk had separated into curds and whey"
+                    },
+                    {
+                        "definition": "Make something form, or view something as, a unit apart or by itself.",
+                        "synonyms": [
+                            "isolate",
+                            "set apart",
+                            "put to one side",
+                            "segregate"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Individual items of clothing, such as skirts, jackets, or pants, suitable for wearing in different combinations.",
+                        "example": "Day wear consists of angular shaped separates that include wide-neck jumpers and half-mast trousers."
+                    },
+                    {
+                        "definition": "The self-contained, freestanding components of a sound-reproduction system."
+                    },
+                    {
+                        "definition": "Portions into which a soil, sediment, etc. can be sorted according to particle size, mineral composition, or other criteria.",
+                        "example": "analysis of mineral separates from six cordierite-bearing strata"
+                    }
+                ]
+            }
+        ]
+    }
+]

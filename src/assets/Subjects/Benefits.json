@@ -1,0 +1,68 @@
+[
+    {
+        "word": "benefit",
+        "phonetic": "/ˈbɛnɪfɪt/",
+        "origin": "Late Middle English (originally denoting a kind deed or something well done): from Old French bienfet, from Latin benefactum ‘good deed’, from bene facere ‘do good (to)’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An advantage or profit gained from something.",
+                        "example": "enjoy the benefits of being a member",
+                        "synonyms": [
+                            "good",
+                            "sake",
+                            "interest",
+                            "welfare",
+                            "well-being",
+                            "satisfaction",
+                            "enjoyment",
+                            "advantage",
+                            "comfort",
+                            "ease",
+                            "convenience"
+                        ]
+                    },
+                    {
+                        "definition": "A payment made by the state or an insurance scheme to someone entitled to receive it.",
+                        "example": "part-time jobs supplemented by means-tested benefits",
+                        "synonyms": [
+                            "social security payments",
+                            "social security",
+                            "state benefit",
+                            "unemployment benefit",
+                            "government benefit",
+                            "benefit payments",
+                            "public assistance allowance",
+                            "welfare",
+                            "insurance money",
+                            "sick pay",
+                            "pension"
+                        ]
+                    },
+                    {
+                        "definition": "An event such as a concert or game that is intended to raise money for a particular player or charity.",
+                        "example": "the social season was highlighted by debutante balls and charity benefits"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Receive an advantage; profit.",
+                        "example": "the areas would benefit from regeneration",
+                        "synonyms": [
+                            "profit",
+                            "gain",
+                            "reap benefits",
+                            "reap financial reward",
+                            "make money"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

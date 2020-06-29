@@ -1,0 +1,79 @@
+[
+    {
+        "word": "trust",
+        "phonetic": "/trəst/",
+        "origin": "Middle English from Old Norse traust, from traustr ‘strong’; the verb from Old Norse treysta, assimilated to the noun.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Firm belief in the reliability, truth, ability, or strength of someone or something.",
+                        "example": "relations have to be built on trust",
+                        "synonyms": [
+                            "confidence",
+                            "belief",
+                            "faith",
+                            "freedom from doubt",
+                            "freedom from suspicion",
+                            "sureness",
+                            "certainty",
+                            "certitude",
+                            "assurance",
+                            "conviction",
+                            "credence",
+                            "reliance"
+                        ]
+                    },
+                    {
+                        "definition": "An arrangement whereby a person (a trustee) holds property as its nominal owner for the good of one or more beneficiaries.",
+                        "example": "a trust was set up",
+                        "synonyms": [
+                            "safe keeping",
+                            "keeping",
+                            "protection",
+                            "charge",
+                            "care",
+                            "custody"
+                        ]
+                    },
+                    {
+                        "definition": "A large company that has or attempts to gain monopolistic control of a market.",
+                        "example": "He would himself use the language of Progressive era reform rhetoric to mold Storrow and those who supported him as men of money, monopolies and trusts."
+                    },
+                    {
+                        "definition": "Commercial credit.",
+                        "example": "my master lived on trust at an alehouse"
+                    },
+                    {
+                        "definition": "A hope or expectation.",
+                        "example": "all the great trusts of womanhood"
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Believe in the reliability, truth, ability, or strength of.",
+                        "example": "I should never have trusted her",
+                        "synonyms": [
+                            "have faith in",
+                            "place one's trust in",
+                            "put one's trust in",
+                            "have confidence in",
+                            "have every confidence in",
+                            "believe in",
+                            "pin one's faith on",
+                            "pin one's hopes on"
+                        ]
+                    },
+                    {
+                        "definition": "Allow credit to (a customer)",
+                        "example": "all persons are forbid to trust sailors"
+                    }
+                ]
+            }
+        ]
+    }
+]

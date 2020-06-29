@@ -1,0 +1,33 @@
+[
+    {
+        "word": "opulence",
+        "phonetic": "/ˈäpyələns/",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Great wealth or luxuriousness.",
+                        "example": "rooms of spectacular opulence",
+                        "synonyms": [
+                            "luxuriousness",
+                            "sumptuousness",
+                            "lavishness",
+                            "richness",
+                            "lushness",
+                            "luxury",
+                            "luxuriance",
+                            "splendour",
+                            "magnificence",
+                            "grandeur",
+                            "splendidness",
+                            "grandiosity",
+                            "costliness",
+                            "fanciness"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

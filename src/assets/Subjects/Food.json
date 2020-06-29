@@ -1,0 +1,27 @@
+[
+    {
+        "word": "food",
+        "phonetic": "/fo͞od/",
+        "origin": "Late Old English fōda, of Germanic origin; related to fodder.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.",
+                        "example": "we need food and water",
+                        "synonyms": [
+                            "nourishment",
+                            "sustenance",
+                            "nutriment",
+                            "subsistence",
+                            "fare",
+                            "bread",
+                            "daily bread"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

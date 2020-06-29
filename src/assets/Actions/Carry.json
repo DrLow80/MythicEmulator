@@ -1,0 +1,116 @@
+[
+    {
+        "word": "carry",
+        "phonetic": "/ˈkerē/",
+        "origin": "Late Middle English from Anglo-Norman French and Old Northern French carier, based on Latin carrus ‘wheeled vehicle’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Support and move (someone or something) from one place to another.",
+                        "example": "medics were carrying a wounded man on a stretcher",
+                        "synonyms": [
+                            "convey",
+                            "transfer",
+                            "move",
+                            "take",
+                            "bring",
+                            "bear",
+                            "shift",
+                            "switch",
+                            "fetch",
+                            "transport"
+                        ]
+                    },
+                    {
+                        "definition": "Support the weight of.",
+                        "example": "the bridge is capable of carrying even the heaviest loads",
+                        "synonyms": [
+                            "support",
+                            "sustain",
+                            "stand",
+                            "prop up",
+                            "shore up",
+                            "bolster",
+                            "underpin",
+                            "buttress"
+                        ]
+                    },
+                    {
+                        "definition": "(of a sound, ball, missile, etc.) reach a certain point.",
+                        "example": "his voice carried clearly across the room",
+                        "synonyms": [
+                            "be audible",
+                            "travel",
+                            "reach",
+                            "be transmitted"
+                        ]
+                    },
+                    {
+                        "definition": "Assume or accept (responsibility or blame)",
+                        "example": "they must carry the responsibility for the mess they have gotten the company into",
+                        "synonyms": [
+                            "undertake",
+                            "accept",
+                            "assume",
+                            "bear",
+                            "shoulder",
+                            "support",
+                            "sustain"
+                        ]
+                    },
+                    {
+                        "definition": "Have as a feature or consequence.",
+                        "example": "being a combat sport, karate carries with it the risk of injury",
+                        "synonyms": [
+                            "entail",
+                            "involve",
+                            "lead to",
+                            "result in",
+                            "occasion",
+                            "have as a consequence",
+                            "have"
+                        ]
+                    },
+                    {
+                        "definition": "Approve (a proposed measure) by a majority of votes.",
+                        "example": "the resolution was carried by a two-to-one majority",
+                        "synonyms": [
+                            "approve",
+                            "vote for",
+                            "accept",
+                            "endorse",
+                            "ratify",
+                            "authorize",
+                            "mandate",
+                            "support",
+                            "back",
+                            "uphold"
+                        ]
+                    },
+                    {
+                        "definition": "Transfer (a figure) to an adjacent column during an arithmetical operation (e.g., when a column of digits adds up to more than ten).",
+                        "example": "If ever you get a sum bigger than 10, then write down the units digit of the sum and remember to carry anything over into your next pair to add."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An act of lifting and transporting something from one place to another.",
+                        "example": "we did a carry of equipment from the camp"
+                    },
+                    {
+                        "definition": "The range of a gun or similar weapon."
+                    },
+                    {
+                        "definition": "The maintenance of an investment position in a securities market, especially with regard to the costs or profits accruing.",
+                        "example": "if other short-term interest rates are higher than the current yield, the bond is said to involve a negative carry"
+                    }
+                ]
+            }
+        ]
+    }
+]

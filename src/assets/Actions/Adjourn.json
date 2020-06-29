@@ -1,0 +1,32 @@
+[
+    {
+        "word": "adjourn",
+        "phonetic": "/əˈjərn/",
+        "origin": "Middle English (in the sense ‘summon someone to appear on a particular day’): from Old French ajorner, from the phrase a jorn (nome) ‘to an (appointed) day’.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Break off (a meeting, legal case, or game) with the intention of resuming it later.",
+                        "example": "the meeting was adjourned until December 4",
+                        "synonyms": [
+                            "end",
+                            "bring to an end",
+                            "come to an end",
+                            "conclude",
+                            "finish",
+                            "terminate",
+                            "wind up",
+                            "break off",
+                            "halt",
+                            "call a halt to",
+                            "discontinue",
+                            "dissolve"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

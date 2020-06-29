@@ -1,0 +1,134 @@
+[
+    {
+        "word": "return",
+        "phonetic": "/rəˈtərn/",
+        "origin": "Middle English the verb from Old French returner, from Latin re- ‘back’ + tornare ‘to turn’; the noun via Anglo-Norman French.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Come or go back to a place or person.",
+                        "example": "he returned to Canada in the fall",
+                        "synonyms": [
+                            "go back",
+                            "come back",
+                            "get back",
+                            "arrive back",
+                            "arrive home",
+                            "come home",
+                            "come again"
+                        ]
+                    },
+                    {
+                        "definition": "Give, put, or send (something) back to a place or person.",
+                        "example": "complete the application form and return it to this address",
+                        "synonyms": [
+                            "give back",
+                            "send back",
+                            "hand back",
+                            "take back",
+                            "carry back"
+                        ]
+                    },
+                    {
+                        "definition": "Yield or make (a profit)",
+                        "example": "the company returned a profit of 4.3 million dollars",
+                        "synonyms": [
+                            "yield",
+                            "bring in",
+                            "earn",
+                            "make",
+                            "realize",
+                            "secure",
+                            "net",
+                            "gross",
+                            "clear",
+                            "pay out",
+                            "fetch",
+                            "pocket"
+                        ]
+                    },
+                    {
+                        "definition": "(of an electorate) elect (a person or party) to office.",
+                        "example": "the Democrat was returned in the third district",
+                        "synonyms": [
+                            "elect",
+                            "vote in",
+                            "put in power",
+                            "choose",
+                            "opt for",
+                            "select",
+                            "pick",
+                            "adopt"
+                        ]
+                    },
+                    {
+                        "definition": "Continue (a wall) in a changed direction, especially at right angles."
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An act of coming or going back to a place or activity.",
+                        "example": "he celebrated his safe return from the war",
+                        "synonyms": [
+                            "homecoming",
+                            "travel back"
+                        ]
+                    },
+                    {
+                        "definition": "A profit from an investment.",
+                        "example": "product areas are being developed to produce maximum returns",
+                        "synonyms": [
+                            "yield",
+                            "profit",
+                            "returns",
+                            "gain",
+                            "income",
+                            "revenue",
+                            "interest",
+                            "dividend",
+                            "percentage"
+                        ]
+                    },
+                    {
+                        "definition": "An official report or statement submitted in response to a formal demand.",
+                        "example": "census returns",
+                        "synonyms": [
+                            "statement",
+                            "report",
+                            "submission",
+                            "account",
+                            "paper",
+                            "record",
+                            "file",
+                            "dossier",
+                            "write-up",
+                            "data",
+                            "information",
+                            "log",
+                            "journal",
+                            "diary",
+                            "register",
+                            "summary"
+                        ]
+                    },
+                    {
+                        "definition": "Election to office.",
+                        "example": "we campaigned for the return of Young and Elkins"
+                    },
+                    {
+                        "definition": "A key pressed to move the carriage of an electric typewriter back to a fixed position.A key pressed on a computer keyboard to simulate a carriage return in a word-processing program, or to indicate the end of a command or data string."
+                    },
+                    {
+                        "definition": "A part receding from the line of the front, for example the side of a house or of a window opening.",
+                        "example": "The master bedroom is off the first floor return which has a window that overlooks the River Suir."
+                    }
+                ]
+            }
+        ]
+    }
+]

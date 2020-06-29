@@ -1,0 +1,68 @@
+[
+    {
+        "word": "praise",
+        "phonetic": "/prāz/",
+        "origin": "Middle English (also in the sense ‘set a price on, attach value to’): from Old French preisier ‘to prize, praise’, from late Latin pretiare, from Latin pretium ‘price’. Compare with prize.",
+        "meanings": [
+            {
+                "partOfSpeech": "transitive verb",
+                "definitions": [
+                    {
+                        "definition": "Express warm approval or admiration of.",
+                        "example": "we can't praise Chris enough—he did a brilliant job",
+                        "synonyms": [
+                            "commend",
+                            "express approval of",
+                            "express admiration for",
+                            "applaud",
+                            "pay tribute to",
+                            "speak highly of",
+                            "eulogize",
+                            "compliment",
+                            "congratulate",
+                            "celebrate",
+                            "sing the praises of",
+                            "praise to the skies",
+                            "rave about",
+                            "go into raptures about",
+                            "heap praise on",
+                            "wax lyrical about",
+                            "say nice things about",
+                            "make much of",
+                            "pat on the back",
+                            "take one's hat off to",
+                            "throw bouquets at",
+                            "lionize",
+                            "admire",
+                            "hail",
+                            "cheer",
+                            "flatter"
+                        ]
+                    }
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The expression of approval or admiration for someone or something.",
+                        "example": "the audience was full of praise for the whole production",
+                        "synonyms": [
+                            "approval",
+                            "acclaim",
+                            "admiration",
+                            "approbation",
+                            "acclamation",
+                            "plaudits",
+                            "congratulations",
+                            "commendation",
+                            "applause",
+                            "flattery",
+                            "adulation"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

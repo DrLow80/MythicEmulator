@@ -1,0 +1,27 @@
+[
+    {
+        "word": "vengeance",
+        "phonetic": "/ˈvenjəns/",
+        "origin": "Middle English from Old French, from venger, vengier ‘avenge’, from Latin vindicare ‘vindicate’.",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Punishment inflicted or retribution exacted for an injury or wrong.",
+                        "example": "voters are ready to wreak vengeance on all politicians",
+                        "synonyms": [
+                            "revenge",
+                            "avengement",
+                            "retribution",
+                            "retributive justice",
+                            "retaliation",
+                            "requital",
+                            "reprisal"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

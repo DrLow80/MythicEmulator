@@ -1,0 +1,52 @@
+[
+    {
+        "word": "refuse",
+        "phonetic": "/rəˈfyo͞oz/",
+        "origin": "Middle English from Old French refuser, probably an alteration of Latin recusare ‘to refuse’, influenced by refutare ‘refute’.",
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "Indicate or show that one is not willing to do something.",
+                        "example": "I refused to answer"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "word": "refuse",
+        "phonetic": "/rəˈfjuz/",
+        "origin": "Late Middle English perhaps from Old French refusé ‘refused’, past participle of refuser (see refuse).",
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Matter thrown away or rejected as worthless; trash.",
+                        "example": "heaps of refuse",
+                        "synonyms": [
+                            "rubbish",
+                            "waste",
+                            "debris",
+                            "litter",
+                            "garbage",
+                            "discarded matter",
+                            "detritus",
+                            "dross",
+                            "landfill",
+                            "scrap",
+                            "rubble",
+                            "slag",
+                            "spoilage",
+                            "sullage",
+                            "sewage",
+                            "slop"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
